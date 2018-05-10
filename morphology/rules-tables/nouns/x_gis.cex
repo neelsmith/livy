@@ -1,0 +1,16 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
+
+plinynouninfl.x_gis1#x_gis#x#fem#nom#sg
+plinynouninfl.x_gis2#x_gis#gis#fem#gen#sg
+plinynouninfl.x_gis3#x_gis#gi#fem#dat#sg
+plinynouninfl.x_gis4#x_gis#gem#fem#acc#sg
+plinynouninfl.x_gis5#x_gis#ge#fem#abl#sg
+plinynouninfl.x_gis6#x_gis#x#fem#voc#sg
+
+
+plinynouninfl.x_gis7#x_gis#ges#fem#nom#pl
+plinynouninfl.x_gis8#x_gis#gum#fem#gen#pl
+plinynouninfl.x_gis9#x_gis#gibus#fem#dat#pl
+plinynouninfl.x_gis10#x_gis#ges#fem#acc#pl
+plinynouninfl.x_gis11#x_gis#gibus#fem#abl#pl
+plinynouninfl.x_gis12#x_gis#ges#fem#voc#pl

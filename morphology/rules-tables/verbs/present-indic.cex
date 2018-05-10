@@ -1,0 +1,7 @@
+RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
+lverbinfl.are_presind1#are_vb#o#1st#sg#pres#indic#act
+lverbinfl.are_presind2#are_vb#as#2nd#sg#pres#indic#act
+lverbinfl.are_presind3#are_vb#at#3rd#sg#pres#indic#act
+lverbinfl.are_presind4#are_vb#amus#1st#pl#pres#indic#act
+lverbinfl.are_presind5#are_vb#atis#2nd#pl#pres#indic#act
+lverbinfl.are_presind6#are_vb#ant#3rd#pl#pres#indic#act

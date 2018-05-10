@@ -1,0 +1,16 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
+
+lnouninfl.ius_i1#ius_i#ius#neut#nom#sg
+lnouninfl.ius_i2#ius_i#i#neut#gen#sg
+lnouninfl.ius_i3#ius_i#io#neut#dat#sg
+lnouninfl.ius_i4#ius_i#ium#neut#acc#sg
+lnouninfl.ius_i5#ius_i#io#neut#abl#sg
+lnouninfl.ius_i6#ius_i#ium#neut#voc#sg
+
+
+lnouninfl.ius_i7#ius_i#ia#neut#nom#pl
+lnouninfl.ius_i8#ius_i#iorum#neut#gen#pl
+lnouninfl.ius_i9#ius_i#iis#neut#dat#pl
+lnouninfl.ius_i10#ius_i#ia#neut#acc#pl
+lnouninfl.ius_i11#ius_i#iis#neut#abl#pl
+lnouninfl.ius_i12#ius_i#ia#neut#voc#pl
