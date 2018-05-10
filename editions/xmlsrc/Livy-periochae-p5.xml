@@ -1,0 +1,2499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished XML edition TEI P5 markup.</p>
+      </publicationStmt>
+      <sourceDesc>
+      	<p>Derived from edition in the Latin Library: http://www.thelatinlibrary.com/livy/liv.per.shtml</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+	<text>
+		<body>
+			<div
+				n="1">
+				<head>Periocha I</head>
+				<p>[A.] Adventus Aeneae in Italiam et res gestae. Ascani regnum Albae et deinceps Silviorum.
+					Numitoris filia a Marte compressa nati Romulus et Remus. Amulius obtruncatus. Urbs a Romulo
+					condita. Senatus lectus. Cum Sabinis bellatum. Spolia opima Feretrio Iovi lata. In curias
+					populus divisus. Fidenates, Veientes victi. Romulus consecratus. Numa Pompilius ritus sacrorum
+					tradidit. Porta Iani clausa. </p>
+				<p> Tullus Hostilius Albanos diripuit. Trigeminorum pugna. Metti Fufeti supplicium. Tullus
+					fulmine consumptus. Ancus Marcius Latinos devicit, Ostiam condidit. </p>
+				<p> Tarquinius Priscus Latinos superavit, circum fecit, finitimos devicit, muros et cloacas
+					fecit. </p>
+				<p> Servio Tullio caput arsit. Servius Tullius Veientes devicit et populum in classes divisit,
+					aedem Dianae dedicavit. </p>
+				<p> Tarquinius Superbus occiso Tullio regnum invasit. Tulliae scelus in patrem. Turnus Herdonius
+					per Tarquinium occisus. Bellum cum Vulscis. Fraude Sex. Tarquini Gabi direpti. Capitolium
+					inchoatum. Termonis et Iuventae arae moveri non potuerunt. Lucretia se occidit. Superbi
+					expulsio. Regnatum est annis CCLV </p>
+				<p>[B.] Latinis victis montem Aventinum adsignavit, fines protulit, Hostiam coloniam deduxit,
+					caerimonias a Numa institutas renovavit.</p>
+				<p> Hic temptandae scientiae Atti Navi auguris causa fertur consuluisse eum, an id de quo
+					cogitaret effici posset; quod cum ille fieri posse dixisset, iussisse eum novacula cotem
+					praecidere, idque ab Atto protinus factum. [Regnavit annis XXIIII. Eo regnante Lucumo, Demarati
+					Corinthi filius, a Tarquinis, Etrusca civitate, Romam venit et in amicitiam Anci receptus
+					Tarquini Prisci nomen ferre coepit et post mortem Anci regnum excepit. Centum in patres
+					allegit, Latinos subegit, ludos in circo edidit, equitum centurias ampliavit, urbem muro
+					circumdedit, cloacas fecit.] Occisus est ab Anci filiis, cum regnasset annis XXXVIII. Successit
+					ei Servius Tullius, natus ex captiva nobili Corniculana, cui puero athuc in cunis posito caput
+					arsisse traditum erat. Is censum primum egit, lustrum condidit, quo censa LXXX milia esse
+					dicuntur, pomerium protulit, colles urbi adiecit Quirinalem, Viminalem, Aesquilinum, templum
+					Dianae cum Latinis in Aventino fecit. Interfectus est a Lucio Tarquinio, Prisci filio, consilio
+					filiae suae Tulliae, cum regnasset annis XLIIII. Post hunc L. Tarquinius Superbus neque patrum
+					neque populi iussu regnum invasit. Is armatos circa se in custodiam sui habuit. Bellum cum
+					Vulscis gessit et ex spoliis eorum templum in Capitolio Iovi fecit. Gabios dolo in potestatem
+					suam redegit. Huius filiis Delphos profectis et consulentibus quis eorum Romae regnaturus
+					esset, dictum est eum regnaturum qui primum matrem osculatus esset. Quod responsum cum ipsi
+					aliter interpretarentur, Iunius Brutus, qui cum his profectus erat, prolapsum se simulavit et
+					terram osculatus est; idque factum eius eventus conprobavit. Nam cum inpotenter se gerendo
+					Tarquinius Superbus omnes in odium sui adduxisset, ad ultimum propter expugnatam nocturna vi a
+					Sexto filio eius Lucretiae pudicitiam, quae ad se vocato patre Tricipitino et viro Collatino
+					obtestata ne inulta mora eius esset cultro se interfecit, Bruti opera maxime expulsus est, cum
+					regnasset annos XXV. Tum consules primi creati sunt L. Iunius Brutus L. Tarquinius Collatinus.
+				</p>
+			</div>
+			<div
+				n="2">
+				<head>Periocha II</head>
+				<p>Brutus iureiurando populum adstrinxit neminem Romae regnare passuros. Tarquinium Collatinum
+					collegam suum propter adfinitatem Tarquiniorum suspectum coegit consulatu se abdicare et
+					civitate cedere. Bona regum diripi iussit, agrum Marti consecravit, qui campus Martius
+					nominatus est. Adulescentes nobiles, in quibus suos quoque et fratris filios, quia
+					coniuraverant de recipiendis regibus, securi percussit. Servo indici, cui Vindicio nomen fuit,
+					libertatem dedit; ei cuius nomine vindicta appellata. </p>
+				<p>Cum adversus reges, qui contractis Veientum et Tarquiniensium copiis bellum intulerant,
+					exercitum duxisset, in acie curn Arrunte filio Superbi commortuus est; eumque matronae anno
+					luxerunt. P. Valerius consul legem de provocatione ad populum tulit. Capitolium dedicatum est. </p>
+				<p>Porsenna, Clusinorum rex, bello pro Tarquinis suscepto cum ad Ianiculum venisset, ne Tiberim
+					transiret virtute Coclitis Horati prohibitus est, qui, dum alii pontem Sublicium rescindunt,
+					solus Etruscos sustinuit et ponte rupto armatus in flumen se misit et ad suos transnavit.
+					Accessit alterum virtutis exemplum in Mucio. Qui cum ad feriendum Porsennam castra hostium
+					intrasset, occiso scriba, quem regem esse existimaverat, conprehensus inpositam manum
+					altaribus, in quibus sacrificatum erat, exuri passus est dixitque tales CCC esse. Quorum
+					admiratione coactus Porsenna pacis condiciones ferre bellum omisit acceptis obsidibus. Ex
+					quibus virgo una Cloelia deceptis custodibus per Tiberim ad suos transnavit et cum reddita
+					esset, a Porsenna honorifice remissa equestri statua donata est. </p>
+				<p>Adversus Tarquinium Superbum cum Latinorum exercitu bellum inferentem Aulus Postumius
+					dictator prospere pugnavit.</p>
+				<p>Appius Claudius ex Sabinis Romam transfugit. Ob hoc Claudia tribus adiecta est numerusque
+					tribuum ampliatus est, ut essent XXI. </p>
+				<p>Plebs cum propter nexos ob aes alienum in Sacrum montem secessisset, consilio Meneni Agrippae
+					a seditione revocata eat. Idem Agrippa cum decessisset, propter paupertatem publico inpendio
+					elatus est. Tribuni plebis quinque creati sunt. </p>
+				<p>Oppidum Vulscorum Corioli captum est virtute et opera Cn. Marci, qui ob hoc Coriolanus
+					vocatus est. </p>
+				<p>T. Latinius, vir de plebe, cum in visu admonitus ut de quibusdam religionibus ad senatum
+					perferret id neglexisset, amisso filio pedibus debilis factus, postquam delatus ad senatum
+					lectica eadem illa indicaverat, usu pedum recepto domum reversus est. </p>
+				<p>Cum Cn. Marcius Coriolanus, qui in exilium erat pulsus, dux Vulacorum factus exercitum
+					hostium urbi admovisset, et missi ad eum primum legati, postea sacerdotes frustra deprecati
+					essent ne bellum patriae inferret, Veturia mater et Volumnia uxor impetraverunt ab eo, ut
+					recederet. </p>
+				<p>Lex agraria primum lata est.</p>
+				<p>Spurius Csssius consularis regni crimine damnatus est necatusque. </p>
+				<p>Opillia virgo Vestalis ob incestum viva defossa est. </p>
+				<p>Cum vicini Veientes incommodi magis quam graves essent, familia Fabiorum id bellum gerendum
+					depoposcit misitque in id trecentos et sex armatos, qui ad Cremeram praeter unum ab hostibus
+					caesi sunt. </p>
+				<p>Appius Claudius cos. cum adversus Vulscos contumacia exercitus male pugnatum esset, decimum
+					quemque militum fuste percussit. </p>
+				<p> Res praeterea adversus Vulscos et Hernicos et Veientes et seditiones inter patres plebemque
+					continet.</p>
+			</div>
+			<div
+				n="3">
+				<head>Periocha III</head>
+				<p>Seditiones de agrariis legibus fuere. Capitolium ab exulibus et servis occupatum caesis his
+					receptum est. </p>
+				<p>Census bis actus est. Priore lustro censa sunt civium capita +VIII milia DCCXIIII+ praeter
+					orbos orbasque, sequenti CXVII milia CCXVIIII. </p>
+				<p>Cum adversus Aequos male gesta res esset, L. Quintius Cincinnatus dictator factus, cum rure
+					intentus operi rustico esset, ad id bellum gerendum arcessitus est. Is victos hostes sub iugum
+					misit. </p>
+				<p>Tribunorum plebis numerus ampliatus est, ut essent X, tricesimo sexto anno [a] primis
+					tribunis plebis. </p>
+				<p>Petitis per legatos et adlatis Atticis legibus ad constituendas eas proponendasque X viri pro
+					consulibus sine ullis aliis magistratibus creati altero et trecentesimo anno quam Roma condita
+					erat, et ut a regibus ad consules, ita a consulibus ad X viros imperium translatum. Hi X
+					tabulis legum positis cum modeste se in eo honore gessissent et ob id in alterum quoque annum
+					eundem esse magistratum placuisset, duabus tabulis ad X adiectis cum complura inpotenter
+					fecissent, magistratum noluerunt deponere et in tertium annum retinuerunt, donec inviso eorum
+					imperio finem adtulit libido Appi Claudi. Qui cum in amorem Virginiae virginis incidisset,
+					summisso, qui eam in servitutem peteret, necessitatem patri eius Virginio inposuit. Rapto ex
+					taberna proxima cultro filiam occidit, cum aliter effici non posset ne in potestatem stuprum
+					inlaturi veniret. Hoc tam magnae iniuriae exemplo pleps concitata montem Aventinum occupavit
+					coegitque X viros abdicare se magistratu. Ex quibus Appius, qui praecipuam poenam meruerat, in
+					carcerem coniectus est; ceteri in exilium acti. </p>
+				<p>Res praeterea contra Sabinos et Vulscos prospere gestas continet et parum honestum populi
+					Romani indicium, qui iudex inter Ardeates et Aricinos sumptus agrum de quo ambigebatur sibi
+					adiudicavit. </p>
+			</div>
+			<div
+				n="4">
+				<head>Periocha IV</head>
+				<p> Lex de conubio patrum et plebis a tribunis contentione magna patribus repugnantibus perlata
+					est. </p>
+				<p>Tribuni * * * plebis. </p>
+				<p>Aliquot annos res populi R. domi militiaeque per hoc genus magistratus administratae sunt.
+					Item censores tunc primum creati sunt. </p>
+				<p>Ager Ardeatibus populi iudicio ablatus missis in eum colonis restitutus est. </p>
+				<p>Cum fame populus R. laboraret, Sp. Maelius eques R. frumentum populo sua inpensa largitus est
+					et ob hoc factum conciliata sibi plebe regnum adfectans a C. Servilio Ahala magistro equitum
+					iussu Quinti Cincinnati dictatoris occisus est; L. Minucius index bove aurata donatus est. </p>
+				<p>Legatis Romanorum a Fidenatibus occisis, quoniam ob rem p. morte occubuerant, statuae in
+					rostris positae sunt. </p>
+				<p>Cossus Cornelius tribunus militum occisoTolumnio, Veientum rege, opima spolia secunda
+					rettulit. </p>
+				<p>Mam. Aemilius dictator censurae honorem qui antea per quinquennium gerebatur, anni et sex
+					mensum spatio finit; ob eam rem a censoribus notatus est. </p>
+				<p>Fidenae in potestatom redactae eoque coloni missi sunt; quibus occisis Fidenates cum
+					defecissent, ab Mam. Aemilio dictatore victi sunt et Fidenae captae. </p>
+				<p>Coniuratio servorum oppressa est. </p>
+				<p>Postumius tribunus militum propter crudelitatem ab exercitu occisus est. </p>
+				<p>Stipendium ex aerario tum primum militibus datum est. </p>
+				<p>Res praeterea gestas adversus Vulscos at Fidenates et Faliscos continet. </p>
+			</div>
+			<div
+				n="5">
+				<head>Periocha V</head>
+				<p>In obsidione Veiorum tabernacula militibus facta sunt. Ea res cum essetnoua, indignationem
+					tribunorum plebis mouit querentium non dari plebi, necper hiemem, militiae requiem. </p>
+				<p>Equites tum primum equis suis mereri coeperunt. </p>
+				<p>Cum inundatio ex lacu Albano facta esset, uates qui eam rem interpretaretur ex hostibus
+					captus est. </p>
+				<p>Furius Camillus dictator X annis obsessos Veios cepit, simulacrum IunonisRomam transtulit,
+					decimam praedae Delphos Apollini misit. Idem tribunusmilitum cum Faliscos obsideret, proditos
+					hostium filios parentibus remisitstatimque deditione facta Faliscorum uictoriam iustitia
+					consecutus est.Cum alter ex censoribus C. Iulius decessisset, in locum eius M.
+					Corneliussuffectus est. Nec id postea factum est, quoniam eo lustro a Gallis Romacapta est. </p>
+				<p>Furius Camillus, cum dies ei ab L. Apuleio tribuno pl. dicta esset, inexilium abiit. </p>
+				<p>Cum Galli Senones Clusium obsiderent et legati a senatu missi adcomponendam inter eos et
+					Clusinos pacem pugnantes contra Gallos starent inacie Clusinorum, hoc facto eorum concitati
+					Senones urbem infesto exercitupetierunt fusisque ad Aliam Romanis cepere urbem praeter
+					Capitolium, quo seiuuentus contulerat ; maiores natu cum insignibus honorum, quos
+					quisquegesserat, in uestibulis aedium sedentes occiderunt. Et cum per auersampartem Capitoli
+					iam in summum euasissent, proditi clangore anserum M. Manlipraecipue opera deiecti sunt.
+					Coactis deinde propter famem Romanisdescendere, ut M pondo auri darent et hoc pretio finem
+					obsidionis emerent,Furius Camillus, dictator absens creatus, inter ipsum conloquium, quo
+					depacis condicionibus agebatur, cum exercitu uenit et Gallos post sextummensem urbe expulit
+					ceciditque. </p>
+				<p>Dictum est ad Veios migrandum esse propter incensam et dirutam urbem, quodconsilium Camillo
+					auctore discussum est. Mouit populum uocis quoque omen excenturione auditae, qui cum in forum
+					uenisset, manipularibus suis dixerat :"Sta, miles, hic optime manebimus !". </p>
+				<p>Aedis Ioui Capitolino facta est, quod ante urbem captam uox audita erataduentare Gallos.</p>
+			</div>
+			<div
+				n="6">
+				<head>Periocha VI</head>
+				<p>Res aduersus Vulscos et Aequos et Praenestinos prospere gestas continet. </p>
+				<p> Quattuor tribus adiectae sunt, Stellatina, Tromentina, Sabatina, Arniensis.M. Manlius, qui
+					Capitolium a Gallis defenderat, cum obstrictos aere alienoliberaret, nexos exsolueret, crimine
+					adfectati regni damnatus de Saxodeiectus est. In cuius notam S. C. factum est, ne cui de Manlia
+					gente Marconomen esset. </p>
+				<p> C. Licinius et L. Sextius tribuni pl. legem promulgauerunt, ut consules explebe fierent, qui
+					ex patribus creabantur, eamque cum magna contentionerepugnantibus patribus, cum idem tribuni
+					pl. per quinquennium solimagistratus fuissent, pertulerunt ; et primus ex plebe consul L.
+					Sextiuscreatus est. </p>
+				<p> Lata est et altera lex, ne cui plus quingentis iugeribus agri liceretpossidere. </p>
+			</div>
+			<div
+				n="7">
+				<head>Periocha VII</head>
+				<p> Duo noui magistratus adiecti sunt, praetura et curulis aedilitas.Pestilentia ciuitas
+					laborauit eamque insignem fecit mors Furi Camilli.Cuius remedium et finis cum per nouas
+					religiones quaereretur, ludi scaenicitunc primum facti sunt. </p>
+				<p>Cum dies L. Manlio dicta esset a M. Pomponio tribuno pl. propter dilectumacerbe actum et T.
+					Manlium filium rus relegatum sine ullo crimine,adulescens ipse, cuius relegatio patri
+					obiciebatur, uenit in cubiculumtribuni strictoque gladio coegit eum in uerba sua iurare se
+					nonperseueraturum in accusatione. </p>
+				<p>Tunc omnia pretiosa missa sunt in praealtam uoraginem urbis Romanae. In eamCurtius armatus
+					sedens equo praecipitauit ; et expleta est.T. Manlius adulescens, qui patrem a tribunicia
+					uexatione uindicauerat,contra Gallum prouocantem aliquem ex militibus Romanis in
+					singularecertamen descendit eique occiso torquem aureum detraxit, quem ipse posteatulit, et ex
+					eo Torquatus uocatus est. </p>
+				<p>Duae tribus adiectae, Pomptina et Publilia. Licinius Stolo lege latadamnatus est, quod plus
+					quingentis iugeribus agri possideret.M. Valerius tribunus militum Gallum, a quo prouocatus
+					erat, insidentegaleae coruo et unguibus rostroque hostem infestante occidit et ex eo Coruinomen
+					accepit, consulque proximo anno, cum annos XXIII haberet, ob uirtutemcreatus est. </p>
+				<p>Amicitia cum Carthaginiensibus iuncta est. </p>
+				<p>Campani cum a Samnitibus bello urgerentur, auxilio aduersus eos a senatupetito, cum id non
+					impetrarent, urbem et agros populo R. dediderunt. Obquam causam ea, quae populi R. facta
+					essent, defendi bello aduersusSamnites placuit. Cum ab Aulo Cornelio cos. exercitus in locum
+					iniquumdeductus in magno discrimine esset, P. Deci Muris tribuni militum operaseruatus est. Qui
+					occupato colle super id iugum, in quo Samnitesconsederant, occasionem consuli in aequiorem
+					locum euadendi dedit ; ipse abhostibus circumsessus erupit. Cum milites Romani, qui Capuae in
+					praesidiorelicti erant, de occupanda ea urbe conspirassent et detecto consilio metusupplici a
+					populo R. defecissent, per M. Valerium Coruum dictatorem, quiconsilio suo eos a furore
+					reuocauerat, patriae restituti sunt. </p>
+				<p>Res praeterea contra Hernicos et Gallos et Tiburtes et Priuernates etTarquinienses et
+					Samnites et Vulscos prospere gestas continet. </p>
+			</div>
+			<div
+				n="8">
+				<head>Periocha VIII</head>
+				<p>Latini cum Campania defecere et missis legatis ad senatum condicionem tulerunt ut si pacem
+					habere vellent alterum ex Latinis consulem facerent. Qua legatione perlata praetor eorum Annius
+					de Capitolio ita lapsus est ut exanimaretur. </p>
+				<p>T. Manlius consul filium, quod contra edictum eius adversus Latinos pugnaverat, quamvis
+					prospere pugnasset, securi percussit. Laborantibus in acie Romanis P. Decius, tunc consul cum
+					Manlio, devovit se pro exercitu, et concitato equo cum in medios hostes se intulisset,
+					interfectus morte sua Romanis victoriam restituit. Latini in deditionem venerunt. T. Manlio in
+					urbem reverso nemo ex iuventute obviam processit. </p>
+				<p>Minucia virgo Vestalis incesti damnata est. </p>
+				<p>Ausonibus victis et oppido ex is capto Cales item Fregellae coloniae deductae sunt. </p>
+				<p>Veneficium complurium matronarum deprehensum est, ex quibus plurimae statim epotis
+					medicaminibus perierunt. Lex de veneficio tunc primum constituta est. </p>
+				<p>Privernatibus, cum bellassent, victis civitas data est. Neapolitani bello et obsidione victi
+					in deditionem venerunt. Q. Publilio, qui eos obsederat, primo et imperium prolatum est et pro
+					cos. triumphus decretus. </p>
+				<p>Plebs nexu liberata est propter L. Papiri creditoris libidinem, qui C. Publilio debitori suo
+					stuprum inferre voluerat. </p>
+				<p> Cum L. Papirius Cursor dictator reversus in urbem ab exercitu esset propter auspicia
+					repetenda, Q. Fabius magister equitum, occasione bene gerendae rei invitatus, contra edictum
+					eius prospere adversus Samnites pugnavit. Ob eam causam cum dictator de magistro equitum
+					supplicium sumpturus videretur, Fabius Romam profugit, et cum parum causa proficeret, populi
+					precibus donatus est. </p>
+				<p>Res praeterea contra Samnites prospere gestas continet. </p>
+			</div>
+			<div
+				n="9">
+				<head>Periocha IX</head>
+				<p>T. Veturius Spurius Postumius coss. apud furcas Caudinas deducto in locum artum exercitu, cum
+					spes nulla esset evadendi, foedere cum Samnitibus facto et sescentis equitibus Romanis
+					obsidibus datis ita exercitum abduxerunt ut omnes sub iugum mitterentur; idemque auctore Spurio
+					Postumio cos. qui in senatu suaserat ut eorum deditione quorum culpa tam deforme foedus ictum
+					erat, publica fides liberaretur, cum duobus trib. pl. et omnibus qui foedus spoponderant dediti
+					Samnitibus non sunt recepti. Nec multo post fusis a Papirio Cursore Samnitibus et sub iugum
+					missis receptisque sescentis equitibus Romanis qui obsides dati erant, pudor flagitii prioris
+					abolitus est. </p>
+				<p>Tribus duae adiectae sunt, Oufentina et Falerna. Suessa et Pontia coloniae deductae sunt. </p>
+				<p>Ap. Claudius censor aquam perduxit; viam stravit quae Appia vocata est, libertinorum filios
+					in senatum legit. Ideoque, quoniam is ordo indignis inquinatus videbatur, sequentis anni coss.
+					senatum observaverunt, quem ad modum ante proximos censores fuerat. </p>
+				<p>Res praeterea contra Apulos et Etruscos et Umbros et Marsos et Paelignos et Aequos et
+					Samnites, quibus foedus restitutum est, prospere gestas continet. </p>
+				<p>Cn. Flavius scriba, libertino patre natus, aedilis curulis fuit per forensem factionem
+					creatus, quae, cum comitia et campum turbaret et in his propter nimias vires dominaretur, a Q.
+					Fabio censore in quattuor tribus redacta est, quas urbanas appellavit; eaque res Fabio Maximo
+					nomen dedit. </p>
+				<p>In hoc libro mentionem habet Alexandri, qui temporibus his fuit, et aestimatis populi R.
+					viribus, quae tunc erant, colligit si Alexander in Italiam traiecisset, non tam ei victoriam de
+					populo Romano fore quam de iis gentibus quas ad orientem imperio suo subiecerat. </p>
+				<p>Res praeterea contra Samnites prospere gestas continet. </p>
+			</div>
+			<div
+				n="10">
+				<head>Periocha X</head>
+				<p> Coloniae deductae sunt Sora et Alba et Carsioli.Marsi in deditionem accepti sunt. Collegium
+					augurum ampliatum est, ut essent nouem, cum antea quaternifuissent. </p>
+				<p> Lex de prouocatione ad populum a Murena cos. tertio tunc lata est.Duae tribus adiectae sunt,
+					Aniensis et Terentina. </p>
+				<p> Samnitibus bellum indictum est et aduersus eos saepe prospere pugnatum est. </p>
+				<p> Cum aduersus Etruscos, Vmbros, Samnites, Gallos, P. Decio et Q. Fabioducibus pugnaretur et
+					Romanus exercitus in magno discrimine esset, P.Decius, secutus patris exemplum, deuouit se pro
+					exercitu et morte suauictoriam eius pugnae populo R. dedit. </p>
+				<p> Papirius Cursor Samnitium exercitum, qui de iureiurando obstrictus quomaiore constantia
+					uirtutis pugnaret, in aciem descenderat, fudit.</p>
+				<p> Census actus est, lustrum conditum. Censa sunt ciuium capita CCLXXII miliaet CCCXX. </p>
+			</div>
+			<div
+				n="11">
+				<head>Periocha XI</head>
+				<p>Cum Fabius Gurges cos. male adversus Samnites pugnasset et senatus de removendo eo ab
+					exercitu ageret, Fabius Maximus pater deprecatus hanc fili ignominiam eo maxime senatum movit
+					quod iturum se filio legatum pollicitus est, idque praestitit. Eius consiliis et opera filius
+					consul adiutus caesis Samnitibus triumphavit; C. Pontium, imperatorem Samnitium, ductum in
+					triumpho, securi percussit. </p>
+				<p> Cum pestilentia civitas laboraret, missi legati ut Aesculapi signum Romam ab Epidauro
+					transferrent, anguem, qui se in navem eorum contulerat in quo ipsum numen esse constabat,
+					deportaverunt; eoque in insulam Tiberis egresso eodem loco aedis Aesculapio constituta est. </p>
+				<p> L. Postumius consularis, quoniam, cum exercitui praeesset, opera militum in agro suo usus
+					erat, damnatus est. </p>
+				<p> Pacem petentibus Samnitibus foedus quarto renovatum est. </p>
+				<p> Curius Dentatus cos. Samnitibus caesis et Sabinis, qui rebellaverant, victis et in
+					deditionem acceptis bis in eodem magistratu triumphavit. </p>
+				<p> Coloniae deductae sunt Castrum Sena Hadria. </p>
+				<p> Triumviri capitales tunc primum creati sunt. </p>
+				<p> Censu acto lustrum conditum est. Censa sunt civium capita | CCLXXII |. </p>
+				<p> Plebs propter aes alienum post graves et longas seditiones ad ultimum secessit in Ianiculum,
+					unde a Q. Hortensio dictatore deducta est; isque in ipso magistratu decessit.</p>
+				<p> Res praeterea contra Vulsinienses gestas continet, item adversus Lucanos, contra quos
+					auxilium Thurinis ferre placuerat. </p>
+			</div>
+			<div
+				n="12">
+				<head>Periocha XII</head>
+				<p>Cum legati Romanorum a Gallis Senonibus interfecti essent, bello ob idGallis indicto, L.
+					Caecilius praetor ab his cum legionibus caesus est. </p>
+				<p>Cum a Tarentinis classis Romana direpta esset, IIuiro, qui praeerat classi,occiso, legati ad
+					eos a senatu, ut de his iniuriis quererentur, missipulsati sunt. Ob id bellum his indictum est. </p>
+				<p>Samnites defecerunt. Aduersus eos et Lucanos et Brittios et Etruscosaliquot proeliis a
+					compluribus ducibus bene pugnatum est. </p>
+				<p>Pyrrhus, Epirotarum rex, ut auxilium Tarentinis ferret, in Italiam uenit. </p>
+				<p>Cum in praesidium Reginorum legio Campana cum praefecto Decio Vibulliomissa esset, occisis
+					Reginis Regium occupauit. </p>
+			</div>
+			<div
+				n="13">
+				<head>Periocha XIII</head>
+				<p>Valerius Laeuinus cos. parum prospere aduersus Pyrrhum pugnauit,elephantorum maxime inusitata
+					facie territis militibus. Post id proeliumcum corpora Romanorum qui in acie ceciderant, Pyrrhus
+					inspiceret, omniauersa in hostem inuenit populabundusque ad urbem Romanam processit.C.
+					Fabricius missus ad eum a senatu, ut de redimendis captiuis ageret,frustra ut patriam desereret
+					a rege temptatus est. Captiui sine pretioremissi sunt. Cineas legatus a Pyrrho ad senatum
+					missus petiit utconponendae pacis causa rex in urbem reciperetur. De qua re cum adfrequentiorem
+					senatum referri placuisset, Appius Claudius, qui propterualetudinem oculorum iam diu consiliis
+					publicis se abstinuerat, uenit incuriam et sententia sua tenuit ut id Pyrrho negaretur. </p>
+				<p>Cn. Domitius censor primus ex plebe lustrum condidit. Censa sunt ciuiumcapita CCLXXXVII milia
+					CCXXII. </p>
+				<p>Iterum aduersus Pyrrhum dubio euentu pugnatum est. </p>
+				<p>Cum Carthaginiensibus quarto foedus renouatum est. </p>
+				<p>Cum C. Fabricio consuli is qui ad eum a Pyrrho transfugerat, pollicereturuenenum se regi
+					daturum, cum indicio ad regem remissus est. </p>
+				<p>Res praeterea contra Lucanos et Bruttios, Samnites et Etruscos prosperegestas continet. </p>
+			</div>
+			<div
+				n="14">
+				<head>Periocha XIV</head>
+				<p> Pyrrhus in Siciliam traiecit.</p>
+				<p>Cum inter alia prodigia fulmine deiectum esset in Capitolio Iouis signum,caput eius per
+					haruspices inuentum est.</p>
+				<p>Curius Dentatus cos. cum dilectum haberet, eius, qui citatus nonresponderat, bona primus
+					uendidit ; iterum Pyrrhum ex Sicilia in Italiamreuersum uicit et Italia expulit.</p>
+				<p>Fabricius censor P. Cornelium Rufinum consularem senatu mouit, quod is Xpondo argenti facti
+					haberet.</p>
+				<p>Lustro a censoribus condito censa sunt ciuium capita CCLXXI milia CCXXIIII.</p>
+				<p>Cum Ptolemaeo, Aegypti rege, societas iuncta est.</p>
+				<p>Sextilia, uirgo Vestalis, damnata incesti uiua defossa est.</p>
+				<p>Coloniae deductae sunt Posidonia et Cosa.</p>
+				<p>Carthaginiensium classis auxilio Tarentinis uenit, quo facto ab his foedusuiolatum est.</p>
+				<p>Res praeterea contra Lucanos et Bruttios et Samnites feliciter gestas etPyrrhi regis mortem
+					continet. </p>
+			</div>
+			<div
+				n="15">
+				<head>Periocha XV</head>
+				<p> Victis Tarentinis pax et libertas data est.</p>
+				<p>Legio Campana, quae Regium occupauerat, obsessa deditione facta securipercussa est. </p>
+				<p>Cum legatos Apolloniatium ad senatum missos quidam iuuenes pulsassent,dediti sunt
+					Apolloniatibus. </p>
+				<p>Picentibus uictis pax data est. </p>
+				<p>Coloniae deductae Ariminum in Piceno, Beneuentum in Samnio. </p>
+				<p>Tunc primum populus R. argento uti coepit. </p>
+				<p>Vmbri et Sallentini uicti in deditionem accepti sunt. </p>
+				<p>Quaestorum numerus ampliatus est, ut essent VIII. </p>
+			</div>
+			<div
+				n="16">
+				<head>Periocha XVI</head>
+				<p> Origo Carthaginiensium et primordia urbis eorum referuntur.Contra quos et Hieronem, regem
+					Syracusanorum, auxilium Mamertinis ferendumsenatus censuit, cum de ea re inter suadentes ut id
+					fieret, dissuadentesquecontentio fuisset; transgressisque tunc primum mare exercitibus
+					Romanisaduersus Hieronem saepius bene pugnatum. Petenti pax data est. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCLXXXII miliaCCXXXIIII. </p>
+				<p>Decimus Iunius Brutus munus gladiatorium in honorem defuncti patris primusedidit. </p>
+				<p>Colonia Aesernia deducta est. </p>
+				<p>Res praeterea contra Poenos et Vulsinios prospere gestas continet. </p>
+			</div>
+			<div
+				n="17">
+				<head>Periocha XVII</head>
+				<p>Cn. Cornelius consul a classe Punica circumuentus et per fraudem, ueluti inconloquium
+					euocatus, captus est. </p>
+				<p>C. Duillius consul aduersus classem Poenorum prospere pugnauit, primusqueomnium Romanorum
+					ducum naualis uictoriae duxit triumphum. </p>
+				<p>Ob quam causam ei perpetuus quoque honos habitus est, ut reuertenti a cenatibicine canente
+					funale praeferretur. </p>
+				<p>L. Cornelius consul in Sardinia et Corsica contra Sardos et Corsos etHannonem, Poenorum
+					ducem, feliciter pugnauit. </p>
+				<p>Atilius Calatinus cos. cum in locum a Poenis circumsessum temere exercitumduxisset, M.
+					Calpurni, tribuni militum, uirtute et opera euasit, qui cumCCC militibus eruptione facta hostes
+					in se conuerterat. </p>
+				<p>Hannibal, dux Poenorum, uicta classe cui praefuerat, a militibus suis incrucem sublatus est. </p>
+				<p>Atilius Regulus cos. uictis nauali proelio Poenis in Africam traiecit. </p>
+			</div>
+			<div
+				n="18">
+				<head>Periocha XVIII</head>
+				<p>Atilius Regulus in Africa serpentem portentosae magnitudinis cum magnaclade militum occidit,
+					et cum aliquot proeliis bene aduersusCarthaginienses pugnasset, successorque ei a senatu
+					prospere bellum gerentinon mitteretur, id ipsum per litteras ad senatum scriptas questus est,
+					inquibus inter causas petendi successoris erat quod agellus eius amercennariis desertus esset.
+					Quaerente deinde fortuna ut magnum utriusquecasus exemplum in Regulo proderetur, arcessito a
+					CarthaginiensibusXanthippo, Lacedaemoniorum duce, uictus proelio et captus est.Res deinde a
+					ducibus Romanis omnibus terra marique prospere gestasdeformauerunt naufragia classium.</p>
+				<p>Tib. Coruncanius primus ex plebe pontifex maximus creatus est.</p>
+				<p>M'. Valerius Maximus P. Sempronius Sophus censores cum senatum legerent,XVI senatu
+					mouerunt.</p>
+				<p>Lustrum condiderunt, quo censa sunt ciuium capita CCXCVII milia DCCXCVII.</p>
+				<p>Regulus missus a Carthaginiensibus ad senatum ut de pace et, si eam nonposset impetrare, de
+					commutandis captiuis ageret, et iureiurandoadstrictus, rediturum se Carthaginem, si commutari
+					captiuos non placuisset,utrimque negandi auctor senatui fuit, et cum fide custodita reuersus
+					esset,supplicio a Carthaginiensibus de eo sumpto periit. </p>
+			</div>
+			<div
+				n="19">
+				<head>Periocha XIX</head>
+				<p>Caecilius Metellus rebus aduersus Poenos prospere gestis speciosum egittriumphum, XIII
+					ducibus hostium et CXX elephantis in eo ductis.Claudius Pulcher cos. contra auspicia profectus
+					- iussit mergi pullos, quicibari nolebant - infeliciter aduersus Carthaginienses classe
+					pugnauit, etreuocatus a senatu iussusque dictatorem dicere Claudium Gliciam dixit,sortis
+					ultimae hominem, qui coactus abdicare se magistratu postea ludospraetextatus spectauit. </p>
+				<p>A. Atilius Calatinus primus dictator extra Italiam exercitum duxit.Commutatio captiuorum cum
+					Poenis facta est. </p>
+				<p>Coloniae deductae sunt Fregenae, in agro Sallentino Brundisium. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCXLI miliaCCXII.</p>
+				<p>Claudia, soror P. Claudi qui contemptis auspiciis male pugnauerat, a ludisreuertens cum turba
+					premeretur, dixit : "utinam frater meus uiueret:iterum classem duceret." Ob eam causam multa ei
+					dicta est.</p>
+				<p>Duo praetores tunc primum creati sunt.</p>
+				<p>Caecilius Metellus, pontifex maximus, A. Postumium consulem, quoniam idemet flamen Martialis
+					erat, cum is ad bellum gerendum proficisci uellet, inurbe tenuit nec passus est a sacris
+					recedere.</p>
+				<p>Rebus aduersus Poenos a pluribus ducibus prospere gestis, summam uictoriaeC. Lutatius cos.
+					uicta ad Aegates insulas classe Poenorum imposuit.</p>
+				<p>Petentibus Carthaginiensibus pax data est.</p>
+				<p>Cum templum Vestae arderet, Caecilius Metellus, pontifex maximus, exincendio sacra
+					rapuit.</p>
+				<p>Duae tribus adiectae sunt, Velina et Quirina. </p>
+			</div>
+			<div
+				n="20">
+				<head>Periocha XX</head>
+				<p>Falisci cum rebellassent, sexto die perdomiti in deditionem uenerunt. </p>
+				<p>Spoletium colonia deducta est. </p>
+				<p>Aduersus Liguras tunc primum exercitus promotus est. </p>
+				<p>Sardi et Corsi cum rebellassent, subacti sunt. </p>
+				<p>Tuccia, uirgo Vestalis, incesti damnata est. </p>
+				<p>Bellum Illyriis propter unum ex legatis, qui ad eos missi erant, occisumindictum est,
+					subactique in deditionem uenerunt. </p>
+				<p>Praetorum numerus ampliatus est ut essent IIII. </p>
+				<p>Galli transalpini, qui in Italiam inruperant, caesi sunt. Eo bello populumR. sui Latinique
+					nominis DCCC milia armatorum habuisse dicit.Exercitibus Romanis tunc primum trans Padum ductis
+					Galli Insubres aliquotproeliis fusi in deditionem uenerunt. M. Claudius Marcellus cos.
+					occisoGallorum Insubrium duce, Vertomaro, opima spolia rettulit.Histri subacti sunt. </p>
+				<p>Iterum Illyrii cum rebellassent, domiti in deditionem uenerunt. </p>
+				<p>Lustrum a censoribus ter conditum est. Primo lustro censa sunt ciuiumcapita CCLXX milia
+					CCXII. </p>
+				<p>Libertini in quattuor tribus redacti sunt, cum antea dispersi per omnesfuissent, Esquilinam,
+					Palatinam, Suburanam, Collinam. </p>
+				<p>C. Flaminius censor uiam Flaminiam muniit et circum Flaminium exstruxit. </p>
+				<p>Coloniae deductae sunt in agro de Gallis capto Placentia et Cremona. </p>
+			</div>
+			<div
+				n="21">
+				<head>Periocha XXI</head>
+				<p>Belli Punici secundi ortum narrat et Hannibalis, ducis Poenorum, contrafoedus per Hiberum
+					flumen transitum. A quo Saguntum, sociorum populi R.ciuitas obsessa, octauo mense capta est. De
+					quibus iniuriis missi legati adCarthaginienses, qui quererentur. Cum satis facere nollent,
+					bellum hisindictum est. </p>
+				<p>Hannibal superato Pyrenaeo saltu per Gallias, fusis Volcis, qui obsistereconati erant ei, ad
+					Alpes uenit et laborioso per eas transitu, cum montanosquoque Gallos obuios aliquot proeliis
+					reppulisset, descendit in Italiam etad Ticinum flumen Romanos equestri proelio fudit.In quo
+					uulneratum P. Cornelium Scipionem protexit filius, qui Africanipostea nomen accepit. </p>
+				<p>Iterumque exercitu Romano ad flumen Trebiam fuso Hannibal Apenninum quoquepermagna uexatione
+					militum propter uim tempestatium transiit. </p>
+				<p>Cn. Cornelius Scipio in Hispania contra Poenos prospere pugnauit ducehostium Magone capto.
+				</p>
+			</div>
+			<div
+				n="22">
+				<head>Periocha XXII</head>
+				<p>Hannibal per continuas uigilias in paludibus oculo amisso in Etruriamuenit, per quas paludes
+					quadriduo et tribus noctibus sine ulla requie iterfecit.</p>
+				<p>C. Flaminius cos., homo temerarius, contra auspicia profectus signismilitaribus effossis,
+					quae tolli non poterant, et ab equo, quemconscenderat, per caput deuolutus, insidiis ab
+					Hannibale circumuentus adThrasymennum lacum cum exercitu caesus est. Sex milia, quae eruperant,
+					fideab Atherbale data, perfidia Hannibalis uincta sunt. Cum ad nuntium cladisRomae luctus
+					esset, duae matres ex iusperato receptis filiis gaudio mortuaesunt. Ob hanc cladem ex
+					Sibyllinis libris uer sacrum uotum.</p>
+				<p>Cum deinde Q. Fabius Maximus dictator aduersus Hannibalem missus nolletacie cum eo
+					confligere, ne contra ferocem tot uictoriis hostem aduersisproeliis milites pugnare
+					committeret, et opponendo se tantum conatusHannibalis impediret, M. Minucius, magister equitum,
+					ferox et temerarius,criminando dictatorem tamquam segnem et timidum effecit, ut populi
+					iussuaequaretur ei cum dictatore imperium ; diuisoque exercitu cum iniquo lococonflixisset et
+					in magno discrimine legiones eius essent, superueniente cumexercitu Fabio Max Xrimine liberatus
+					est. Quo beneficio uictus castracum eo iunxit et patrem eum salutauit, idemque facere milites
+					iussit.Hannibal uastata Campania inter Casilinum oppidum et Calliculam montem aFabio clusus
+					sarmentis ad cornua boum alligatis et incensis praesidiumRomanorum, quod Calliculam insidebat,
+					fugauit et sic transgressus estsaltum.</p>
+				<p>Idemque Q. Fabi Maximi dictatoris, cum circumposita ureret, agro pepercit,ut illum tamquam
+					proditorem suspectum faceret.</p>
+				<p>Aemilio deinde Paulo et Terentio Varrone coss. et ducibus cum magna cladeaduersus Hannibalem
+					ad Cannas pugnatum est, caesaque eo proelio RomanorumXLV milia cum Paulo cos. et senatoribus XC
+					et consularibus aut praetoriisaut aediliciis XXX.</p>
+				<p>Post quae cum a nobilibus adulescentibus propter desperationem consilium derelinquenda Italia
+					iniretur, P. Cornelius Scipio tribunus militum, quiAfricanus postea uocatus est, stricto supra
+					capita deliberantium ferroiurauit pro hoste se habiturum eum qui in uerba sua non
+					iurasset,effecitque ut omnes non relictum iri a se Italiam iureiurandoadstringerentur.</p>
+				<p>Propter paucitatem militum VIII milia seruorum armata sunt. Captiui, cumpotestas esset
+					redimendi, redempti non sunt.</p>
+				<p>Praeterea trepidationem urbis et luctum et res in Hispania meliore euentugestas continet.</p>
+				<p>Opimia et Florentia, uirgines Vestales, incesti damnatae sunt.</p>
+				<p>Varroni obuiam itum et gratiae actae, quod de re p. non desperasset.</p>
+			</div>
+			<div
+				n="23">
+				<head>Periocha XXIII</head>
+				<p>Campani ad Hannibalem defecerunt.Nuntius Cannensis uictoriae, Mago, Carthaginem missus anulos
+					aureoscorporibus occisorum detractos in uestibulo curiae effudit, quos excessissemodii mensuram
+					traditur. Post quem nuntium Hannon, uir ex Poenis nobilibus,suadebat senatui Carthaginensium ut
+					pacem a populo Romano peterent, nectenuit obstrepente Barcina factione. </p>
+				<p>Claudius Marcellus praetor ad Nolam, eruptione aduersus Hannibalem exoppido facta, prospere
+					pugnauit. </p>
+				<p>Casilinum a Poenis obsessum ita fame uexatum est ut lora et pelles scutisdetractas et mures
+					inclusi essent. Nucibus per Vulturnum amnem a Romanismissis uixerunt. </p>
+				<p>Senatu ex equestri ordine hominibus CXCVII suppletus est. </p>
+				<p>L. Postumius praetor a Gallis cum exercitu caesus est. </p>
+				<p>Cn. et P. Scipiones in Hispania Asdrubalem uicerunt et Hispaniam suamfecerunt.</p>
+				<p>Reliquiae Cannensis exercitus in Siciliam relegatae sunt, ne decederentinde nisi finito
+					bello.</p>
+				<p>Sempronius Gracchus cos. Campanos cecidit.</p>
+				<p>Claudius Marcellus praetor Hannibalis exercitum ad Nolam proelio fudit etuicit, primusque tot
+					cladibus fessis Romanis meliorem spem belli dedit.</p>
+				<p>Inter Philippum, Macedoniae regem, et Hannibalem societas iuncta est.</p>
+				<p>Praeterea in Hispania feliciter a Publio et Cn. Scipionibus, in Sardinia aT. Manlio praetore
+					aduersus Poenos res gestas continet, a quibus Hasdrubaldux et Mago et Hanno capti.</p>
+				<p>Exercitus Hannibalis per hiberna ita luxuriatus est ut corporis animiqueuiribus eneruaretur.
+				</p>
+			</div>
+			<div
+				n="24">
+				<head>Periocha XXIV</head>
+				<p>Hieronymus, Syracusanorum rex, cuius pater Hiero amicus populi R. fuerat,ad Carthaginiensis
+					defecit et propter crudelitatem superbiamque a suisinterfectus est.</p>
+				<p>Tib. Sempronius Gracchus procos. prospere aduersus Poenos et Hannonem ducemad Beneuentum
+					pugnauit seruorum maxime opera, quos liberos esse iussit.Claudius Marcellus cos. in Sicilia,
+					quae prope tota ad Poenos defecerat,Syracusas obsedit.</p>
+				<p>Philippo, Macedonum regi, bellum indictum est, qui ad Apolloniam nocturnobello obpressus
+					fugatusque Macedoniam cum prope inermi exercitu profugit.Ad id bellum gerendum M. Valerius
+					praetor missus.</p>
+				<p>Res praeterea in Hispania a P. et Cn. Scipionibus aduersus Carthaginiensesgestas continet. A
+					quibus Syphax, rex Numidiae, in amicitiam adscitus, quia Masinissa, Massyliorum rege, pro
+					Carthaginiensibus pugnante, uictus inHispaniam ad Scipionem cum magna manu transiit contra
+					Gades, ubi angustofreto Africa et Hispania dirimuntur.</p>
+				<p>Celtiberi quoque in amicitiam recepti sunt. Quorum auxiliis adscitis tuncprimum mercennarium
+					militem Romana castra habuerunt. </p>
+			</div>
+			<div
+				n="25">
+				<head>Periocha XXV</head>
+				<p>P. Cornelius Scipio, postea Africanus, ante annos aedilis factus. </p>
+				<p>Hannibal urbem Tarenton praeter arcem, in quam praesidium Romanorumfugerat, per Tarentinos
+					iuuenes, qui se noctu uenatum ire simulabant,cepit.</p>
+				<p>Ludi Apollinares ex Marci carminibus, quibus Cannensis clades praedictafuerat, instituti
+					sunt.</p>
+				<p>A Q. Fuluio et Ap. Claudio coss. aduersus Hannonem, Poenorum ducem,prospere pugnatum est.</p>
+				<p>Tib. Sempronius Gracchus procos. ab hospite suo Lucano in insidias deductusa Magone
+					interfectus est.</p>
+				<p>Centenius Paenula, qui centurio militauerat, cum petisset a senatu ut sibiexercitus daretur
+					pollicitusque esset, si hoc impetrasset, de Hannibaleuictoriam, VIII milibus acceptis militum
+					dux factus conflixit acie cumHannibale et cum exercitu caesus est.</p>
+				<p>Capua obsessa est a Q. Fuluio et Ap. Claudio coss.</p>
+				<p>Cn. Puluilis praetor male aduersus Hannibalem pugnauit.In quo proelio XX milia hominum
+					ceciderunt ; ipse cum equitibus CC effugit.</p>
+				<p>Claudius Marcellus Syracusas expugnauit tertio anno et ingentem uirumgessit. In eo tumultu
+					captae urbis Archimedes intentus formis, quas inpuluere descripserat, interfectus est.</p>
+				<p>P. et Cn. Scipiones in Hispania tot rerum feliciter gestarum tristem exitumtulerunt, prope
+					cum totis exercitibus caesi anno octauo quam in Hispaniamierunt. Amissaque eius prouinciae
+					possessio foret, nisi L. Marci, equitisRomani, uirtute et industria contractis exercituum
+					reliquiis, eiusdemhortatu bina castra hostium expugnata essent.</p>
+				<p>Ad XXVII milia hominum caesa, captos ad mille octingentos triginta, praedaingens capta. "Dux"
+					Marcius appellatus est. </p>
+			</div>
+			<div
+				n="26">
+				<head>Periocha XXVI</head>
+				<p>Hannibal ad tertium lapidem ab urbe Roma super Anienem castra posuit. Ipsecum duobus milibus
+					equitum usque ad ipsam Capenam portam, ut situm urbisexploraret, obequitauit. Et cum per
+					triduum in aciem utrimque exercitusomnis descendisset, certamen tempestas diremit; nam cum in
+					castraredisset, statim serenitas erat. </p>
+				<p>Capua capta est a Q. Fuluio et Appio Claudio coss. Principes Campanorumueneno sibi mortem
+					consciuerunt. Cum senatus Campanorum deligatus esset adpalos ut securi feriretur, litteras a
+					senatu missas Q. Fuluius consul,quibus iubebatur parcere, antequam legeret, in sinu posuit et
+					lege agiiussit et supplicium peregit. </p>
+				<p>Cum comitiis apud populum quaereretur cui mandaretur Hispaniarum imperium,nullo id uolente
+					suscipere, P. Scipio, P. filius eius qui in Hispaniaceciderat, professus est se iturum, et
+					suffragio populi consensuque omniummissus Nouam Carthaginem expugnauit, cum haberet annos
+					XXIIII uidereturquediuina stirpe, quia et ipse, postquam togam acceperat, cotidie in
+					Capitolioerat et in cubiculo matris eius anguis saepe uidebatur. </p>
+				<p>Res praeterea gestas in Sicilia continet et amicitiam cum Aetolis iunctambellumque gestum
+					aduersus Acarnanas et Philippum, Macedoniae regem. </p>
+			</div>
+			<div
+				n="27">
+				<head>Periocha XXVII</head>
+				<p>Cn. Fuluius procos. cum exercitu ab Hannibale ad Herdoneam caesus est. </p>
+				<p>Meliore euentu ab Claudio Marcello cos. aduersus eundem ad Numistronempugnatum est. Inde
+					Hannibal nocte recessit.Marcellus iusecutus est et subinde cedentem pressit, donec
+					confligeret.Priore pugna Hannibal superior, sequenti Marcellus. </p>
+				<p>Fabius Maximus pater cos. Tarentinos per proditionem recepit. </p>
+				<p>Claudius Marcellus T. Quintius Crispinus coss. speculandi causa progressi ecastris insidiis
+					ab Hannibale circumuenti sunt. Marcellus occisus,Crispinus fugit. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CXXXVII miliaCVIII; ex quo numero
+					apparuit quantum hominum tot proeliorum aduersafortuna populo R. abstulisset. </p>
+				<p>In Hispania ad Baeculam Scipio cum Hasdrubale et Hamilcare conflixit etuicit. Inter alia
+					captum regalem puerum eximiae formae ad auunculumMasinissam cum donis dimisit. </p>
+				<p>Hasdrubal, qui cum exercitu nouo Alpes transcenderat ut se Hannibaliiungeret, cum milibus
+					hominum LVI caesus est, capta V milia CCCC M. Liuicos. ductu, sed non minore opera Claudi
+					Neronis cos., qui, cum Hannibalioppositus esset, relictis castris ita ut hostem falleret, cum
+					electa manuprofectus Hasdrubalem circumuenerat. </p>
+				<p>Res praeterea feliciter a P. Scipione in Hispania et a P. Sulpicio praetoreaduersus Philippum
+					et Achaeos gestas continet. </p>
+			</div>
+			<div
+				n="28">
+				<head>Periocha XXVIII</head>
+				<p>Res in Hispania prospere gestae a Silano, Scipionis legato, et ab L.Scipione fratre aduersus
+					Poenos, a P. Sulpicio procos. socio Attalo regeAsiae aduersus Philippum, regem Macedonum, pro
+					Aetolis referuntur. </p>
+				<p>Cum M. Liuio et Claudio Neroni coss. triumphus decretus esset, Liuius, quiin prouincia sua
+					rem gesserat, quadrigis inuectus est, Nero, qui incollegae prouinciam, ut uictoriam eius
+					adiuuaret, uenerat, equo secutusest, et in hoc habitu plus gloriae reuerentiaque habuit; nam et
+					plus inbello quam collega fecerat. </p>
+				<p>Ignis in aede Vestae neglegentia uirginis quae non custodierat, extinctusest; caesa est
+					flagro. </p>
+				<p>P. Scipio in Hispania cum Poenis debellauit XIIII anno eius belli, quintopost anno quam
+					ierat, praeclusisque in totum possessione prouinciae eiushostibus Hispanias recepit; et a
+					Tarracone in Africam ad Syphacem, regemMassyliorum, transuectus foedus iunxit. Hasdrubal
+					Gisgonis ibi cum eo ineodem lecto cenauit. Munus gladiatorium in honorem patris
+					patruiqueCarthagini noua edidit, non ex gladiatoribus, sed ex his qui aut in honoremducis aut
+					ex prouocatione descendebant; in quo reguli fratres de regnoferro contenderunt. </p>
+				<p>Cum Gisia urbs obpugnaretur, oppidani liberos et coniuges rogo extructoocciderunt et se
+					iusuper praecipitauerunt. </p>
+				<p>Ipse Scipio, dum graui morbo inplicitus est, seditionem in parte exercitusmotam, confirmatus
+					discussit rebellantesque Hispaniae populos coegit indeditionem uenire. Et amicitia facta cum
+					Masinissa, rege Numidarum, quiilli auxilium, si in Africam traiecisset, pollicebatur, cum
+					Gaditanisquoque post discessum inde Magonis, cui Carthagine scriptum erat ut inItaliam
+					traiceret, Romam reuersus consulque creatus. </p>
+				<p>Africam prouinciam petenti, contradicente Q. Fabio Maximo, Sicilia data estpermissumque ut in
+					Africam traiceret, si id e re p. esse censeret.Mago, Hamilcaris filius, a minore Baleari
+					insula, ubi hiemauerat, inItaliam traiecit. </p>
+			</div>
+			<div
+				n="29">
+				<head>Periocha XXIX</head>
+				<p> Ex Sicilia C. Laelius in Africam a Scipione missus ingentem praedamreportauit et mandata
+					Masinissae Scipioni exposuit querentis quod nondumexercitum in Africam traiecisset. </p>
+				<p>Bellum in Hispania finitum uictore Romano, quod Indebilis excitauerat;ipse in acie occisus,
+					Mandonius exposcentibus Romanis a suis deditus.Magoni, qui Albingauni in Liguribus erat, ex
+					Africa et militum ampla manusmissa et pecuniae, quibus auxilia conduceret, praeceptumque ut se
+					Hannibaliconiungeret. </p>
+				<p>Scipio a Syracusis in Bruttios traiecit et Locros pulso Punico praesidiofugatoque Hannibale
+					recepit. </p>
+				<p>Pax cum Philippo facta est. </p>
+				<p>Mater Idaea deportata est Romam a Pessinunte, oppido Phrygiae, carmine inlibris Sibyllinis
+					inuento: pelli Italia alienigenam hostem posse, si materIdaea deportata Romam esset. Tradita
+					est autem Romanis per Attalum, regemAsiae. Lapis erat, quem matrem deum incolae dicebant.
+					Excepit P. ScipioNasica Cn. filius, eius qui in Hispania perierat, uir optimus a
+					senatuiudicatus, adulescens nondum quaestorius, quoniam ita responsum iubebat utid numen ab
+					optimo uiro exciperetur consecrareturque. </p>
+				<p>Locrenses legatos Romam miserunt, qui de impotentia Plemini legatiquererentur, qui pecuniam
+					Proserpinae sustulerat et liberos eorum acconiuges stuprauerat. In catenis Romam perductus in
+					carcere est mortuus.Cum falsus rumor de P. Scipione procos., qui in Sicilia erat, in
+					urbemperlatus esset, tamquam is luxuriaretur, missis ob hoc legatis a senatu quiexplorarent an
+					ea uera essent, purgatus infamia Scipio in Africam permissusenatus traeicit. </p>
+				<p>Syphax, accepta in matrimonium filia Hasdrubalis Gisgonis, amicitiam quamcum Scipione
+					iunxerat, renuntiauit. </p>
+				<p>Masinissa, rex Massyliorum, dum pro Carthaginiensibus in Hispania militat,amisso patre Gala
+					de regno exciderat. Quo per bellum saepe repetito aliquotproeliis a Syphace, rege Numidarum,
+					uictus in totum priuatus est, et cum CCequitibus exsul Scipioni se iunxit et cum eo primo
+					statim bello Hannonem,Hamilcaris filium, cum ampla manu occidit. Scipio aduentu Hasdrubalis
+					etSyphacis, qui prope cum centum milibus armatorum uenerant, ab obsidioneVticae depulsus
+					hiberna communiit. </p>
+				<p>Sempronius cos. in agro Crotoniensi prospere aduersus Hannibalem pugnauit. </p>
+				<p>Inter censores M. Liuium et Claudium Neronem notabilis discordia fuit. Namet Claudius
+					collegae equum ademit, quod a populo damnatus actusque inexilium fuerat, et Liuius Claudio,
+					quod falsum in se testimonium dixissetet quod non bona fide secum in gratiam redisset. Idem
+					omnes tribus extraunam aerarias reliquit, quod et innocentem se damnassent et posthacconsulem
+					censoremque fecissent. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCXIIII milia. </p>
+			</div>
+			<div
+				n="30">
+				<head>Periocha XXX</head>
+				<p>Scipio in Africa Carthaginienses et eumdem Syphacem, Numidiae regem,Hasdrubalemque pluribus
+					proeliis uicit adiuuante Masinissa, bina hostiumcastra expugnauit, in quibus XL milia hominum
+					ferro ignique consumpta sunt. </p>
+				<p>Syphacem per C. Laelium et Masinissam cepit. </p>
+				<p>Masinissa Sophonibam, uxorem Syphacis, filiam Hasdrubalis, captam statimadamauit et nuptiis
+					factis uxorem habuit; castigatus a Scipione uenenum eimisit, quo illa hausto decessit. </p>
+				<p>Effectumque multis Scipionis uictoriis ut Carthaginienses in desperationemacti in auxilium
+					publicae salutis Hannibalem euocarent. Isque anno XVIItalia decedens in Africam traiecit
+					temptauitque per conloquium pacem cumScipione componere, et cum de condicionibus pacis non
+					conuenisset, acieuictus est. Pax Carthaginiensibus petentibus data est. Hannibal Gisgonempacem
+					dissuadentem manu sua detraxit, excusata deinde temeritate facti ipsepacem suasit. </p>
+				<p>Masinissae regnum restitutum est. </p>
+				<p>Reuersus in urbem Scipio amplissimum nobilissimumque egit triumphum, quemQ. Terentius Culleo
+					senator pilleatus secutus est. Scipio Africanusincertum militari prius fauore am populari aura
+					ita cognominatus sit.Primus certe hic imperator uictae nomine a se gentis nobilitatus est. </p>
+				<p>Mago bello quo in agro Insubrum cum Romanis conflixerat uulneratus, dum inAfricam per legatos
+					reuocatis reuertitur, ex uulnere mortuus est. </p>
+			</div>
+			<div
+				n="31">
+				<head>Periocha XXXI</head>
+				<p>Belli aduersus Philippum, Macedoniae regem, quod intermissum erat, repetiticausae referuntur
+					hae: tempore initiorum duo iuuenes Acarnanes, qui nonerant initiati, Athenas uenerunt et in
+					sacrarium Cereris cum aliispopularibus suis intrauerunt. Ob hoc, tamquam summum nefas
+					commisissent, abAtheniensibus occisi sunt. Acarnanes mortibus suorum commoti ad
+					uindicandosillos auxilia a Philippo petierunt et Athenas obpugnauerunt, Atheniensesauxilium a
+					Romanis petierunt post pacem Carthaginiensibus datam paucismensibus. Cum Atheniensium, qui a
+					Philippo obsidebantur, legati auxilium asenatu petissent, et id senatus ferendum censuisset
+					plebe, quod totbellorum continuus labor grauis erat, dissentiente, tenuit auctoritaspatrum ut
+					sociae ciuitati ferri opem populus quoque iuberet. </p>
+				<p>Id bellum P. Sulpicio cos. mandatum est qui exercitu in Macedoniam ductoequestribus proeliis
+					prospere cum Philippo pugnauit. Aboedeni a Philippoobsessi ad exemplum Saguntinorum suos seque
+					occiderunt. </p>
+				<p>L. Furius praetor Gallos Insubres rebellantes et Hamilcarem Poenum bellumin ea parte Italiae
+					molientem acie uicit. Hamilcar eo bello occisus est etmilia hominum XXXV. </p>
+				<p>Praeterea expeditiones Philippi regis et Sulpici cos. expugnationesqueurbium ab utroque
+					factas continet. Sulpicius cos. bellum gerebatadiuuantibus rege Attalo et Rhodiis. </p>
+				<p>Triumphauit de Gallis L. Furius praetor. </p>
+			</div>
+			<div
+				n="32">
+				<head>Periocha XXXII</head>
+				<p> Complura prodigia ex diuersis regionibus nuntiata referuntur, inter quae inMacedonia in
+					puppe longae nauis lauream esse natam. T. Quintius Flamininuscos. aduersus Philippum feliciter
+					pugnauit in faucibus Epiri fugatumquecoegit in regnum reuerti. Ipse Thessaliam, quae est uicina
+					Macedoniae,sociis Aetolis et Athamanibus uexauit, L. Quintius Flamininus, fraterconsulis,
+					nauali proelio Attalo rege et Rhodiis adiuuantibus Euboeam etmaritimam oram. Achaei in
+					amicitiam recepti sunt. </p>
+				<p>Praetorum numerus ampliatus est, ut seni crearentur.Coniuratio seruorum facta de soluendis
+					Carthaginiensium obsidibus oppressaest, duo milia D necati. </p>
+				<p>Cornelius Cethegus cos. Gallos Insubres proelio fudit. </p>
+				<p>Cum Lacedaemoniis et tyranno eorum Nabide amicitia iuncta est. </p>
+				<p>Praeterea expugnationes urbium in Macedonia referuntur.</p>
+			</div>
+			<div
+				n="33">
+				<head>Periocha XXXIII</head>
+				<p> T. Quintius Flamininus procos. cum Philippo ad Cynoscephalas in Thessaliaacie uicto
+					debellauit. L. Quintius Flamininus, ille frater procos.,Acarnanas, Leucade urbe quod caput est
+					Acarnanum expugnata, in deditionemaccepit.</p>
+				<p>Pax petenti Philippo Graecia liberata data est.</p>
+				<p>Attalus ab Thebis ob subitam ualetudinem Pergamum translatus decessit.</p>
+				<p>C. Sempronius Tuditanus praetor ab Celtiberis cum exercitu caesus est.</p>
+				<p>L. Furius Purpurio et Claudius Marcellus coss. Boios et Insubres Gallossubegerunt.</p>
+				<p>Marcellus triumphauit.</p>
+				<p>Hannibal frustra in Africa bellum molitus et ob hoc Romanis per epistulasab aduersae
+					factionis principibus delatus propter metum Romanorum, quilegatos ad senatum Carthaginiensium
+					de eo miserant, profugus ad Antiochum,Syriae regem, se contulit bellum aduersus Romanos
+					parantem. </p>
+			</div>
+			<div
+				n="34">
+				<head>Periocha XXXIV</head>
+				<p> Lex Oppia, quam C. Oppius trib. pl. bello Punico de finiendis matronarumcultibus tulerat,
+					cum magna contentione abrogata est, cum Porcius Catoauctor fuisset ne ea lex aboleretur. </p>
+				<p>Is in Hispaniam profectus bello, quod Emporiis orsus est, citerioremHispaniam pacauit. </p>
+				<p>T. Quintius Flamininus bellum aduersus Lacedaemonios et tyrannum eorum,Nabidem, prospere
+					gestum data his pace, qualem ipse uolebat, liberatisqueArgis, qui sub dicione tyranni erant,
+					finiit. </p>
+				<p>Res praeterea in Hispania et aduersus Boios et Insubres Gallos felicitergestae referuntur. </p>
+				<p>Senatus tunc primum secretus a populo ludos spectauit. Id ut fieret, SextusAelius Paetus et
+					C. Cornelius Cethegus censores interuenerunt cumindignatione plebis. </p>
+				<p>Coloniae plures deductae sunt. </p>
+				<p>M. Porcius Cato ex Hispania triumphauit. </p>
+				<p>T. Quintius Flamininus, qui Philippum, Macedonum regem, et Nabidem,Lacedaemoniorum tyrannum
+					uicerat Graeciamque omnem liberauerat, ob hoctriduo triumphauit. </p>
+				<p>Legati Carthaginiensium nuntiauerunt Hannibalem, qui ad Antiochumconfugerat, bellum cum eo
+					moliri. Temptauerat autem Hannibal per AristonemTyrium sine litteris Carthaginem missum ad
+					bellandum Poenos concitare. </p>
+			</div>
+			<div
+				n="35">
+				<head>Periocha XXXV</head>
+				<p>P. Scipio Africanus legatus ad Antiochum missus Ephesi cum Hannibale, quise Antiocho
+					adiunxerat, conlocutus est, ut si fieri posset, metum ei, quemex populo R. conceperat,
+					eximeret. Inter alia cum quaereret quem fuissemaximum imperatorem Hannibal crederet, respondit
+					Alexandrum, Macedonumregem, quod parua manu innumerabiles exercitus fudisset quodque
+					ultimasoras, quas uisere supra spem humanam esset, peragrasset. Quaerenti deinde,quem secundum
+					poneret, Pyrrhum, inquit, castra metari primum docuisse, adhoc neminem loca elegantius cepisse,
+					praesidia disposuisse. Exsequenti,quem tertium diceret, semet ipsum dixit. Ridens Scipio:
+					"quidnam tudiceres, inquit, si me uicisses?" "Tunc vero me, inquit, et anteAlexandrum et ante
+					Pyrrhum et ante alios posuissem." </p>
+				<p>Inter alia prodigia, quae plurima fuisse traduntur, bouem Cn. Domitii cos.locutam "Roma caue
+					tibi" refertur. </p>
+				<p>Nabis, Lacedaemoniorum tyrannus, incitatus ab Aetolis, qui et Philippum etAntiochum ad
+					inferendum bellum populo R. sollicitabant, a populo R.desciuit, sed bello aduersus
+					Philopoemenen, Achaeorum praetorem, gesto abAetolis interfectus est. Aetoli quoque ab amicitia
+					populi R. defecerunt.Cum societate iuncta Antiochus, Syriae rex, bellum Graeciae
+					intulisset,complures urbes occupauit, inter quas Chalcidem et totam Euboeam. </p>
+				<p>Res praeterea in Liguribus gestas et adparatum belli ab Antiocho continet.</p>
+			</div>
+			<div
+				n="36">
+				<head>Periocha XXXVI</head>
+				<p>Acilius Glabrio cos. Antiochum ad Thermopylas Philippo rege adiuuanteuictum Graecia expulit
+					idemque Aetolos subegit.</p>
+				<p>P. Cornelius Scipio Nasica cos. aedem matris deum, quam ipse in Palatiumintulerat, uir
+					optimus a senatu iudicatus, dedicauit. Idemque Boios Gallosuictos in deditionem accepit, de his
+					triumphauit.</p>
+				<p>Praeterea naualia certamina prospera aduersus praefectos Antiochi regisreferuntur. </p>
+			</div>
+			<div
+				n="37">
+				<head>Periocha XXXVII</head>
+				<p> L. Cornelius Scipio cos. legato Scipione Africano fratre (qui se legatumfratris futurum
+					dixerat, si ei Graecia prouincia decerneretur, cum C.Laelio, qui multum in senatu poterat, ea
+					prouincia dari uideretur)profectus ad bellum aduersus Antiochum regem gerendum, primus
+					omniumRomanorum ducum in Asiam traiecit. </p>
+				<p>Regillus aduersus regiam classem Antiochi feliciter pugnauit ad MyonnesumRhodiis iuuantibus. </p>
+				<p>Filius Africani captus ab Antiocho patri remissus est. Victo deindeAntiocho ab L. Cornelio
+					Scipione adiuuante Eumene, rege Pergami, Attalifilio, pax data est ea condicione ut omnibus
+					prouinciis citra Taurum montemcederet. L. Cornelius Scipio, qui cum Antiocho debellauerat,
+					cognominefratri exaequatus Asiaticus appellatus. </p>
+				<p>Colonia deducta est Bononia. </p>
+				<p>Eumenis, quo iuuante Antiochus nictus erat, regnum ampliatum. Rhodiisquoque, qui et ipsi
+					iuuerant, quaedam ciuitates concessae. </p>
+				<p>Aemilius Regillus, qui praefectos Antiochi nauali proelio deuicerat,naualem triumphum
+					deduxit. M'. Acilius Glabrio de Antiocho, quem Graeciaexpulerat, et de Aetolis triumphauit.
+				</p>
+			</div>
+			<div
+				n="38">
+				<head>Periocha XXXVIII</head>
+				<p>M. Fuluius cos. in Epiro Ambracienses obsessos in deditionem accepit,Cephalloniam subegit,
+					Aetolis perdomitis pacem dedit.</p>
+				<p>Cn. Manlius cos., collega eius, Gallograecos, Tolostobogios et Tectosagoset Trocmos, qui
+					Brenno duce in Asiam transierant, cum soli citra Taurummontem non apparerent, uicit. Eorum
+					origo, et quo modo ea loca, quaetenent, occupauerint, refertur.</p>
+				<p>Exemplum quoque uirtutis et pudicitiae in femina traditur. Quae cum regisGallograecorum uxor
+					fuisset, capta centurionem, qui ei uim intulerat,occidit.</p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCLVIII miliaCCCX.</p>
+				<p>Cum Ariarathe, Cappadociae rege, amicitia iuncta est.</p>
+				<p>Cn. Manlius contradicentibus X legatis, ex quorum consilio foedus cumAntiocho conscripserat,
+					de Gallograecis acta pro se in senatu causatriumphauit.</p>
+				<p>Scipio Africanus die ei dicta, ut quidam tradunt a Q. Petilio tr. pl., utquidam a Naeuio,
+					quod praeda ex Antiocho capta aerarium fraudasset,postquam is dies uenit, euocatus in rostra:
+					"hac die, inquit, Quirites,Carthaginem uici", et prosequente populo Capitolium escendit. Inde
+					neamplius tribuniciis iniuriis uexaretur, in uoluntarium exilium Liternumconcessit. Incertum
+					ibi an Romae defunctus sit ; nam monumentum eiusutrobique fuit.</p>
+				<p>L. Scipio Asiaticus, frater Africani, eodem crimine peculatus accusatusdamnatusque cum in
+					uincula et carcerem duceretur, Tib. Sempronius Gracchustr. pl., qui antea Scipionibus inimicus
+					fuerat, intercessit et ob idbeneficium Africani filiam duxit.</p>
+				<p>Cum quaestores in bona eius publice possidenda missi essent, non modo inhis ullum uestigium
+					pecuniae regiae apparuit, sed ne quaquam tantumredactum, quantae summae erat damnatus. Conlatam
+					a cognatis et amicisinnumerabilem pecuniam accipere noluit; quae necessaria ei erant adcultum,
+					redempta.</p>
+			</div>
+			<div
+				n="39">
+				<head>Periocha XXXIX</head>
+				<p>M. Aemilius cos. Liguribus subactis uiam Placentia usque Ariminum productamFlaminia iunxit. </p>
+				<p>Initia luxuriae in urbem introducta ab exercitu Asiatico referuntur. </p>
+				<p>Ligures, quicumque citra Appenninum erant, subacti sunt. </p>
+				<p>Bacchanalia, sacrum Graecum et nocturnum, omnium scelerum seminarium, cumad ingentis turbae
+					coniurationem peruenisset, inuestigatum et multorumpoena sublatum est. </p>
+				<p>A censoribus L. Valerio Flacco et M. Porcio Catone, et belli et pacisartibus maximo, motus
+					est senatu L. Quintius Flamininus, T. frater, eoquod, cum Galliam prouinciam consul obtineret,
+					rogatus in conuiuio a PoenoPhilippo, quem amabat, scorto nobili, Gallum quemdam sua manu
+					occideratsiue, ut quidam tradiderunt, unum ex damnatis securi percusserat rogatus ameretrice
+					Placentina, cuius amore deperibat. Extat oratio M. Catonis ineum. </p>
+				<p>Scipio Literni decessit et, tamquam iungente fortuna circa idem tempus duofunera maximorum
+					uirorum, Hannibal a Prusia, Bithyniae rege, ad quem uictoAntiocho confugerat, cum dederetur
+					Romanis, qui ad exposcendum eum T.Quintium Flamininum miserant, ueneno mortem consciit.
+					Philopoemen quoque,dux Achaeorum, uir maximus, a Messeniis occisus ueneno, cum ab his in
+					bellocaptus esset. </p>
+				<p>Coloniae Potentia et Pisaurum et Mutina et Parma deductae sunt. </p>
+				<p>Praeterea res aduersus Celtiberos prospere gestas et initia causasque belliMacedonici
+					continet. Cuius origo inde fluxit, quod Philippus aegre ferebatregnum suum a Romanis inminui et
+					quod cogeretur a Thracibus alisque locispraesidia deducere. </p>
+			</div>
+			<div
+				n="40">
+				<head>Periocha XL</head>
+				<p> Cum Philippus liberos eorum quos in uinculis habebat nobilium hominumconquiri ad mortem
+					iussisset, Theoxena, uerita pro liberis suis admodumpueris regis libidinem, prolatis in medium
+					gladiis et poculo in quo uenenumerat, suasit his ut imminens ludibrium morte effugerent et
+					cumpersuasisset, et ipsa se interemit. </p>
+				<p>Certamina inter filios Philippi, Macedoniae regis, Persen et Demetrium,referuntur; et ut
+					fraude fratris sui Demetrius fictis criminibus, interquae accusatione parricidii et adfectati
+					regni, primum petitus, ad ultimum,quoniam populi R. amicus erat, ueneno necatus est, regnumque
+					Macedoniaemortuo Philippo ad Persen uenit. </p>
+				<p>Item res in Liguribus et Hispania contra Celtiberos a compluribus ducibusfeliciter gestas
+					continet.</p>
+				<p>Colonia Aquileia deducta est.</p>
+				<p>Libri Numae Pompili in agro L. Petilli scribae sub Ianiculo a cultoribusagri arca lapidea
+					clusi inuenti sunt et Graeci et Latini.</p>
+				<p>In quibus cum pleraque dissoluendarum religionum praetor, ad quem delatierant, legisset,
+					iurauit senatui contra rem p. esse ut legerenturseruarenturque. Ex S. C. in comitio exusti
+					sunt.</p>
+				<p>Philippus aegritudine animi confectus, quod Demetrium filium falsis Persei,alterius fili, in
+					eum delationibus impulsus ueneno sustulisset, et de poenaPersei cogitauit uoluitque Antigonum
+					potius, amicum suum, successorem regnisui relinquere, sed in hac cogitatione morte raptus est.
+					Perseus regnumexcepit. </p>
+			</div>
+			<div
+				n="41">
+				<head>Periocha XLI</head>
+				<p> Ignis in aede Vestae extinctus est.</p>
+				<p>Tib. Sempronius Gracchus procos. Celtiberos uictos in deditionem accepit,monimentumque operum
+					suorum Gracchurim, oppidum in Hispania, constituit. Eta Postumio Albino procos. Vaccaei ac
+					Lusitani subacti sunt. Vterquetriumphauit.</p>
+				<p>Antiochus, Antiochi filius, obses a patre Romanis datus, mortuo fratreSeleuco qui patri
+					defuncto successerat, in regnum Syriae ab urbe dimissus.Qui praeter religionem, qua multa
+					templa magnifica multis sociis fecit,Athenis Iouis Olympi et Antiochiae Capitolini, uilissimum
+					regem egit.Lustrum a censoribus conditum est.</p>
+				<p>Censa sunt ciuium capita CCLVIII milia CCXCIIII.</p>
+				<p>Q. Voconius Saxa tr. pl. legem tulit, nequis mulierem heredem institueret.</p>
+				<p>Suasit legem M. Cato. Extat oratio eius.</p>
+				<p>Praeterea res aduersus Liguras et Histros et Sardos et Celtiberos acompluribus ducibus
+					prospere gestas et initia belli Macedonici continet,quod Perseus, Philippi filius, moliebatur.
+					Miserat ad Carthaginienseslegationem et ab his nocte audita erat. Sed et alias Graeciae
+					ciuitatessollicitabat. </p>
+			</div>
+			<div
+				n="42">
+				<head>Periocha XLII</head>
+				<p> Q. Fuluius Flaccus censor templum Iunonis Laciniae tegulis marmoreisspoliauit, ut aedem,
+					quam dedicabat, tegeret. Tegulae ex S. C. reportatae.Eumenes, Asiae rex, in senatu de Perseo,
+					Macedoniae rege, questus est,cuius iniuriae in populum R. referuntur. Ob quas bello ei indicto
+					P.Licinius Crassus cos., cui mandatum erat, in Macedoniam transiit leuibusqueexpeditionibus,
+					equestribus proeliis, in Thessalia cum Perseo [felici]euentu pugnauit. </p>
+				<p>Inter Masinissam et Carthaginienses de agro fuit lis. Dies his a senatu addisceptandum datus. </p>
+				<p>Legati missi ad socias ciuitates regesque rogandos ut in fide permanerent,dubitantibus
+					Rhodiis. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCLXVII miliaCCXXXI.</p>
+				<p>Res praeterea aduersus Corsos et Liguras prospere gestas continet. </p>
+			</div>
+			<div
+				n="43">
+				<head>Periocha XLIII</head>
+				<p>Praetores aliquot eo quod auare et crudeliter prouincias administrauerant,damnati sunt. </p>
+				<p>P. Licinius Crassus procos. complures in Graecia urbes expugnauit etcrudeliter corripuit. Ob
+					id captiui qui ab eo sub corona uenierant ex S. C.postea restituti sunt. Item a praefectis
+					classium Romanarum multaimpotenter in socios facta. </p>
+				<p>Res a Perse rege in Thracia prospere gestas continet uictis Dardanis etIllyrico, cuius rex
+					erat Gentius. </p>
+				<p>Motus, qui in Hispania ab Olonico factus erat, ipso interempto consedit. </p>
+				<p>M. Aemilius Lepidus a censoribus princeps senatus lectus. </p>
+			</div>
+			<div
+				n="44">
+				<head>Periocha XLIV</head>
+				<p> Q. Marcius Philippus per inuios saltus penetrauit Macedoniam et compluresurbes occupauit. </p>
+				<p>Rhodii miserunt legatos Romam minantes ut Perseo auxilio essent, nisipopulus R. cum illo
+					pacem atque amicitiam iungeret. Indigne id latum.Cum id bellum L. Aemilio Paulo, sequentis anni
+					cos. iterum mandatum esset,Paulus in contione precatus ut, quidquid diri populo R. immineret,
+					in suamdomum conuerteretur, et in Macedoniam profectus uicit Persen totamqueMacedoniam in
+					potestatem redegit. Antequam confligeret, praedixit exercituine miraretur quod luna proxima
+					nocte defectura erat. </p>
+				<p>Gentius quoque, rex Illyricorum, cum rebellasset, a L. Anicio praetoreuictus uenit in
+					deditionem et cum uxore ac liberis et propinquis Romammissus.</p>
+				<p>Legati Alexandrini a Cleopatra et Ptolemaeo regibus uenerunt querentes deAntiocho, rege
+					Syriae, quod is bellum inferret.</p>
+				<p>Perseus sollicitatis in auxilium Eumene, rege Pergami, et Gentio, regeIllyricorum, quia iis
+					pecuniam quam promiserat non dabat, relictus ab hisest. </p>
+			</div>
+			<div
+				n="45">
+				<head>Periocha XLV</head>
+				<p>Perseus ab Aemilio Paulo in Samothace captus est. </p>
+				<p>Cum Antiochus, Syriae rex, Ptolemaeum et Cleopatram, Aegypti reges,obsideret et missis ad eum
+					a senatu legatis, qui iuberent ab solo regisabsisteret, editisque mandatis consideraturum se
+					quid faciendum essetrespondisset, unus ex legatis Popilius uirga regem circumscripsitiussitque,
+					ante quam circulo excederet, responsum daret. Qua asperitateeffecit ut Antiochus bellum
+					omitteret. </p>
+				<p>Legationes gratulantium populorum atque regum in senatu admissae,Rhodiorum, qui eo bello
+					contra populum R. fauerant, exclusa. Postera diecum de eo quaereretur ut his bellum
+					indiceretur, causam in senatu patriaesuae legati egerunt; nec tamquam socii, nec tamquam hostes
+					dimissi. </p>
+				<p>Macedonia in prouinciae formam redacta Aemilius Paulus repugnantibusmilitibus ipsius propter
+					minorem praedam et contradicente Seruio SulpicioGalba triumphauit et Persen cum tribus filiis
+					duxit ante currum. Cuiustriumphi laetitia ne solida ei contingeret, duorum filiorum
+					funeribusinsignita est, quorum alterius mors triumphum patris praecessit, alteriussecuta est. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXII miliaDCCCV. </p>
+				<p>Prusias, Bithyniae rex, Romam, ut senatui gratias ageret ob uictoriam exMacedonia partam,
+					uenit et Nicomedem filium senatui commendauit. Rex plenusadulationis libertum se populi R.
+					dicebat. </p>
+			</div>
+			<div
+				n="46">
+				<head>Periocha XLVI</head>
+				<p> Eumenes rex Romam uenit, qui Macedonico bello medium egerat. Ne aut hostisiudicatus
+					uideretur, si exclusus esset, aut liberatus crimine, siadmitteretur, in commune lex lata est ne
+					cui regi Romam uenire liceret.Claudius Marcellus cos. Alpinos Gallos, C. Sulpicius Gallus cos.
+					Ligurassubegit. </p>
+				<p>Legati Prusiae regis questi sunt de Eumene quod fines suos populareturdixeruntque eum
+					conspirasse cum Antiocho aduersus populum R.Societas cum Rhodiis deprecantibus iuncta est. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXXXVII miliaXXII.</p>
+				<p>Princeps senatus M. Aemilius Lepidus.</p>
+				<p>Ptolemaeus, Aegypti rex, pulsus regno a minore fratre missis ad eum legatisrestitutus
+					est.</p>
+				<p>Ariarathe, Cappadociae rege, mortuo filius eius Ariarathes regnum accepitet amicitiam cum
+					populo R. per legatos renouauit.</p>
+				<p>Res praeterea aduersus Liguras et Corsos et Lusitanos uario euentu gestaset motus Syriae
+					mortuo Antiocho, qui filium Antiochum puerum admodumreliquerat, continet. Hunc Antiochum puerum
+					cum Lysia tutore Demetrius,Seleuci filius, qui Romae obses fuerat, clam, quia non dimittebatur,
+					aRoma . . . interemit et ipse in regnum receptus.</p>
+				<p>L. Aemilius Paulus, qui Persen uicerat, mortuus. Cuius tanta abstinentiafuit ut cum ex
+					Hispania et ex Macedonia immensas opes rettulisset, uix exauctione eius redactum sit, unde
+					uxori eius dos solueretur.</p>
+				<p>Pomptinae paludes a Cornelio Cethego cos., cui ea prouincia euenerat,siccatae agerque ex his
+					factus. </p>
+			</div>
+			<div
+				n="47">
+				<head>Periocha XLVII</head>
+				<p>Cn. Tremellio pr. multa dicta est, quod cum M. Aemilio Lepido, pontificemaximo, iniuriose
+					contenderat sacrorumque quam magistratuum ius potentiusfuit.</p>
+				<p>Lex de ambitu lata.</p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXVIII miliaCCCXVI.</p>
+				<p>Princeps senatus lectus Aemilius Lepidus.</p>
+				<p>Inter Ptolemaeos fratres, qui dissidebant, foedus ictum, ut alter Aegypto,alter Cyrenis
+					regaret.</p>
+				<p>Ariarathes, Cappadociae rex, consilio Demetri, Syriae regis, et uiribuspulsus regno a senatu
+					restitutus est.</p>
+				<p>Missi a senatu qui inter Masinissam et Carthaginienses de agro iudicarent.</p>
+				<p>C. Marcius cos. aduersus Dalmatas primum parum prospere, postea feliciterpugnauit. Cum quibus
+					bello confligendi causa fuit quod Illyrios, sociospopuli R., uastauerant eamdemque gentem
+					Cornelius Nasica cos. domuit.Q. Opimius cos. Transalpinos Liguras, qui Massiliensium oppida,
+					Antipolimet Nicaeam, uastabant, subegit.</p>
+				<p>Praeterea res in Hispania a compluribus parum prospere gestas continet.</p>
+				<p>Consules anno quingentesimo nonagesimo octauo ab urbe condita magistratumkal. ian. inire
+					coeperunt. Mutandi comitia causa fuit quod Hispanirebellabant.</p>
+				<p>Legati ad disceptandum inter Carthaginienses et Masinissam missinuntiauerunt uim naualis
+					materiae se Carthagine deprehendisse.Aliquot praetores a prouinciis auaritiae nomine accusati
+					damnati sunt. </p>
+			</div>
+			<div
+				n="48">
+				<head>Periocha XLVIII</head>
+				<p> Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXXIIIImilia.</p>
+				<p>Semina tertii Punici belli referuntur. Cum in finibus Carthaginiensiumingens Numidarum
+					exercitus duce Arcobarzane, Syphacis nepote, dicereturesse, M. Porcius Cato suasit ut
+					Carthaginiensibus, qui exercitum speciecontra Masinissam, re contra Romanos accitum in finibus
+					haberent, bellumindiceretur. Contra dicente P. Cornelio Nasica placuit legatos
+					mittiCarthaginem, qui specularentur quid ageretur. Castigato senatuCarthaginiensium, quod
+					contra foedus et exercitum et nauales materiashaberent, pacem inter eos et Masinissam facere
+					uoluerunt, Masinissa agro,de quo lis erat, cedente. Sed Gisgo, Hamilcaris filius, homo
+					seditiosus,qui tum in magistratu erat, cum senatus pariturum se iudicio legatisdixisset, ita
+					populum concitauit bellum aduersus Romanos suadendo, utlegatos, quo minus uiolarentur, fuga
+					explicuerit. Id nuntiantes infestumiam senatum Carthaginiensibus infestiorem fecerunt.</p>
+				<p>M. Porcius Cato filii in praetura mortui funus tenuissimo ut potuit (nampauper erat) sumptu
+					fecit.</p>
+				<p>Andriscus, qui se Persei filium, regis quondam Macedoniae, ingentiadseueratione mentiretur,
+					Romam missus.</p>
+				<p>M. Aemilius Lepidus, qui princeps senatus sextis iam censoribus lectuserat, antequam
+					expiraret, praecepit filiis lecto se strato linteis sinepurpura efferrent, in reliquum funus ne
+					plus quam aeris decies consumerent: imaginum specie, non sumptibus nobilitari magnorum uirorum
+					funera solere.</p>
+				<p>De ueneficiis quaesitum: Publilia et Licinia, nobiles feminae, quae uirossuos consulares
+					necasse insimulabantur, cognita causa, cum praetori praedesuades dedissent, cognatorum decreto
+					necatae sunt.</p>
+				<p>Gulussa, Masinissae filius, nuntiauit Carthagine dilectus agi, classemconparari et haud dubie
+					bellum strui. Cum Cato suaderet ut his bellumindiceretur, P. Cornelio Nasica dicente nihil
+					temere faciundum, placuit Xlegatos mitti exploratum.</p>
+				<p>L. Licinius Lucullus A. Postumius Albinus coss. cum dilectum seuere agerentnec quemquam
+					gratia dimitterent, ab tribunis pl., qui pro amicis suisuacationem impetrare non poterant, in
+					carcerem coniecti sunt. CumHispaniense bellum parum prospere aliquotiens gestum ita
+					confudissetciuitatem Romanam, ut ne hi quidem inuenirentur qui aut tribunatumexciperent aut
+					legati ire uellent, P. Cornelius Aemilianus processit etexcepturum se militiae genus,
+					quodcumque imperatum esset, professus est.Quo exemplo omnes ad studium militandi
+					concitauit.</p>
+				<p>Lucullus cos., cum Claudius Marcellus, cui successerat, pacasse omnesCeltiberiae populos
+					uideretur, Vaccaeos et Cantabros et alias incognitasadhuc in Hispania trentes subegit. Ibi P.
+					Cornelius Scipio Aemilianus, L.Pauli filius, Africani nepos, set adoptiuus, prouocatorem
+					barbarum tribunusmilitum occidit et in expugnatione Intercatiae urbis maius etiamnuncpericulum
+					adiit. Nam murum primus transcendit.</p>
+				<p>Seruius Sulpicius Galba praetor male aduersus Lusitanos pugnauit.Cum legati ex Africa cum
+					oratoribus Carthaginiensium et Gulussa, Masinissaefilio, redissent dicerentque et exercitum se
+					et classem Carthaginedeprehendisse, perrogari sententias placuit. Catone et aliis
+					principibussenatus suadentibus ut in Africam confestim transportaretur exercitus,quoniam
+					Cornelius Nasica dicebat nondum sibi iustam causam belli uideri,placuit ut bello abstinerent,
+					si Carthaginienses classem exussissent etexercitum dimisissent ; si minus, proximi consules de
+					bello Punicoreferrent.</p>
+				<p>Cum locatum a censoribus theatrum exstrueretur, P. Cornelio Nasica auctoretamquam inutile et
+					nociturum publicis moribus ex S. C. destructum estpopulusque aliquamdiu stans ludos
+					spectauit.</p>
+				<p>Carthaginienses cum aduersus foedus bellum Masinissae intulissent, uicti abeo annos habente
+					XCII et sine pulpamine mandere et siccum gustare panemtantum solito insuper Romanum bellum
+					meruerunt.</p>
+				<p>Motus praeterea Syriae et bella inter reges gesta referuntur. Inter quosmotus Demetrius,
+					Syriae rex, occisus est. </p>
+			</div>
+			<div
+				n="49">
+				<head>Periocha XLIX</head>
+				<p>Tertii Punici belli initium altero et sescentesimo ab Vrbe condita anno,intra quintum annum,
+					quam erat coeptum, consummati. </p>
+				<p>Inter M. Porcium Catonem et Scipionem Nasicam, quorum alter sapientissimusuir in ciuitate
+					habebatur, alter optimus uir etiam iudicatus a senatu erat,diuersis certatum sententiis est,
+					Catone suadente bellum et ut tollereturdelereturque Carthago, Nasica dissuadente. Placuit
+					tamen, quod contrafoedus naues haberent, quod exercitum extra fines duxissent, quod sociopopuli
+					R. et amico Masinissae arma intulissent, quod filium eius Gulussam,qui cum legatis Romanis
+					erat, in oppidum non recepissent, bellum hisindici. </p>
+				<p>Prius quam ullae copiae in naues imponerentur, Vticenses legati Romamuenerunt se suaque omnia
+					dedentes. Ea legatio uelut omen grata patribus,acerba Carthaginiensibus fuit. </p>
+				<p>Ludi Diti patri ad Tarentum ex praecepto librorum facti, qui ante annumcentesimum primo
+					Punico bello, quingentesimo et altero anno ab urbe conditafacti erant. </p>
+				<p>Legati XXX Romam uenerunt, per quos se Carthaginienses dedebant. Catonissententia euicit ut
+					in decreto perstaretur et ut consules quam primum adbellum profiscerentur. Qui ubi in Africam
+					transierunt, acceptis quosimperauerant CCC obsidibus et armis omnibus instrumentisque belli, si
+					quaCarthagine erant, cum ex auctoritate patrum iuberent ut in alium locum, duma mari X milia
+					passuum ne minus remotum, oppidum facerent, indignitate reiad bellandum Carthaginienses
+					compulerunt. </p>
+				<p>Obsideri obpugnarique coepta est Carthago a L. Marcio M'. Manilio coss. Inqua obpugnatione
+					cum neglectos ab una parte muros duo tribuni temere cumcohortibus suis inrupissent et ab
+					oppidanis grauiter caederentur, aScipione Orfiniato expliciti sunt. Per quem et castellum
+					Romanorum, quodnocte expugnabant, paucis equitibus iuuantibus liberatum est castrorumque,quae
+					Carthaginienses omnibus copiis ab urbe pariter egressi obpugnabant,liberatorum is ipse
+					praecipuam gloriam tulit. </p>
+				<p>Praeterea cum ab inrita obpugnatione Carthaginis consul (alter enim Romamad comitia ierat)
+					exercitum duceret aduersus Hasdrubalem (cum ampla manusaltum iniquum insederat) suasit primo
+					consuli ne tam iniquo lococonfligeret. Victus deinde conplurium, qui et prudentiae et uirtuti
+					eiusinuidebant, sententiis et ipse saltum ingressus est. Cum, sicutpraedixerat, fusus
+					fugatusque esset Romanus exercitus et duae cohortes abhoste obsiderentur, cum paucis equitum
+					turmis in saltum reuersus liberauiteas et incolumes reduxit. Quam uirtutem eius et Cato, uir
+					promptioris aduituperandum linguae, in senatu sic prosecutus est ut diceret reliquos, quiin
+					Africa militarent, umbras uolitare, Scipionem uigere, et populus R. eofauore complexus ut
+					comitiis plurimae eum tribus consulem scriberent, cumhoc per aetatem non liceret. </p>
+				<p>Cum L. Scribonius tr. pl. rogationem promulgasset, ut Lusitani, qui infidem populo R. dediti
+					ab Seruio Galba in Galliam uenissent, in libertatemrestituerentur, M. Cato acerrime suasit.
+					Extat oratio in Annalibus ipsiusinclusa. </p>
+				<p>Q. Fuluius Nobilior ei, saepe ab eo in senatu laceratus, respondit proGalba; ipse quoque
+					Galba cum se damnari uideret, complexus duos filiospraetextatos et Sulpicii Galli filium, cuius
+					tutor erat, ita miserabiliterpro se locutus est ut rogatio antiquaretur. Exstant tres orationes
+					eius,duae aduersus Libonem tr. pl. rogationemque eius habitae de Lusitanis, unacontra L.
+					Cornelium Cethegum, in qua Lusitanos prope se castra habentiscaesos fatetur, quod compertum
+					habuerit, equo atque homine suo rituimmolatis per speciem pacis adoriri exercitum suum in animo
+					habuisse.Andriscus quidam, ultimae sortis homo, Persei se regis filium ferens etmutato nomine
+					Philippus uocatus cum ab urbe Romana, quo illum Demetrius,Syriae rex, ob hoc ipsum mendacium
+					miserat, clam profugisset, multis adfalsam eius fabulam uelut ad ueram coeuntibus, contracto
+					exercitu totamMacedoniam aut uoluntate incolentium aut armis occupauit.Fabulam autem talem
+					finxerat: </p>
+				<p>"Ex paelice se et Perseo rege ortum traditum educandum Cretensi cuidamesse, ut in belli casus
+					quod ille cum Romanis gereret, aliquod uelut semenregiae stirpis exstaret. Hydramyti se
+					educatum usque ad XII aetatis annum,patrem eum esse credentem a quo educaretur, ignarum generis
+					fuisse sui.Adfecto deinde eo, cum prope ad ultimum finem uitae esset, detectam tandemsibi
+					originem suam falsaeque matri libellum datum signo Persei regissignatum, quem sibi traderet,
+					cum ad puberem aetatem uenisset,obtestationesque ultimas adiectas, ut res in occultato ad id
+					tempusseruaretur. Pubescenti libellum traditum in quo relicti sibi duo thensauria patre
+					dicerentur. Tum scienti mulierem se subditum esse, uerum stirpemignoranti edidisse genus atque
+					obtestatam, ut prius quam manaret ad Eumenenres, Perseo inimicum, excederet his locis, ne
+					interficeretur. Eo seexterritum, simul sperantem aliquod a Demetrio auxilium in Syriam
+					secontulisse atque ibi primum quis esset palam expromere ausum."</p>
+			</div>
+			<div
+				n="50">
+				<head>Periocha L</head>
+				<p> Thessalia, cum et illam inuadere armis atque occupare Pseudophilippusuellet, per legatos
+					Romanorum auxiliis Achaeorum defensa est.Prusias, rex Bithyniae, omnium humillimorumque
+					uitiorum, a Nicomede filioadiuuante Attalo, rege Pergami, occisus, habebat alterum filium, qui
+					prosuperiore ordine dentium enatum habuisse unum os continens dicitur.Cum III legati ad pacem
+					inter Nicomedem et Prusiam faciendam ab Romanismissi essent, cum unus ex his multis
+					cicatricibus sartum caput haberet,alter pedibus aeger esset, tertius ingenio socors haberetur,
+					M. Cato dixit"eam in legationem, nec caput nec pedes nec cor habere." </p>
+				<p>In Syria, quae eo tempore stirpe generis parem Macedonum regis, inertiasocordiaque similem
+					Prusiae regem habebat, iacente eo in ganea et lustrisHammonius regnabat, per quem et amici
+					omnes regis et Laodice regina etAntigonus, Demetri filius, occisi sunt. </p>
+				<p>Masinissa, Numidiae rex, maior XC annis decessit, uir insignis. Intercetera iuuenalia opera,
+					quae ad ultimum edidit adeo etiam neruis in senectauirgit, ut post sextum et octogesimum annum
+					filium genuerit.Inter tres liberos eius (maximus natu Micipsa, Gulussa, Mastanabal, quietiam
+					Graecis litteris eruditus erat) P. Scipio Aemilianus, cum commune hisregnum pater reliquisset
+					et diuidere eos arbitro Scipione iussisset, partesadministrandi regni diuisit. Item Phameae
+					Hamilconi, praefecto equitumCarthaginiensium, uiro forti et cuius praecipua opera Poeni
+					utebantur,persuasit ut ad Romanos cum equitatu suo transiret. Ex tribus legatis quiad
+					Masinissam missi erant, M. Claudius Marcellus cohorta tempestatefluctibus obrutus est. </p>
+				<p>Carthaginienses Hasdrubalem, Masinissae nepotem, quem praetorem habebant,hominem proditionis
+					suspectum, in curia occiderunt ; quae suspicio indemanauit, quod propinquus esset Gulussae
+					Romanorum auxilia iuuantis.P. Scipio Aemilianus cum aedilitatem peteret, consul a populo
+					dictus.Quoniam per annos consuli fieri non licebat, cum magno certaminesuffragantis plebis et
+					repugnantibus ei aliquamdiu patribus, legibussolutus et consul creatus. </p>
+				<p>M'. Manilius aliquot urbes circumpositas Carthagini expugnauit. </p>
+				<p>Pseudophilippus in Macedonia, caeso cum exercitu P. Iuuentio praetore, abQ. Caecilio uictus
+					captusque est, et reuicta Macedonia.</p>
+			</div>
+			<div
+				n="51">
+				<head>Periocha LI</head>
+				<p> Carthago, in circuitum XXIII milia patens, magno labore obsessa et perpartes capta est;
+					primum a Mancino legato, deinde a Scipione cos., cuiextra sortem Africa prouincia data erat.
+					Carthaginienses portu nouo, quiauetus obstructus a Scipione erat, facto et contracta clam
+					exiguo temporeampla classe infeliciter nauali proelio pugnauerunt. Hasdrubalis quoque,ducis
+					eorum, castra ad Nepherim oppidum loco difficili sita cum exercitudeleta sunt a Scipione, qui
+					tandem expugnauit septingentesimo anno quamerat condita. </p>
+				<p>Spoliorum maior pars Siculis, quibus ablata erant, reddita. </p>
+				<p>Vltimo urbis excidio cum se Hasdrubal Scipioni dedisset, uxor eius, quaepaucis ante diebus de
+					marito impetrare non potuerat ut ad uictoremtransfugerent, in medium se flagrantis urbis
+					incendium cum duobus liberisex arce praecipitauit. </p>
+				<p>Scipio exemplo patris sui, Aemili Pauli, qui Macedoniam uicerat, ludosfecit transfugasque ac
+					fugitiuos bestiis obiecit. </p>
+				<p>Belli Achaici semina referuntur haec, quod legati Romani ab Achaeis pulsatisint Corinthi,
+					missi ut eas ciuitates, quae sub dicione Philippi fuerant,ab Achaico concilio secernerent. </p>
+			</div>
+			<div
+				n="52">
+				<head>Periocha LII</head>
+				<p> Cum Achaeis, qui in auxilio Boeotos et Chalcidenses habebant, Q. CaeciliusMetellus ad
+					Thermopylas bello conflixit. Quibus uictis dux eorum Critolausmortem sibi ueneno consciuit. In
+					cuius locum Diaeus, Achaici motus primusauctor, ab Achaeis dux creatus ad Isthmon a L. Mummio
+					cos. uictus est. Quiomni Achaia in deditionem accepta Corinthon ex S. C. diruit, quia ibilegati
+					Romani uiolati erant. Thebae quoque et Chalchis, quae auxiliofuerant, dirutae. Ipse L. Mummius
+					abstinentissimum uirum egit, nec quicquamex his operibus ornamentisque quae praediues Corinthos
+					habuit in domum eiusperuenit.</p>
+				<p>Q. Caecilius Metellus de Andrisco triumphauit, P. Cornelius ScipioAemilianus de Carthagine et
+					Hasdrubale.</p>
+				<p>Viriathus in Hispania, primum ex pastore uenator, ex uenatore latro, moxiusti quoque
+					exercitus dux factus, totam Lusitaniam occupauit, M. Vetiliumpraetorem fuso eius exercitu
+					cepit, post quem C. Plautius praetor nihilofelicius rem gessit; tantumque terroris is hostis
+					intulit ut aduersus eumconsulari opus esset et duce et exercitu.</p>
+				<p>Praeterea motus Syriae et bella inter reges gesta referuntur.</p>
+				<p>Alexander, homo ignotus et incertae stirpis, occiso, sicut ante dictum est,Demetrio rege in
+					Syria regnabat. Hunc Demetrius, Demetri filius, qui apatre quondam ob incertos belli casus
+					ablegatus Cnidon fuerat, contemptasocordia inertiaque eius, adiuuante Ptolemaeo, Aegypti rege,
+					cuius filiamCleopatram in matrimonium acceperat, bello interemit. Ptolemaeus grauiterin caput
+					uulneratus inter curationem, dum ossa medici terebrare conantur,expirauit, atque in locum eius
+					frater minor Ptolemaeus qui Cyrenisregnabat, successit. Demetrius ob crudelitatem quam in suos
+					per tormentaexercebat, ab Diodoto quodam, uno ex subiectis, qui Alexandri filio bimuloadmodum
+					regnum adserebat, bello superatus Seleuceam confugit.referuntur.</p>
+				<p> L. Mummius de Achaeis triumphauit, signa aerea marmoreaque et tabulaspictas in triumpho
+					tulit. </p>
+			</div>
+			<div
+				n="53">
+				<head>Periocha LIII</head>
+				<p> Appius Claudius cos. Salassos, gentem Alpinam, domuit. </p>
+				<p>Alter Pseudophilippus in Macedonia a L. Tremellio quaestore cum exercitucaesus est. </p>
+				<p>Q. Caecilius Metellus procos. Celtiberos cecidit et a Q. Fabio procos.magna pars Lusitaniae
+					expugnatis aliquot urbibus recepta est. </p>
+				<p>Acilius senator Graece res Romanas scribit. </p>
+			</div>
+			<div
+				n="54">
+				<head>Periocha LIV</head>
+				<p>Q. Pompeius cos. in Hispania Termestinos subegit. Cum isdem et Numantinispacem a populo R.
+					infirmatam fecit.</p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXXVIII miliaCCCCXLII.</p>
+				<p>Cum Macedonum legati questum de D. Iunio Silano praetore uenissent, quodacceptis pecuniis
+					prouinciam spoliasset, et senatus de querellis eorumuellet cognoscere, T. Manlius Torquatus,
+					pater Silani, petiit impetrauitqueut sibi cognitio mandaretur; et domi causa cognita filium
+					condemnauitabdicauitque. Ac ne funeri quidem eius, cum suspendio uitam finisset,interfuit
+					sedensque domi potestatem consultantibus ex instituto fecit.</p>
+				<p>Q. Fabius procos. rebus in Hispania prospere gestis labem imposuit pace cumViriatho aequis
+					condicionibus facta.</p>
+				<p>Viriathus a proditoribus, consilio Seruili Caepionis, interfectus est et abexercitu suo
+					multum comploratus ac nobiliter sepultus, uir duxque magnus etper XIIII annos quibus cum
+					Romanis bellum gessit, frequentius superior.</p>
+			</div>
+			<div
+				n="55">
+				<head>Periocha LV</head>
+				<p> P. Cornelio Nasica, cui cognomen Serapion fuit ab inridente Curiatio trib.pleb. impositum,
+					et Dec. Iunio Bruto coss. dilectum habentibus in conspectutironum res saluberrimi exempli facta
+					est: nam C. Matienius accusatus estapud tribunos pl., quod exercitum ex Hispania deseruisset,
+					damnatusque subfurca diu uirgis caesus est et sestertio nummo ueniit.</p>
+				<p>Tribuni pleb. quia non inpetrarent ut sibi denos quos uellent militeseximere liceret,
+					consules in carcerem duci iusserunt.</p>
+				<p>Iunius Brutus cos. in Hispania iis qui sub Viriatho militauerant agros etoppidum dedit, quod
+					uocatum est Valentia.</p>
+				<p>M. Popilius a Numantinis, cum quibus pacem factam inritam fieri senatuscensuerat, cum
+					exercitu fusus fugatusque est.</p>
+				<p>C. Hostilio Mancino cos. sacrificante pulli ex cauea euolauerunt;conscendenti deinde in
+					nauem,ut in Hispaniam proficisceretur, accidit uox:"Mane, Mancine". Quae auspicia tristia
+					fuisse euentu probatum est. Victusenim a Numantinis et castris exutus, cum spes nulla seruandi
+					exercitusesset, pacem cum his fecit ignominiosam, quam ratam esse senatus uetuit.XXXX milia
+					Romanorum ab IIII milibus Numantinorum uicta erant.</p>
+				<p>Decimus Iunius Lusitaniam expugnationibus urbium usque ad Oceanumperdomuit, et cum flumen
+					Obliuionem transire nollent, raptum signiferosignum ipse transtulit et sic ut transgrederentur
+					persuasit.</p>
+				<p>Alexandri filius, rex Syriae, X annos admodum habens, a Diodoto, quiTryphon cognominabatur,
+					tutore suo, per fraudem occisus est corruptismedicis qui illum calculi dolore consumi ad
+					populum mentiti, dum secant,occiderunt. </p>
+			</div>
+			<div
+				n="56">
+				<head>Periocha LVI</head>
+				<p>Decimus Iunius Brutus in Hispania ulteriore feliciter aduersus Gallaecospugnauit. </p>
+				<p>Dissimili euentu M. Aemilius Lepidus procos. aduersus Vaccaeos rem gessit,clademque similem
+					Numantinae passus est. </p>
+				<p>Ad exsoluendum foederis Numantini religione populum Mancinus, cum huius reiauctor fuisset,
+					deditus Numantinis non est receptus. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXVII miliaDCCCCXXXIII. </p>
+				<p>Fuluius Flaccus cos. Vardeos in Illyrico subegit. </p>
+				<p>M. Cosconius praetor in Thracia cum Scordiscis prospere pugnauit. Cumbellum Numantinum uitio
+					ducum non sine pudore publico duraret, delatus estultro Scipioni Africano a senatu populoque R.
+					consulatus ; quem cum illicapere ob legem, quae uetabat quemquam iterum consulem fieri, non
+					liceret,sicut priori consulatu legibus solutus est. </p>
+				<p>Bellum seruile in Sicilia ortum cum opprimi a praetoribus non potuisset, C.Fuluio cos.
+					mandatum est. Huius belli initium fuit Eunus seruus, nationeSyrus, qui contracta agrestium
+					seruorum manu et solutis ergastulis iustiexercitus numerum impleuit. Cleon quoque alter seruus
+					ad LXX milia seruorumcontraxit, et iunctis copiis aduersus exercitum Romanum bellum
+					saepegesserunt.</p>
+			</div>
+			<div
+				n="57">
+				<head>Periocha LVII</head>
+				<p> Scipio Africanus Numantiam obsedit et corruptum licentia luxuriaqueexercitum ad seuerissimam
+					militiae disciplinam reuocauit. Omnia deliciaruminstrumenta recidit, duo milia scortorum a
+					castris eiecit, militem cotidiein opere habuit et XXX dierum frumentum ad septenos uallos ferre
+					cogebat.Aegre propter onus incedenti dicebat: "cum gladio te uallare scieris,uallum ferre
+					desinito"; alii scutum parum habiliter ferenti, "ampliuseum scutum iusto ferre, neque id se
+					reprehendere, quando melius scuto quamgladio uteretur ". Quem militem extra ordinem
+					deprehendit, si Romanusesset, uitibus, si extraneus, uirgis cecidit. Iumenta omnia, ne
+					exonerarentmilitem, uendidit. Saepe aduersus eruptiones hostium feliciter pugnauit.Vaccaei
+					obsessi liberis coniugibusque trucidatis ipsi se interemerunt.</p>
+				<p>Scipio amplissima munera missa sibi ab Antiocho, rege Syriae, cum celarealiis imperatoribus
+					regum munera mos esset, pro tribunali accepturum seesse dixit omniaque ea quaestorem referre in
+					publicas tabulas iussit: exhis se uiris fortibus dona esse daturum. Cum undique Numantiam
+					obsidioneclusisset et obsessos fame uideret urgeri, hostes qui pabulatum exierant,uetuit
+					occidi, quia diceret uelocius eos absumpturos frumenti quodhaberent, si plures fuissent.</p>
+			</div>
+			<div
+				n="58">
+				<head>Periocha LVIII</head>
+				<p> Tib. Sempronius Gracchus trib. pleb. cum legem agrariam ferret aduersusuoluntatem senatus et
+					equestris ordinis: nequis ex publico agro plus quammille iugera possideret, in eum furorem
+					exarsit ut M. Octauio collegaecausam diuersae partis defendenti potestatem lege lata abrogaret,
+					seque etC. Gracchum fratrem et Appium Claudium socerum triumuiros ad diuidendumagrum crearet.
+					Promulgauit et aliam legem agrariam, qua sibi latius agrumpatefaceret, ut idem triumuiri
+					iudicarent, qua publicus ager, qua priuatusesset. Deinde cum minus agri esset quam quod diuidi
+					posset sine offensaetiam plebis, quoniam eos ad cupiditatem amplum modum sperandi
+					incitauerat,legem se promulgaturum ostendit ut his, qui Sempronia lege agrum acciperedeberent,
+					pecunia quae regis Attali fuisset diuideretur. Heredem autempopulum Romanum reliquerat Attalus,
+					rex Pergami, Eumenis filius. </p>
+				<p>Tot indignitatibus commotus grauiter senatus, ante omnis T. Anniusconsularis. Qui cum in
+					senatu in Gracchum perorasset, raptus ab eo adpopulum delatusque plebi, rursus in eum pro
+					rostris contionatus est. Cumiterum trib. pleb. creari uellet Gracchus, auctore P. Cornelio
+					Nasica inCapitolio ab optimatibus occisus est, ictus primum fragmentis subselli, etinter alios
+					qui in eadem seditione occisi erant insepultus in flumenproiectus.</p>
+				<p>Res praeterea in Sicilia uario euentu aduersus fugitiuos gestas continet.</p>
+			</div>
+			<div
+				n="59">
+				<head>Periocha LIX</head>
+				<p> Numantini fame coacti ipsi se per uicem traicientes trucidauerunt, captam urbem Scipio
+					Africanus deleuit et de ea triumphauit XIIII anno post Carthaginem deletam. </p>
+				<p>P. Rupilius cos. in Sicilia cum fugitiuis debellauit. </p>
+				<p>Aristonicus, Eumenis regis filius, Asiam occupauit, cum testamento Attali regis legata populo
+					R. libera esse deberet. Aduersus eum P. Licinius Crassus cos., cum idem pontifex max. esset,
+					quod numquam antea factum erat,extra Italiam profectus proelio uictus et occisus est. M.
+					Perperna cos. uictum Aristonicum in deditionem accepit. </p>
+				<p>Q. Pompeius Q. Metellus, tunc primum uterque ex plebe facti censores, lustrum condiderunt.
+					Censa sunt ciuium capita CCCXVIII milia DCCCXXIII praeter pupillos, pupillas et uiduas. </p>
+				<p>Q. Metellus censor censuit ut cogerentur omnes ducere uxores liberorum creandorum causa.
+					Extat oratio eius, quam Augustus Caesar, cum demaritandis ordinibus ageret, uelut in haec
+					tempora scriptam in senatu recitauit. </p>
+				<p>C. Atinius Labeo trib. pleb. Q. Metellum censorem, a quo in senatu legendo praeteritus erat,
+					de Saxo deici iussit ; quod ne fieret, ceteri tribuni plebis auxilio tuerunt. </p>
+				<p>Cum Carbo trib. plebi rogationem tulisset, ut eumdem tribunum pleb., quotiens uellet, creare
+					liceret, rogationem eius P. Africanus grauissimaoratione dissuasit ; in qua dixit Ti. Gracchum
+					iure caesum uideri. C. Gracchus contra suasit rogationem, sed Scipio tenuit. </p>
+				<p>Bella inter Antiochum, Syriae, et Phraaten, Parthorum regem, gesta nec magis quietae res
+					Aegypti referuntur: Ptolemaeus Euergetes cognominatus, ob nimiam crudelitatem suis inuisus,
+					incensa a populo regia clam Cypron profugit, et cum sorori eius Cleopatrae, quam filia eius
+					uirgine per uimcompressa atque in matrimonium ducta repudiauerat, regnum a populo datumesset,
+					infensus filium quem ex illa habebat in Cypro occidit caputque eius et manus et pedes matri
+					misit. </p>
+				<p>Seditiones a triumuiris Fuluio Flacco et C. Graccho et C. Papirio Carbone agro diuidendo
+					creatis excitatae. Cum P. Scipio Africanus aduersareturfortisque ac ualidus pridie domum se
+					recepisset, mortuus in cubiculo inuentus est. Suspecta fuit, tamquam ei uenenum dedisset,
+					Sempronia uxor hinc maxime quod soror esset Gracchorum cum quibus simultas Africano fuerat. De
+					morte tamen eius nulla quaestio acta. Defuncto eo acrius seditiones triumuirales exarserunt. </p>
+				<p>C. Sempronius cos. aduersus Iapydas primo male rem gessit, mox uictoria cladem acceptam
+					emendauit uirtute Decimi Iuni Bruti, eius qui Lusitaniam subegerat.</p>
+			</div>
+			<div
+				n="60">
+				<head>Periocha LX</head>
+				<p> L. Aurelius cos. bellantes Sardos subegit. </p>
+				<p>M. Fuluius Flaccus primus transalpinos Liguras domuit bello, missus inauxilium Massiliensium
+					aduersus Salluuios Gallos, qui fines Massiliensiumpopulabantur. </p>
+				<p>L. Opimius praetor Fregellanos, qui defecerant, in deditionem accepit,Fregellas diruit. </p>
+				<p>Pestilentia in Africa ab ingenti lucustarum multitudine et deinde necatarumstrage fuisse
+					traditur. </p>
+				<p>Lustrum a censoribus conditum est. Censa sunt ciuium capita CCCXCIIII miliaDCCXXXVI. </p>
+				<p>C. Gracchus, Tiberi frater, trib. plebis, eloquentior quam frater,perniciosas aliquot leges
+					tulit, inter quas frumentariam, ut senis ettriente frumentum plebi daretur; alteram legem
+					agrariam quam et fratereius tulerat; tertiam, qua equestrem ordinem tunc cum senatu
+					consentientemcorrumperet, ut sescenti ex equite in curiam sublegerentur et, quia
+					illistemporibus CCC tantum senatores erant, DC equites CCC senatoribusadmiscerentur, id est ut
+					equester ordo bis tantum uirium in senatu haberet.Et continuato in alterum annum tribunatu
+					legibus agrariis latis effecit utcomplures coloniae in Italia deducerentur et una in solo
+					dirutaeCarthaginis, quo ipse triumuir creatus coloniam deduxit. </p>
+				<p>Praeterea res a Q. Metello cos. aduersus Baleares gestas continet, quosGraeci Gymnesios
+					appellant, quia aestatem nudi exigunt. Baleares a telimissu appellati aut a Balio, Herculis
+					comite ibi relicto, cum Hercules adGeryonem nauigaret. </p>
+				<p>Motus quoque Syriae referuntur, in quibus Cleopatra Demetrium uirum suum etSeleucum filium
+					indignata quod occiso patre eius a se iniussu suo diademasumpsisset, interemit.</p>
+			</div>
+			<div
+				n="61">
+				<head>Periocha LXI</head>
+				<p>C. Sextius procos. uicta Salluuiorum gente coloniam Aquas Sextias condidit,ob aquarum copiam
+					e caldis frigidisque fontibus atque a nomine suo itaappellatas. </p>
+				<p>Cn. Domitius procos. aduersus Allobrogas ad oppidum Vindalium feliciterpugnauit. Quibus
+					bellum inferendi causa fuit quod Toutomotulum, Salluuiorumregem, fugientem recepissent et omni
+					ope iuuissent, quodque Aeduorum agros,sociorum populi R., uastassent. </p>
+				<p>C. Gracchus seditioso tribunatu acto cum Auentinum quoque armatamultitudine occupasset, a L.
+					Opimio cos. ex S. C. uocato ad arma populopulsus et occisus est, et cum eo Fuluius Flaccus
+					consularis, socius eiusdemfuroris. </p>
+				<p>Q. Fabius Maximus cos., Pauli nepos, aduersus Allobrogas et Bituitum,Aruernorum regem,
+					feliciter pugnauit. Ex Bituiti exercitu occisa milia CXX; ipse cum ad satisfaciendum senatui
+					Romam profectus esset, Albamcusdodiendus datus est, quia contra pacem uidebatur, ut in
+					Galliamremitteretur. Decretum quoque est, ut Congonnetiacus, filius eius,conprehensus Romam
+					mitteretur. Allobroges in deditionem recepti. </p>
+				<p>L. Opimius accusatus apud populum a. Q. Decio trib. pl., quod indemnatosciues in carcerem
+					coniecisset, absolutus est. </p>
+			</div>
+			<div
+				n="62">
+				<head>Periocha LXII</head>
+				<p> Q. Marcius cos. Stynos, gentem Alpinam, expugnauit.</p>
+				<p>Micipsa, Numidiae rex, mortuus regnum tribus filiis reliquit: Atherbali,Hiempsali, Iugurthae,
+					fratris filio, quem adoptauerat. </p>
+				<p>L. Caecilius Metellus Dalmatas subegit. </p>
+				<p>Iugurtha Hiempsalem fratrem petiit bello. Qui uictus occiditur; Atherbalemregno expulit; is a
+					senatu restitutus est. </p>
+				<p>L. Caecilius Metellus Cn. Domitius Ahenobarbus censores duos et XXX senatumouerunt. </p>
+				<p>Praeterea motus Syriae regumque continet. </p>
+			</div>
+			<div
+				n="63">
+				<head>Periocha LXIII</head>
+				<p>C. Porcius cos. in Thracia male aduersus Scordiscos pugnauit. </p>
+				<p>Lustrum a censoribus conditum est.</p>
+				<p>Censa sunt ciuium capita CCCXCIIII milia CCCXXXVI.</p>
+				<p>Aemilia, Licinia, Marcia, uirgines Vestales, incesti damnatae sunt, idqueincestum quem ad
+					modum et commissum et deprehensum et uindicatum sit refertur.</p>
+				<p>Cimbri, gens uaga populabundi in Illyricum uenerunt. Ab his Papirius Carbocos. cum exercitu
+					fusus est.</p>
+				<p>Liuius Drusus cos. aduersus Scordiscos, gentem a Gallis oriundam, inThracia feliciter
+					pugnauit.</p>
+			</div>
+			<div
+				n="64">
+				<head>Periocha LXIV</head>
+				<p>Atherbal bello petitus ab Iugurtha et in oppido Cirtha obsessus contradenuntiationem senatus
+					ab eo occisus est, et ob hoc bellum Iugurthaeindictum, idque Calpurnius Bestia cos. gerere
+					iussus pacem cum Iugurthainiussu populi et senatus fecit. </p>
+				<p>Iugurtha fide publica euocatus ad indicandos auctores consiliorum suorum,quod multos pecunia
+					in senatu corrupisse dicebatur, Romam uenit et proptercaedem admissam in regulum quemdam nomine
+					Massiuam, qui regnum eius populoR. inuisi adfectabat, Romae interfectum cum periclitaretur
+					causam capitisdicere, clam profugit et cedens urbe fertur dixisse : "O urbem uenalem etcito
+					perituram, si emptorem inuenerit." </p>
+				<p>A. Postumius legatus infeliciter proelio aduersus Iugurtham gesto pacemquoque adiecit
+					ignominiosam, quam non esse seruandam senatus censuit. </p>
+			</div>
+			<div
+				n="65">
+				<head>Periocha LXV</head>
+				<p> Q. Caecilius Metellus cos. duobus proeliis Iugurtham fudit totamqueNumidiam uastauit. </p>
+				<p>M. Iunius Silanus cos. aduersus Cimbros infeliciter pugnauit. LegatisCimbrorum sedem et agros
+					in quibus consisterent postulantibus senatusnegauit. </p>
+				<p>M. Minucius procos. aduersus Thracas prospere pugnauit. </p>
+				<p>L. Cassius cos. a Tigurinis Gallis, pago Heluetiorum, qui a ciuitatesecesserant, in finibus
+					Nitiobrogum cum exercitu caesus est. </p>
+				<p>Milites, qui ex ea caede superauerant, obsidibus datis et dimidia rerumomnium parte, ut
+					incolumes dimitterentur, cum hostibus pacti sunt. </p>
+			</div>
+			<div
+				n="66">
+				<head>Periocha LXVI</head>
+				<p> Iugurtha pulsus a C. Mario Numidia cum auxilio Bocchi, Maurorum regis, adiutus esset, caesis
+					proelio Bocchi quoque copiis, nolente Boccho bellum infeliciter susceptum diutius sustinere
+					uinctus ab eo et Mario traditus est; in qua re praecipua opera L. Corneli Syllae, quaestoris C.
+					Mari, fuit. </p>
+			</div>
+			<div
+				n="67">
+				<head>Periocha LXVII</head>
+				<p>M. Aurelius Scaurus, legatus consulis, a Cimbris fuso exercitu captus est,et cum in consilium
+					ab his aduocatus deterreret eos ne Alpes transirentItaliam petituri, eo quod diceret Romanos
+					uinci non posse, a Boiorige,feroci iuuene, occisus est. Ab isdem hostibus Cn. Manlius cos. et
+					Q.Seruilius Caepio procos. uicti proelio castris quoque binis exuti sunt,militum milia LXXX
+					occisa, calonum et lixarum XL (secundum Antiatem) apudArausionem. Caepionis, cuius temeritate
+					clades accepta erat, damnati bonapublicata sunt, primi post regem Tarquinium imperiumque ei
+					abrogatum.In triumpho C. Mari ductus ante currum eius Iugurtha cum duobus filiis etin carcere
+					necatus est. </p>
+				<p>Marius triumphali ueste in senatum uenit, quod nemo ante eum fecerat, eiquepropter metum
+					Cimbrici belli continuatus per complures annos estconsulatus. Secundo et tertio absens consul
+					creatus quartum consulatumdissimulanter captans consecutus est. </p>
+				<p>Cn. Domitius pont. max. populi suffragio creatus est. </p>
+				<p>Cimbri uastatis omnibus quae inter Rhodanum et Pyrenaeum sunt, per saltumin Hispaniam
+					transgressi ibique multa loca populati a Celtiberis fugatisunt, reuersique in Galliam in
+					Veliocassis se Teutonis coniunxerunt. </p>
+			</div>
+			<div
+				n="68">
+				<head>Periocha LXVIII</head>
+				<p>M. Antonius praetor in Ciliciam maritimos praedones--id est piratas--persecutus est. </p>
+				<p>C. Marius cos. summa ui oppugnata a Teutonis et Ambronibus castra defendit. </p>
+				<p>Duobus deinde proeliis circa Aquas Sextias eosdem hostes deleuit, in quibuscaesa traduntur
+					hostium CC milia, capta XC. </p>
+				<p>Marius absens quinto cos. creatus est. Triumphum oblatum, donec et Cimbrosuinceret, distulit. </p>
+				<p>Cimbri cum repulso ab Alpibus fugatoque Q. Catulo procos., qui faucesAlpium obsidebat, (ad
+					flumen Athesim cohortem quae castellum edituminsederat, reliquerat, quae tamen uirtute sua
+					explicata fugientem procos.exercitumque consecuta est) in Italiam traiecissent, iunctis eiusdem
+					Catuliet C. Mari exercitibus, proelio uicti sunt ; in quo caesa traduntur hostiummilia CXL,
+					capta LX. </p>
+				<p>Marius totius ciuitatis consensu exceptus pro duobus triumphis quiofferebantur, uno contentus
+					fuit. Primores ciuitatis, qui ei aliquamdiu utnouo homini ad tantos honores euecto inuiderant,
+					conserua tam ab eo rem p.fatebantur. </p>
+				<p>Publicius Marcellus matre occisa primus in culleo insutus in marepraecipitatus est. </p>
+				<p>Ancilia cum strepitu mota esse, antequam Cimbricum bellum consummaretur,refertur. </p>
+				<p>Bella praeterea inter Syriae reges gesta continet. </p>
+			</div>
+			<div
+				n="69">
+				<head>Periocha LXIX</head>
+				<p>L. Apuleius Saturninus, adiuuante C. Mario et per milites occiso A. Nunniocompetitore
+					tribunus plebis per uim creatus, non minus uiolentertribunatum, quam petierat, gessit et cum
+					legem agrariam per uim tulisset,diem dixit. Qui cum a bonis ciuibus defenderetur, ne causa
+					certaminumesset, in exilium uoluntarium, Rhodum profectus est, ibique audiendo etlegendo magnos
+					uiros auocabatur. </p>
+				<p>Profecto C. Marius, seditionis auctor, cui sextum consulatum pecunia pertribus sparsa emerat,
+					aqua et igni interdixit. </p>
+				<p>Idem Apuleius Saturninus trib. pleb. C. Memmium, candidatum consulatus,quoniam aduersarium
+					eum actionibus suis timebat, occidit. Quibus rebusconcitato senatu, in cuius causam et C.
+					Marius, homo uarii mutabilisingenii consiliique semper secundum fortunam, transierat, oppressus
+					armiscum Glaucia praetore et aliis eiusdem furoris sociis bello quodaminterfectus est. </p>
+				<p>Q. Caecilius Metellus ab exilio ingenti totius ciuitatis fauore reductus est. </p>
+				<p>M'. Aquilius procos. in Sicilia bellum seruile excitatum confecit. </p>
+			</div>
+			<div
+				n="70">
+				<head>Periocha LXX</head>
+				<p>Cum M'. Aquilius de pecuniis repetundis causam diceret, ipse iudices rogarenoluit ; M.
+					Antonius, qui pro eo perorabat, tunicam a pectore eiusdiscidit, ut honestas cicatrices
+					ostenderet. Indubitate absolutus est.Cicero eius rei solus auctor. </p>
+				<p>T. Didius procos. aduersus Celtiberos feliciter pugnauit. </p>
+				<p>Ptolemaeus, Cyrenarum rex, cui cognomen Apionis fuit, mortuus heredempopulum R. reliquit et
+					eius regni ciuitates senatus liberas esse iussit.Ariobarzanes in regnum Cappadociae a L.
+					Cornelio Sylla reductus est.Parthorum legati a rege Arsace missi uenerunt ad Syllam ut
+					amicitiam populiR. peterent. </p>
+				<p>P. Rutilius, uir summae innocentiae, quoniam legatus C. Muci procos. apublicanorum iniuriis
+					Asiam defenderat, inuisus equestri ordini penes quemiudicia erant, repetundarum damnatus in
+					exilium missus est. </p>
+				<p>C. Sentius praetor aduersus Thracas infeliciter pugnauit. </p>
+				<p>Senatus, cum impotentiam equestris ordinis in iudiciis exercendis ferrenollet, omni ui eniti
+					coepit ut ad se iudicia transferret, sustinentecausam eius M. Liuio Druso trib. pleb., qui ut
+					uires sibi adquireret,perniciosa spe largitionum plebem concitauit. </p>
+				<p>Praeterea motus Syriae regnumque continet. </p>
+			</div>
+			<div
+				n="71">
+				<head>Periocha LXXI</head>
+				<p>M. Liuius Drusus trib. pleb., quo maioribus uiribus senatus causamsusceptam tueretur, socios
+					et Italicos populos spe ciuitatis Romanaesollicitauit, iisque adiuuantibus per uim legibus
+					agrariis frumentariisquelatis iudiciariam quoque pertulit ut aequa parte iudicia penes senatum
+					etequestrem ordinem essent. Cum deinde promissa sociis ciuitas praestari nonposset, irati
+					Italici defectionem agitare coeperunt. Eorum coetusconiurationesque et orationes in consiliis
+					principum referuntur.Propter quae Liuius Drusus inuisus etiam senatui factus uelut
+					socialisbelli auctor, incertum a quo domi occisus est.</p>
+			</div>
+			<div
+				n="72">
+				<head>Periocha LXXII</head>
+				<p> Italici populi defecerunt: Picentes, Vestini, Marsi, Paeligni, Marrucini,Samnites, Lucani.
+					Initio belli a Picentibus moto Q. Seruilius procos. inoppido Asculo cum omnibus ciuibus R. qui
+					in eo oppido erant occisus est.Saga populus sumpsit. </p>
+				<p>Seruius Galba a Lucanis comprehensus unius feminae opera, ad quamdeuertebatur, e captiuitate
+					receptus est. Aesernia et Alba coloniae abItalicis obsessae sunt. Auxilia deinde Latini nominis
+					et exterarum gentiummissa populo R. et expeditiones inuicem expugnationesque urbium referuntur.
+				</p>
+			</div>
+			<div
+				n="73">
+				<head>Periocha LXXIII</head>
+				<p> L. Iulius Caesar cos. male aduersus Samnites pugnauit. Nola colonia inpotestatem Samnitium
+					uenit cum L. Postumio praetore qui ab his interfectusest. </p>
+				<p>Complures populi ad hostes defecerunt. </p>
+				<p>Cum P. Rutilius cos. parum prospere aduersus Marsos pugnasset et in eoproelio cecidisset, C.
+					Marius, legatus eius, meliore euentu cum hostibusacie conflixit. </p>
+				<p>Seruius Sulpicius Paelignos proelio fudit. </p>
+				<p>Q. Caepio, legatus Rutili, cum obsessus prospere in hostes inrupisset, etob eum successum
+					aequatum ei cum C. Mario esset imperium, temerarius factuset circumuentus insidiis fuso
+					exercitu cecidit. </p>
+				<p>L. Iulius Caesar cos. feliciter aduersus Samnites pugnauit. Ob eamuictoriam Romae saga posita
+					sunt. </p>
+				<p>Et ut uaria belli fortuna esset, Aeserna colonia cum M. Marcello inpotestatem Samnitium
+					uenit, sed et C. Marius proelio Marsos fudit, HierioAsinio, praetore Marrucinorum, occiso. </p>
+				<p>C. Caelius in Gallia transalpina Salluuios rebellantes uicit. </p>
+			</div>
+			<div
+				n="74">
+				<head>Periocha LXXIV</head>
+				<p>Cn. Pompeius Picentes proelio fudit et Asculum obsedit. Propter quamuictoriam Romae
+					praetextae et alia magistratuum insignia sumpta sunt.C. Marius cum Marsis dubio euentu
+					pugnauit. Libertini tunc primum militarecoeperunt. </p>
+				<p>A. Plotius legatus Vmbros, L. Porcius praetor Etruscos, cum uterque populusdefecisset,
+					proelio uicerunt. </p>
+				<p>Nicomedes in Bithyniae, Ariobarzanes in Cappadociae regnum reducti sunt. </p>
+				<p>Cn. Pompeius cos. Marsos acie uicit. Cum aere alieno pressa esset ciuitas,A. Sempronius
+					Asellio praetor, quoniam secundum debitores ius dicebat, abhis qui faenerabant in foro occisus
+					est. </p>
+				<p>Praeterea incursiones Thracum in Macedoniam populationesque continet. </p>
+			</div>
+			<div
+				n="75">
+				<head>Periocha LXXV</head>
+				<p>A. Postumius Albinus legatus cum classi praeesset, infamis crimineperduellionis, ab exercitu
+					suo interfectus est. </p>
+				<p>L. Cornelius Sylla legatus Samnites proelio uicit et bina castra eorumexpugnauit. </p>
+				<p>Cn. Pompeius Vestinos in deditionem accepit. </p>
+				<p>L. Porcius cos. rebus prospere gestis fusisque aliquotiens Marsis, dumcastra eorum expugnat,
+					cecidit. Ea res hostibus uictoriam eius proeliidedit. </p>
+				<p>Cosconius et Lucanus Samnites acie uicerunt, Marium Egnatium, nobilissimumhostium ducem,
+					occiderunt, compluraque oppida in deditionem acceperunt. </p>
+				<p>L. Sylla Hirpinos domuit, Samnites pluribus proeliis fudit, aliquot populosrecepit,
+					quantisque raro quisquam alius ante consulatum rebus gestis adpetitionem consulatus Romam est
+					profectus. </p>
+			</div>
+			<div
+				n="76">
+				<head>Periocha LXXVI</head>
+				<p>A. Gabinius legatus rebus aduersus Lucanos prospere gestis et plurimisoppidis expugnatis in
+					obsidione hostium castrorum cecidit. </p>
+				<p>Sulpicius legatus Marrucinos cecidit totamque eam regionem recepit.Cn. Pompeius procos.
+					Vestinos et Paelignos in deditionem accepit.Marsi quoque a L. Cinna et Caecilio Pio legatis
+					aliquot proeliis fractipetere pacem coeperunt. </p>
+				<p>Asculum a Cn. Pompeio captum est. </p>
+				<p>Caesis et a Mamerco Aemilio legato Italicis Silo Poppaedius, dum Marsorum,auctor eius rei, in
+					proelio cecidit. </p>
+				<p>Ariobarzanes Cappadociae, Nicomedes Bithyniae regno a Mithridate, Pontirege, pulsi sunt. </p>
+				<p>Praeterea incursiones Thracum in Macedoniam populationesque continet. </p>
+			</div>
+			<div
+				n="77">
+				<head>Periocha LXXVII</head>
+				<p>Cum P. Sulpicius trib. pleb. auctore C. Mario perniciosas legespromulgasset, ut exsules
+					reuocarentur et noui ciues libertinique in tribusdistribuerentur et ut C. Marius aduersus
+					Mithridaten, Ponti regem, dumcrearetur, et aduersantibus consulibus Q. Pompeio et L. Syllae
+					uimintulisset, occiso Q. Pompeio, Q. Pompei cos. filio, genero Syllae, L.Sylla cos. cum
+					exercitu in urbem uenit et aduersus factionem Sulpici etMari in ipsa urbe pugnauit eamque
+					expulit. Ex qua XII a senatu hostes,inter quos C. Marius pater et filius, iudicati sunt. </p>
+				<p>P. Sulpicius cum in quadam uilla lateret, indicio serui sui retractus etoccisus est. Seruus
+					ut praemium promissum indici haberet, manumissus et obscelus proditi domini de Saxo deiectus
+					est. </p>
+				<p>C. Marius filius in Africam traiecit. C. Marius pater cum in paludibusMinturnensium lateret,
+					extractus est ab oppidanis, et cum missus adoccidendum eum seruus natione Gallus maiestate
+					tanti uiri perterritusrecessisset, impositus publice naui delatus est in Africam. </p>
+				<p>L. Sylla ciuitatis statum ordinauit, exinde colonias deduxit. </p>
+				<p>Q. Pompeius cos. ad accipiendum a Cn. Pompeio procos. exercitum profectusconsilio eius
+					occisus est. </p>
+				<p>Mithridates, Ponti rex, Bithynia et Cappadocia occupatis et pulso Aquiliolegato Phrygiam,
+					prouinciam populi R., cum ingenti exercitu intrauit. </p>
+			</div>
+			<div
+				n="78">
+				<head>Periocha LXXVIII</head>
+				<p>Mithridates Asiam occupauit, Q. Oppium procos., item Aquilium legatum inuincula coniecit,
+					iussuque eius, quidquid ciuium R. in Asia fuit uno dietrucidatum est. Vrbem Rhodum, quae sola
+					in fide populi R. manserat,oppugnauit et aliquot proeliis naualibus uictus recessit. </p>
+				<p>Archelaus, praefectus regis, in Graeciam cum exercitu uenit, Athenasoccupauit. </p>
+				<p>Praeterea trepidationem urbium insularumque, filiis ad Mithridaten, aliisad populum R.
+					ciuitates suas trahentibus, continet. </p>
+			</div>
+			<div
+				n="79">
+				<head>Periocha LXXVIII</head>
+				<p>L. Cornelius Cinna cos. cum perniciosas leges per uim atque arma ferret,pulsus urbe ab Cn.
+					Octauio collega cum sex tribunis plebis imperioque eiabrogato, corruptum Appi Claudi exercitum
+					in potestatem suam redegit etbellum urbi intulit, arcessito C. Mario ex Africa cum filiis
+					exulibus.In quo bello duo fratres, alter ex Pompei exercitu, alter ex Cinnae,ignorantes
+					concurrerunt, et cum uictor spoliaret occisum, agnito fratreingenti lamentatione edita, rogo ei
+					extructo, ipse se supra rogumtransfodit et eodem igne consumptus est. </p>
+				<p>Et cum opprimi inter initia potuisset, Cn. Pompei fraude, qui utramquepartem fouendo uires
+					Cinnae dedit nec nisi profligatis optimatium rebusauxilium tulit, et consulis segnitia
+					confirmati Cinna et Marius quattuorexercitibus, ex quibus duo Q. Sertorio et Carboni dati sunt,
+					urbemcircumsederunt. </p>
+				<p>Ostiam coloniam Marius expugnauit et crudeliter diripuit. </p>
+			</div>
+			<div
+				n="80">
+				<head>Periocha LXXX</head>
+				<p> Italicis populis a senatu ciuitas data est. Samnites, qui soli armarecipiebant, Cinnae et
+					Mario se coniunxerunt. Ab his Plautius legatus cumexercitu caesus est. </p>
+				<p>Cinna et Marius cum Carbone et Sertorio Ianiculum oppugnauerunt et fugatiab Octauio consule
+					recesserunt. </p>
+				<p>Marius Antium et Ariciam et Lanuuium colonias expugnauit. </p>
+				<p>Cum spes nulla esset optimatibus resistendi propter segnitiam et perfidiamet ducum et
+					militum, qui corrupti aut pugnare nolebant, aut in diuersaspartes transiebant, Cinna et Marius
+					in urbem recepti sunt ; qui uelutcaptam eam caedibus ac rapinis uastauerunt, Cn. Octauio cos.
+					occiso etomnibus aduersae partis nobilibus trucidatis, inter quos M. Antonio,eloquentissimo
+					uiro, et Gaio Lucioque Caesare, quorum capita in rostrisposita sunt. </p>
+				<p>Crassus filius ab equitibus Fimbriae occisus, pater Crassus, ne quidindignum uirtute sua
+					pateretur, gladio se transfixit. </p>
+				<p>Et citra ulla comitia consules in sequentem annum se ipsos renuntiauerunt. </p>
+				<p>Eodemque die quo magistratum inierant, Marius S. Licinium senatorem de Saxodeici iussit,
+					editisque plurimis sceleribus idibus Ianuar. decessit. </p>
+				<p>Vir, cuius si examinentur cum uirtutibus uitia, haud facile sit dictu utrumbello melior an
+					pace perniciosior fuerit. Adeo quam rem p. armatusseruauit, eam primo togatus omni genere
+					fraudis, postremo armis hostilitereuertit. </p>
+			</div>
+			<div
+				n="81">
+				<head>Periocha LXXXI</head>
+				<p> L. Sylla Athenas, quas Archelaus, praefectus Mithridatis, occupauerat,circumsedit et cum
+					magno labore expugnavit. Vrbi libertatem et quaehabuerat reddidit. </p>
+				<p>Magnesia, quae sola in Asia ciuitas in fide manserat, sua uirtute aduersusMithridatem defensa
+					est. </p>
+				<p>Praeterea excursiones Thracum in Macedoniam continet. </p>
+			</div>
+			<div
+				n="82">
+				<head>Periocha LXXXII</head>
+				<p>Sylla copias regis, quae Macedonia occupata in Thessaliam uenerant, proeliouicit, caesis
+					hostium et castris quoque expugnatis. Renouato deinde belloiterum exercitum regis fudit ac
+					deleuit. </p>
+				<p>Archelaus cum classe regia Syllae se tradidit. </p>
+				<p>L. Valerius Flaccus cos., collega Cinnae, missus ut Syllae succederet,propter auaritiam
+					inuisus exercitui suo a C. Fimbria, legato ipsius,ultimae audaciae homine, occisus est et
+					imperium ad Fimbriam translatum. </p>
+				<p>Praeterea expugnatae in Asia urbes a Mithridate et crudeliter direptaprouincia, incursiones
+					Thracum in Macedoniam referuntur. </p>
+			</div>
+			<div
+				n="83">
+				<head>Periocha LXXXIII</head>
+				<p>Flauius Fimbria in Asia fusis proelio aliquot praefectis Mithridatis urbemPergamum cepit
+					obsessumque regem non multum afuit quin caperet. VrbemIlium, quae se potestati Syllae
+					reseruabat, expugnauit ac deleuit et magnampartem Asiae recepit.</p>
+				<p>Sylla compluribus proeliis Thracas cecidit.</p>
+				<p>Cum L. Cinna et Cn. Papirius Carbo, a se ipsis coss. per biennium creati,bellum contra Syllam
+					praepararent, effectum est per L. Valerium Flaccum,principem senatus, qui orationem in senatu
+					habuit, et per eos quiconcordiae studebant, ut legati ad Syllam de pace mitterentur.</p>
+				<p>Cinna ab exercitu suo, quem inuitum cogebat naues conscendere et aduersusSyllam proficisci,
+					interfectus est.</p>
+				<p>Consulatum Carbo solus gessit.</p>
+				<p>Sylla cum in Asiam traiecisset, pacem cum Mithridate fecit ita ut hiscederet prouinciis :
+					Asia, Bithynia, Cappadocia.</p>
+				<p>Fimbria desertus ab exercitu qui ad Syllam transierat, ipse se percussitimpetrauitque de
+					seruo suo, praebens ceruicem, ut se occideret.</p>
+			</div>
+			<div
+				n="84">
+				<head>Periocha LXXXIV</head>
+				<p> Sylla legatis, qui a senatu missi erant, futurum se in potestate senatusrespondit, si ciues,
+					qui pulsi a Cinna ad se confugerant, restituerentur.Quae condicio cum iusta senatui uideretur,
+					per Carbonem factionemque eius,cui bellum uidebatur utilius, ne conueniret effectum est. Idem
+					Carbo cum abomnibus Italiae oppidis coloniisque obsides exigere uellet, ut fidem eorumcontra
+					Syllam obligaret, consensu senatus prohibitus est. </p>
+				<p>Nouis ciuibus S. C. suffragium datum est. </p>
+				<p>Q. Metellus Pius, qui partes optimatium secutus erat, cum in Africa bellummoliretur, a C.
+					Fabio praetore pulsus est, senatusque consultum perfactionem Carbonis et Marianarum partium
+					factum est, ut omnes ubiqueexercitus dimitterentur. </p>
+				<p>Libertini in quinque et XXX tribus distributi sunt. </p>
+				<p>Praeterea belli apparatum, quod contra Syllam excitabatur, continet. </p>
+			</div>
+			<div
+				n="85">
+				<head>Periocha LXXXV</head>
+				<p>Sulla in Italiam traiecit missisque legatis, qui de pace agerent, et abcos. C. Norbano
+					uiolatis eumdem Norbanum proelio uicit.Et cum L. Scipionis, alterius cos., cum quo per omnia id
+					egerat ut pacemiungeret nec potuerat, castra oppugnaturus esset, uniuersus exercitusconsulis,
+					sollicitatus per emissos a Sylla milites, signa ad Syllamtranstulit. Scipio cum occidi posset,
+					dimissus est. </p>
+				<p>Cn. Pompeius, Cn. Pompei eius qui Asculum ceperat filius, conscriptouoluntariorum exercitum
+					cum tribus legionibus ad Syllam uenerat, ad quem senobilitas omnis conferebat, ita ut deserta
+					urbe ad castra ueniretur. </p>
+				<p>Praeterea expeditiones per totam Italiam utriusque partis ducum referuntur. </p>
+			</div>
+			<div
+				n="86">
+				<head>Periocha LXXXVI</head>
+				<p> Cum C. Marius, C. Mari filius, cos. ante annos XX per uim creatus esset, C.Fabius in Africa
+					propter crudelitatem et auaritiam suam in praetorio suouiuus exustus est.</p>
+				<p>L. Philippus, legatus Syllae, Sardiniam Q. Antonio praetore pulso et occisooccupauit.</p>
+				<p>Sylla cum Italicis populis, ne timeretur ab his uelut erepturus ciuitatemet suffragii ius
+					nuper datum, foedus percussit. Itemque ex fiducia iamcertae uictoriae litigatores a quibus
+					adibatur uadimonia Romam deferreiussit, cum a parte diuersa urbs adhuc teneretur.</p>
+				<p>L. Damasippus praetor ex uoluntate C. Mari cos. cum senatum contraxisset,omnem quae in urbe
+					erat nobilitatem trucidauit. Ex cuius numero Q. MuciusScaeuola pont. max. fugiens in uestibulo
+					aedis Vestae occisus est.</p>
+				<p>Praeterea bellum a L. Murena aduersus Mithridatem in Asia renouatumcontinet. </p>
+			</div>
+			<div
+				n="87">
+				<head>Periocha LXXXVII</head>
+				<p>Sylla C. Marium, exercitu eius fuso deletoque ad Sacriportum, in oppidoPraeneste obsedit,
+					urbem Romam ex inimicorum manibus recepit. Mariumerumpere temptantem reppulit.</p>
+				<p>Praeterea res a legatis eius eadem ubique fortuna partium gestas continet. </p>
+			</div>
+			<div
+				n="88">
+				<head>Periocha LXXXVIII</head>
+				<p>Sylla Carbonem, eius exercitu ad Clusium ad Fauentiam Fidentiamque caeso,Italia expulit, cum
+					Samnitibus, qui soli ex Italicis populis nondum armaposuerant, iuxta urbem Romanam ante portam
+					Collinam debellauit,reciperataque re p. pulcherrimam uictoriam crudelitate quanta in
+					nullohominum fuit, inquinauit.</p>
+				<p>VIII milia dediticiorum in uilla publica trucidauit, tabulam proscriptionisposuit, urbem ac
+					totam Italiam caedibus repleuit inter quas omnesPraenestinos inermes concidi iussit, Marium,
+					senatorii ordinis uirum,cruribus bracchiisque fractis, auribus praesectis et oculis
+					effossisnecauit.</p>
+				<p>C. Marius Praeneste obsessus a Lucretio Ofella, Syllanarum partium uiro,cum per cuniculum
+					captaret euadere saeptum exercitu, mortem consciuit. Idest, in ipso cuniculo, cum sentiret se
+					euadere non posse, cum Telesino,fugae comite, stricto utrimque gladio concurrit; quem cum
+					occidisset, ipsesaucius impetrauit a seruo ut se occideret. </p>
+			</div>
+			<div
+				n="89">
+				<head>Periocha LXXXIX</head>
+				<p>M. Brutus a Cn. Papirio Carbone Cossyra, quam adpulerant, missus nauepiscatoria Lilybaeum, ut
+					exploraret an ibi iam Pompeius esset etcircumuentus nauibus quas Pompeius miserat, in se
+					mucrone uerso adtranstrum nauis obnixus corporis pondere incubuit.</p>
+				<p>Cn. Pompeius in Siciliam cum imperio a senatu missus Cn. Carbonem, quiflens muliebriter
+					mortem tulit, captum occidit.</p>
+				<p>Sylla dictator factus, quod nemo umquam fecerat, cum fascibus XXIIIIprocessit.</p>
+				<p>Legibus nouis rei pub. statum confirmauit, tribunorum pleb. potestatemminuit et omne ius
+					legum ferendarum ademit, pontificum augurumque collegiumampliauit ut essent XV, senatum ex
+					equestri ordine suppleuit,proscriptorum liberis ius petendorum honorum eripuit et bona
+					eorumuendidit, ex quibus plurima primo rapuit. Redactum est sestertium termilies
+					quingenties.</p>
+				<p>Q. Lucretium Ofellam aduersus uoluntatem suam consulatum petere ausumiussit occidi in foro,
+					et cum hoc indigne ferret populus R., contioneaduocata se iussisse dixit.</p>
+				<p>Cn. Pompeius in Africa Cn. Domitium proscriptum et Hiertam, regem Numidiae,bellum molientes
+					uictos occidit et quattuor et XX annos natus, adhuc equesR., quod nulli contigerat, ex Africa
+					triumphauit.</p>
+				<p>C. Norbanus consularis proscriptus, in urbe Rhodo cum comprehenderetur,ipse se occidit.</p>
+				<p>Mutilus, unus ex proscriptis, clam capite adoperto ad posticias aedesBastiae uxoris cum
+					accessisset, admissus non est quia illum proscriptumdiceret. Itaque ipse se transfodit et
+					sanguine suo fores uxoris respersit.Sylla Nolam in Samnio recepit. XLVII legiones in agros
+					captos deducit eteos his diuisit.</p>
+				<p>Volaterras, quod oppidum adhuc in armis erat, obsessum in deditionemaccepit.</p>
+				<p>Mitylenae quoque in Asia, quae sola urbs post uictum Mithridaten armaretinebat, expugnatae
+					dirutaeque sunt. </p>
+			</div>
+			<div
+				n="90">
+				<head>Periocha XC</head>
+				<p>Sylla decessit honosque ei a senatu habitus est, ut in campo Martiosepeliretur. </p>
+				<p>M. Lepidus cum acta Syllae temptaret rescindere, bellum excitauit. A Q.Catulo collega Italia
+					pulsus et in Sardinia frustra bellum molitus periit. </p>
+				<p>M. Brutus, qui Cisalpinam Galliam obtinebat, a Cn. Pompeio occisus est. </p>
+				<p>Q. Sertorius proscriptus in ulteriore Hispania ingens bellum excitauit. </p>
+				<p>L. Manlius procos. et M. Domitius legatus ab Hirtuleio quaestore proeliouicti sunt. </p>
+				<p>Praeterea res a P. Seruilio procos. aduersus Cilicas gestas continet. </p>
+			</div>
+			<div
+				n="91">
+				<head>Periocha XCI</head>
+				<p> Cn. Pompeius cum adhuc eques R. esset, cum imperio proconsulari aduersusSertorium missus
+					est. Sertorius aliquot urbes expugnauit plurimasqueciuitates in potestatem suam redegit. </p>
+				<p>Appius Claudius procos. Thracas pluribus proeliis uicit. </p>
+				<p>Q. Metellus procos. L. Hirtuleium, quaestorem Sertori, cum exercitucecidit. </p>
+			</div>
+			<div
+				n="92">
+				<head>Periocha XCII</head>
+				<p>Cn. Pompeius dubio euentu cum Sertorio pugnauit, ita ut singula ex utraqueparte cornua
+					uicerint. Q. Metellus Sertorium et Perpernam cum duobusexercitibus proelio fudit, cuius
+					uictoriae partem cupiens ferre Pompeiusparum prospere pugnauit. Obsessus deinde Cluniae
+					Sertorius adsiduiseruptionibus non leuiora damna obsidentibus intulit.</p>
+				<p>Praeterea res ab Curione procos. in Thracia gestas aduersus Dardanos et Q.Sertori multa
+					crudelia in suos facta continet; qui plurimos ex amicis etsecum proscriptis crimine pro
+					insimulatos occidit. </p>
+			</div>
+			<div
+				n="93">
+				<head>Periocha XCIII</head>
+				<p>P. Seruilius procos. in Cilicia Isauros domuit et aliquot urbes piratarumexpugnauit. </p>
+				<p>Nicomedes, Bithyniae rex, populum R. fecit heredem regnumque eius inprouinciae formam
+					redactum est. </p>
+				<p>Mithridates foedere cum Sertorio icto bellum populo R. intulit. Apparatusdein regiarum
+					copiarum pedestrium naualiumque; et occupata Bithynia M.Aurelius Cotta cos. ad Calchedona
+					proelio a rege uictus; resque a Pompeioet Metello aduersus Sertorium qui omnibus belli
+					militiaeque artibus parfuit. Ab obsidione Calagurris oppidi depulsos coegerit diuersas
+					regionespetere, Metellum ulteriorem Hispaniam, Pompeium Galliam. </p>
+			</div>
+			<div
+				n="94">
+				<head>Periocha XCIV</head>
+				<p> L. Licinius Lucullus cos. aduersus Mithridaten equestribus proeliisfeliciter pugnauit et
+					aliquot expeditiones prosperas fecit poscentesquepugnam milites a seditione inhibuit.</p>
+				<p>Deiotarus, Gallograeciae tetrarches, praefectos Mithridatis bellum inPhrygia mouentes
+					cecidit.</p>
+				<p>Praeterea res a Cn. Pompeio in Hispania contra Sertorium prospere gestascontinet. </p>
+			</div>
+			<div
+				n="95">
+				<head>Periocha XCV</head>
+				<p> C. Curio procos. Dardanos in Thracia domuit.</p>
+				<p>IIII et LXX gladiatores Capuae ex ludo Lentuli profugerunt et congregataseruitiorum
+					ergastulorumque multitudine Crixo et Spartaco ducibus belloexcitato Claudium Pulchrum legatum
+					et P. Varenum praetorem proeliouicerunt. </p>
+				<p>L. Lucullus procos. ad Cyzicum urbem exercitum Mithridatis fame ferroquedeleuit, pulsumque
+					Bithynia regem uariis belli ac naufragiorum casibustractum coegit in Pontum profugere. </p>
+			</div>
+			<div
+				n="96">
+				<head>Periocha XCVI</head>
+				<p>Q. Arrius praetor Crixum, fugitiuorum ducem, cum XX milia hominum cecidit.</p>
+				<p>Cn. Lentulus cos. male aduersus Spartacum pugnauit. Ab eodem L. Gelliuscos. et Q. Arrius
+					praetor acie uicti sunt. </p>
+				<p>Sertorius a M. Perpenna et M. Antonio et aliis coniuratis in conuiuiointerfectus est octauo
+					ducatus sui anno ; magnus dux et aduersus duosimperatores, Pompeium et Metellum, uel
+					frequentius uictor, ad ultimum etsaeuus et prodigus. </p>
+				<p>Imperium partium ad Marcum Perpennam translatum, quem Cn. Pompeius uictumcaptumque
+					interfecit, ac recepit Hispanias decimo fere anno quam coeptumerat bellum. </p>
+				<p>C. Cassius procos. et Cn. Manlius praetor male aduersus Spartacumpugnauerunt idque bellum M.
+					Crasso praetori mandatum est. </p>
+			</div>
+			<div
+				n="97">
+				<head>Periocha XCVII</head>
+				<p>M. Crassus praetor primum cum parte fugitiuorum quae ex Gallis Germanisqueconstabat feliciter
+					pugnauit, caesis hostium XXXV milia et ducibus eorumCasto et Gannico. Cum Spartaco dein
+					debellauit, caesis eum ipso LX milibus.M. Antonius praetor bellum aduersus Cretenses parum
+					prospere susceptummorte sua finiit. </p>
+				<p>M. Lucullus procos. Thracas subegit. L. Lucullus in Ponto aduersusMithridaten feliciter
+					pugnauit, caesis hostium amplius quam LX milibus. </p>
+				<p>M. Crassus et Cn. Pompeius coss. facti (S. C. Pompeius, antequam quaesturamgereret, ex equite
+					Romano) tribuniciam potestatem restituerunt. Iudiciaquoque per M. Aurelium Cottam praetorem ad
+					equites Romanis translata sunt. </p>
+				<p>Mithridates desperatione rerum suarum coactus ad Tigranen, Armeniae regem,confugit.</p>
+			</div>
+			<div
+				n="98">
+				<head>Periocha XCVIII</head>
+				<p>Machares, filius Mithridatis, Bospori rex, a L. Lucullo in amicitiamreceptus est. </p>
+				<p>Cn. Lentulus et L. Gellius censores asperam censuram egerunt IIII et LXsenatu motis. A quibus
+					lustro condito censa sunt ciuium capita DCCCC milia. </p>
+				<p>L. Metellus praetor in Sicilia aduersus piratas prospere rem gessit. </p>
+				<p>Templum Iouis in Capitolio, quod incendio consumptum ac refectum erat, a Q.Catulo dedicatum
+					est. </p>
+				<p>L. Lucullus in Armenia Mithridaten et Tigranen et ingentes utriusque regiscopias pluribus
+					proeliis fudit. </p>
+				<p>Q. Metellus procos. bello aduersus Cretenses mandato Cydoniam urbemobsedit. </p>
+				<p>C. Triarius, legatus Luculli, aduersus Mithridaten parum prospere pugnauit. </p>
+				<p>Lucullum, ne persequeretur Mithridaten ac Tiganen summamque uictoriaeinponeret, seditio
+					militum tenuit, quia sequi nolebant, id est duaelegiones Valerianae, quae impleta a se
+					stipendia dicentes Lucullumreliquerunt. </p>
+			</div>
+			<div
+				n="99">
+				<head>Periocha XCIX</head>
+				<p>Q. Metellus procos. Cnoson et Lyctum et Cydoniam et alias plurimas urbesexpugnauit. </p>
+				<p>L. Roscius trib. pl. legem tulit ut equitibus Romanis in theatro XIIIIgradus proximi
+					adsignarentur. </p>
+				<p>Cn. Pompeius lege ad populum lata persequi piratas iussus qui commerciumannonae
+					intercluserant intra quadragesimum diem toto mari eos expulit,belloque cum his in Cilicia
+					confecto acceptis in deditionem piratis agroset urbes dedit. </p>
+				<p>Praeterea res gestas a Q. Metello aduersus Cretenses continet et epistulasMetelli et Cn.
+					Pompei inuicem missas. Queritur Q. Metellus gloriam sibirerum a se gestarum a Pompeio praeripi,
+					qui in Cretam miserit legatum suumad accipiendas urbium deditiones. Pompeius rationem reddit
+					hoc se faceredebuisse. </p>
+			</div>
+			<div
+				n="100">
+				<head>Periocha C</head>
+				<p>C. Manilius tr. pl. magna indignatione nobilitatis legem tulit ut PompeioMithridaticum bellum
+					mandaretur. Contio eius bona.Q. Metellus perdomitis Cretensibus liberae in id tempus insulae
+					legesdedit.</p>
+				<p>Cn. Pompeius ad gerendum bellum aduersus Mithridaten profectus cum regeParthorum, Phraate,
+					amicitiam renouauit. Equestri proelio Mithridatenuicit.</p>
+				<p>Praeterea bellum inter Phraaten, Parthorum regem, et Tigranen, Armeniorum,ac deinde inter
+					filium Tigranen patremque gestum continet.</p>
+			</div>
+			<div
+				n="101">
+				<head>Periocha CI</head>
+				<p>Cn. Pompeius Mithridaten nocturno proelio uictum coegit Bosporon profugere.</p>
+				<p>Tigranen in deditionem accepit eique ademptis Syria, Phoenice, Cilicia,regnum Armeniae
+					restituit. </p>
+				<p>Coniuratio eorum qui in petitione consulatus ambitus damnati erant facta deinterficiendis
+					consulibus obpressa est. </p>
+				<p>Cn. Pompeius cum Mithridaten persequeretur in ultimas ignotasque gentespenetrauit. Hiberos
+					Albanosque, qui transitum non dabant, proelio uicit. </p>
+				<p>Praeterea fugam Mithridatis per Colchos Heniochosque et res ab eo inBosporo gestas continet.
+				</p>
+			</div>
+			<div
+				n="102">
+				<head>Periocha CII</head>
+				<p>Cn. Pompeius in prouinciae formam Pontum redegit.</p>
+				<p>Pharnaces, filius Mithridatis, bellum patri intulit. Ab eo Mithridatesobsessus in regia cum
+					ueneno sumpto parum profecisset ad mortem, a militeGallo, nomine Bitoco, a quo ut adiuuaret se
+					petierat, interfectus est.Cn. Pompeius Iudaeos subegit, fanum eorum Hierosolyma, inuiolatum
+					ante idtempus, cepit. </p>
+				<p>L. Catilina bis repulsam in petitione consulatus passus cum Lentulopraetore et Cethego et
+					compluribus aliis coniurauit de caede consulum etsenatus, incendiis urbis et obprimenda re p.,
+					exercitu quoque in Etruriaconparato. Ea coniuratio industria M. Tulli Ciceronis eruta est.
+					Catilinaurbe pulso, de reliquis coniuratis supplicium sumptum est. </p>
+			</div>
+			<div
+				n="103">
+				<head>Periocha CIII</head>
+				<p> Catilina a C. Antonio procos. cum exercitu caesus est.</p>
+				<p>P. Clodius accusatus quod in habitu mulieris in sacrarium, in quo uirumintrare nefas est, cum
+					intrasset et uxorem Metelli pontificis stuprasset,absolutus est. </p>
+				<p>C. Pontinus praetor Allobrogas qui rebellauerant ad Solonem domuit. </p>
+				<p>P. Clodius ad plebem transiit. </p>
+				<p>C. Caesar Lusitanos subegit. Eoque consulatus candidato et captante rem p.inuadere
+					conspiratio inter tres ciuitatis principes facta est, Cn.Pompeium, M. Crassum, C. Caesarem. </p>
+				<p>Leges agrariae a Caesare cos. cum magna contentione inuito senatu et alterocos. M. Bibulo
+					latae sunt. </p>
+				<p>M. Antonius procos. in Thracia parum prospere rem gessit. </p>
+				<p>M. Cicero lege a P. Clodio tr. pl. lata quod indemnatos ciues necauisset inexilium missus
+					est. </p>
+				<p>Caesar in prouinciam Galliam profectus Heluetios, uagam gentem, domuit,quae sedem quaerens
+					per prouinciam Caesaris Narbonensem iter facereuolebat. </p>
+				<p>Praeterea situm Galliarum continet. </p>
+				<p>Pompeius de liberis Mithridatis et Tigrane, Tigranis filio, triumphauitMagnusque a tota
+					contione consalutatus est.</p>
+			</div>
+			<div
+				n="104">
+				<head>Periocha CIV</head>
+				<p>Prima pars libri situm Germaniae moresque continet. C. Caesar cum aduersusGermanos qui
+					Ariouisto duce in Galliam transcenderant exercitum duceret,rogatus ab Aeduis et Sequanis,
+					quorum ager possidebatur trepidationemmilitum propter metum nouorum hostium ortam adlocutione
+					exercitus inhibuitet uictos proelio Germanos Gallia expulit. </p>
+				<p>M. Cicero, Pompeio inter alios hortante et T. Annio Milone tr. pl., ingentigaudio senatus ac
+					totius Italiae ab exilio reductus est. </p>
+				<p>Cn. Pompeio per quinquennium annonae cura mandata est. </p>
+				<p>Caesar Ambianos, Suessionas, Viruomanduos, Atrebates, Belgarum populos,quorum ingens
+					multitudo erat, proelio uictos in deditionem accepit, acdeinde contra Neruios, unam ex horum
+					ciuitatibus, cum magno discriminepugnauit eamque gentem deleuit, quae bellum gessit donec ex LX
+					miliaarmatorum D superessent, ex DC senatoribus tres tantum euadereut. </p>
+				<p>Lege lata de redigenda in prouinciae formam Cypro et publicanda pecuniaregia M. Catoni
+					administratio eius rei mandata est. </p>
+				<p>Ptolemaeus, Aegypti rem, ob iniurias quas patiebatur a suis relicto regnoRomam uenit. </p>
+				<p>C. Caesar Venetos, gentem Oceano iunctam, nauali proelio uicit.</p>
+				<p>Praeterea res a legatis eius eadem fortuna gestas continet. </p>
+			</div>
+			<div
+				n="105">
+				<head>Periocha CV</head>
+				<p>Cum C. Catonis tribuni plebis intercessionibus comitia tollerentur, senatusuestem
+					mutauit.</p>
+				<p>M. Cato in petitione praeturae praelato Vatinio repulsam tulit. Idem cumlegem impediret, qua
+					prouinciae consulibus in quinquennium, PompeioHispaniae, Crasso Syria et Parthicum bellum,
+					dabantur, a C. Trebonio tr.pl., legis alictore, in uincula ductus est.</p>
+				<p>A. Gabinius procos. Ptolemaeum reduxit in regnum Aegypti, eiecto Archelao,quem sibi regem
+					adsciuerant.</p>
+				<p>Victis Germanis in Gallia Caesar Rhenum transcendit et proximam partemGermaniae domuit, ac
+					deinde Oceano in Britanniam primo parum prosperetempestatibus aduersis traiecit, iterum
+					felicius, magnaque multitudinehostium caesa aliquam partem insulae in potestatem redegit. </p>
+			</div>
+			<div
+				n="106">
+				<head>Periocha CVI</head>
+				<p>Iulia, Caesaris filia, Pompei uxor, decessit, honosque ei a populo habitusest, ut in campo
+					Martio sepeliretur. </p>
+				<p>Gallorum aliquot populi Ambiorige duce, Eburonum rege, defecerunt. A quibusCotta et Titurius,
+					legati Caesaris, circumuenti insidiis cum exercitu cuipraeerant caesi sunt. Et cum aliarum
+					quoque legionum castra oppugnata magnolabore defensa essent, inter quae eius cui in Treueris
+					praeerat Q. Cicero,ab ipso Caesare hostes proelio fusi sunt. </p>
+				<p>M. Crassus bellum Parthis inlaturus Euphraten flumen transiit, uictusqueproelio in quo et
+					filius eius cecidit, cum reliquias exercitus in collemrecepisset, euocatus in colloquium ab
+					hostibus uelut de pace acturis,quorum dum erat Surenas, conprehensusque et, nequid uiuus
+					patereturrepugnans, interfectus est. </p>
+			</div>
+			<div
+				n="107">
+				<head>Periocha CVII</head>
+				<p>C. Caesar Treueris in Gallia uictis iterum in Germaniam transiit, nulloqueibi hoste inuento
+					reuersus in Galliam Eburonas et alias ciuitates, quaeconspirauerant, uicit et Ambiorigem in
+					fuga persecutus est. </p>
+				<p>P. Clodi a T. Annio Milone candidato consulatus Appia uia ad Bouillasoccisi corpus plebs in
+					curia cremauit. </p>
+				<p>Cum seditiones inter candidatos consulatus, Hypsaeum, Scipionem, Milonemessent, qui armis ac
+					ui contendebant, ad comprimendas eas Cn. Pompeiusdelegatus et a senatu cos. tertio factus est
+					absens et solus, quod nullialii umquam accidit. </p>
+				<p>Quaestione decreta de morte P. Clodi Milo iudicio damnatus in exilium actusest. </p>
+				<p>Lex lata est ut ratio absentis Caesaris in petitione consulatus haberetur,inuito et
+					contradicente M. Catone. </p>
+				<p>Praeterea res gestas a C. Caesare aduersus Gallos qui prope uniuersiVercingentorige Aruerno
+					duce defecerunt, et laboriosas obsidiones urbiumcontinet, inter quas Auarici Biturigum et
+					Gergouiae Aruernorum. </p>
+			</div>
+			<div
+				n="108">
+				<head>Periocha CVIII</head>
+				<p>C. Caesar Gallos ad Alesiam uicit omnesque Galliae ciuitates quae in armisfuerant, in
+					deditionem accepit.</p>
+				<p>C. Cassius, quaestor M. Crassi, Parthos, qui in Syriam transcenderant,cecidit.</p>
+				<p>In petitione consulatus M. Cato repulsam tulit, creatis coss. Ser. SulpicioM. Marcello.</p>
+				<p>C. Caesar Bellouacos cum aliis Gallorum populis domuit.</p>
+				<p>Praeterea contentiones inter consules de successore C. Caesari mittendo,agente in senatu
+					Marcello cos. ut Caesar ad petitionem consulatus ueniret,cum is lege lata in id tempus
+					consulatus prouincias obtinere deberet,resque a M. Bibulo in Syria gestas continet. </p>
+			</div>
+			<div
+				n="109">
+				<head>Periocha CIX</head>
+				<p>qui est ciuilis belli primus</p>
+				<p>Causae ciuilium armorum et initia referuntur contentionesque de successoreC. Caesari
+					mittendo, cum se dimissurum exercitus negaret nisi a Pompeiodimitterentur. Et C. Curionis tr.
+					pl. primum aduersus Caesarem, dein proCaesare actiones continet.</p>
+				<p>Cum senatus consultum factum esset ut successor Caesari mitteretur, M.Antonio et Q. Cassio
+					tr. pl., quoniam intercessionibus id senatus c.impediebant, urbe pulsis, mandatum est a senatu
+					coss. et Cn. Pompeio, utuiderent nequid res p. detrimenti caperet.</p>
+				<p>C. Caesar bello inimicos persecuturus cum exercitu in Italiam uenit,Corfiniun cum M. Domitio
+					et P. Lentulo cepit eosque dimisit, Cn. Pompeiumceterosque partium eius Italia expulit.</p>
+			</div>
+			<div
+				n="110">
+				<head>Periocha CX</head>
+				<p>qui est ciuilis belli secundus</p>
+				<p>C. Caesar Massiliam, quae portas cluserat, obsedit et relictis in obsidione urbis eius
+					legatis C. Trebonio et D. Bruto profectus in Hispaniam L. Afranium et M. Petreium, legatus Cn.
+					Pompei, cum VII legionibus ad Ilerdam in deditionem accepit omnesque incolumes dimisit, Varrone
+					quoque, legatoPompei, cum exercitu in potestatem suam redacto. Gaditanis ciuitatem
+					dedit.Massilienses duobus naualibus proeliis uicti post longam obsidionem potestati Caesaris se
+					permiserunt.</p>
+				<p>C. Antonius, legatus Caesaris, male aduersus Pompeianos in Illyrico rebus gestis captus est.
+					In quo bello Opitergini transpadani, Caesaris auxiliares, rate sua ab hostibus nauibus clusa,
+					potius quam in potestatemhostium uenirent, inter se concurrentes occubuerunt.</p>
+				<p>C. Curio, legatus Caesaris in Africa, cum prospere aduersus Varum, Pompeianarum partium
+					ducem, pugnasset, a Iuba, rege Mauretaniae, cum exercitu caesus est.</p>
+				<p>C. Caesar in Graeciam traiecit. </p>
+			</div>
+			<div
+				n="111">
+				<head>Periocha CXI</head>
+				<p>qui est ciuilis belli tertius</p>
+				<p>M. Caelius Rufus praetor, cum seditiones in urbe concitaret nouarum tabularum spe plebe
+					sollicitata, abrogato magistratu pulsus urbe Miloni exuli, qui fugitiuorum exercitum
+					contraxerat, se coniunxit. Vterque, cumbellum molirentur, interfecti sunt.</p>
+				<p>Cleopatra, regina Aegypti, ab Ptolemaeo fratre regno pulsa est.</p>
+				<p>Propter Q. Cassi praetoris auaritiam crudelitatemque Cordubenses in Hispania cum duabus
+					Varronianis legionibus a partibus Caesaris desciuerunt.</p>
+				<p>Cn. Pompeius ad Dyrrachium obsessus a Caesare et, praesidiis eius cum magna clade diuersae
+					partis expugnatis, obsidione liberatus translato in Thessaliam bello apud Pharsaliam acie
+					uictus est. Cicero in castrisremansit, uir nihil minus quam ad bella natus. Omnibusque
+					aduersarumpartium, qui se potestati uictoris permiserant, Caesar ignouit. </p>
+			</div>
+			<div
+				n="112">
+				<head>Periocha CXII</head>
+				<p>qui est ciuilis belli quartus</p>
+				<p>Trepidantia uictarum partium in diuersas orbis terrarum partes et fugarefertur : Cn. Pompeius
+					cum Aegyptum petisset, iussu Ptolenaei regis,pupilli sui, auctore Theodoto praeceptore, cuius
+					magna apud regemauctoritas erat, et Pothino occisus est ab Achilla, cui id facinus
+					eratdelegatum, in nauicula antequam in terram emiret. Cornelia uxor et Sex.Pompeius filius
+					Cypron refugerunt.</p>
+				<p>Caesar post tertium diem insecutus, cum ei Theodotus caput Pompei et anulumobtulisset,
+					infensus est et inlacrimauit. Sine periculo Alexandriamtumultuantem intrauit.</p>
+				<p>Caesar dictator creatus Cleopatram in regnum Aegypti reduxit et inferentembellum Ptolemaeum
+					isdem auctoribus, quibus Pompeium interfecerat, cum magnosuo discrimine euicit. Ptolemaeus dum
+					fugit, in Nilo nauicula subsedit.</p>
+				<p>Praeterea laboriosum M. Catonis in Africa per deserta cum legionibus iteret bellum a Cn.
+					Domitio aduersus Pharnacen parum prospere gestum continet.</p>
+			</div>
+			<div
+				n="113">
+				<head>Periocha CXIII</head>
+				<p>qui est ciuilis belli quintus</p>
+				<p>Confirmatis in Africa Pompeianis partibus imperium earum P. Scipionidelatum est, Catone, cui
+					ex aequo deferebatur imperium, cedente. Et cum dediruenda urbe Vtica propter fauorem ciuitatis
+					eius in Caesaremdeliberaretur, idque ne fieret M. Cato tenuisset, Iuba suadente utdirueretur,
+					tutela eius et custodia mandata est Catoni.</p>
+				<p>Cn. Pompeius Magni filius, in Hispania contractis uiribus, quarum ducatumnec Afranius nec
+					Petreius excipere uolebant, bellum aduersus Caesaremrenouauit.</p>
+				<p>Pharnaces, Mithridatis filius, rex Ponti, sine ulla belli mora uictus est.Cum seditiones
+					Romae a P. Dolabella tr. pl. legem ferente de nouis tabulisexcitatae essent et ex ea causa
+					plebs tumultuaretur, inductis a M. Antonio,magistro equitum, in urbem militibus octingenti e
+					plebe caesi sunt.</p>
+				<p>Caesar ueteranis cum seditione missionem postulantibus dedit, et cum inAfricam traiecisset,
+					aduersus copias Iubae regis cum discrimine magnopugnauit. </p>
+			</div>
+			<div
+				n="114">
+				<head>Periocha CXIV</head>
+				<p>qui est ciuilis belli sextus</p>
+				<p>Bellum in Syria Caecilius Bassus, eques Romanus Pompeianarum partium,excitauit, relicto a
+					legione Sexto Caesare, quae ad Bassum transierat,occisoque eo.</p>
+				<p>Caesar Scipionem praetorem Iubamque uicit ad Thapsum, castris eorumexpugnatis.</p>
+				<p>Cato audita re cum se percussisset Vticae et interueniente filio curaretur,inter ipsam
+					curationem rescisso uulnere expirauit anno aetatis XLVIII.</p>
+				<p>Petreius Iubam seque interfecit. P. Scipio in naue circumuentus honestaemorti uocem quoque
+					adiecit ; quaerentibus enim imperatorem hostibus dixit:"imperator se bene habet".</p>
+				<p>Faustus et Afranius occisi. Catonis filio uenia data.</p>
+				<p>Brutus legatus Caesaris in Gallia Bellouacos rebellantes proelio uicit. </p>
+			</div>
+			<div
+				n="115">
+				<head>Periocha CXV</head>
+				<p> qui est ciuilis belli septimus</p>
+				<p> Caesar quattuor triumphos duxit, ex Gallia, ex Aegypto, ex Ponto, exAfrica, epulum et omnis
+					generis spectacula dedit.</p>
+				<p>M. Marcello consulari, senatu rogante, reditum concessit. Quo beneficioeius Marcellus frui
+					non potuit, a Cn. Magio cliente suo Athenis occisus.Recensum egit, quo censa sunt ciuium capita
+					CL milia.</p>
+				<p>Profectusque in Hispaniam aduersus Cn. Pompeium, multis utrimqueexpeditionibus factis et
+					aliquot urbibus expugnatis summam uictoriam cummagno discrimine ad Mundam urbem consecutus est.
+					Necatus est Cn. Pompeius,Sex. effugit. </p>
+			</div>
+			<div
+				n="116">
+				<head>Periocha CXVI</head>
+				<p>qui est ciuilis belli octauus</p>
+				<p> Caesar ex Hispania quintum triumphum egit. Et cum plurimi maximique honoresa senatu decreti
+					essent, inter quos ut "parens patriae" appellaretur etsacrosanctus ac dictator in perpetuum
+					esset, inuidiae aduersus eum causampraestiterunt, quod senatui deferenti hos honores, cum ante
+					aedem VenerisGenetricis sederet, non adsurrexit, et quod a M. Antonio cos., collegasuo, inter
+					lupercos currente diadema capiti suo impositum in sellareposuit, et quod Epidio Marullo et
+					Caesetio Flauo trib. pl., inuidiam eitamquam regnum adfectanti mouentibus potestas abrogata
+					est.</p>
+				<p>Ex his causis conspiratione in eum facta, cuius capita fuerunt M. Brutus etC. Cassius et ex
+					Caesaris partibus Dec. Brutus et C. Trebonius, in Pompeicuria occisus est XXIII uulneribus
+					occupatumque ab interfectoribus eiusCapitolium.</p>
+				<p>Obliuione deinde caedis eius a senatu decreta, obsidibus Antoni et Lepidide liberis acceptis
+					coniurati a Capitolio descenderunt.</p>
+				<p>Testamento Caesaris heres ex parte dimidia institutus est C. Octauius,sororis nepos, et in
+					nomen adoptatus est.</p>
+				<p>Caesaris corpus cum in campum Martium ferretur, a plebe ante rostracrematum est.</p>
+				<p>Dictaturae honos in perpetuum sublatus est.</p>
+				<p>Chamiates, humillimae sortis homo, qui se C. Mari filium ferebat, cum apudcredulam plebem
+					seditiones moueret, necatus est. </p>
+			</div>
+			<div
+				n="117">
+				<head>Periocha CXVII</head>
+				<p>C. Octauius Romam ex Epiro uenit (eo enim illum Caesar praemiserat bellumin Macedonia
+					gesturus) ominibusque prosperis exceptus et nomen Caesarissumpsit.</p>
+				<p>In confusione rerum ac tumultu M. Lepidus pontificatum maximum intercepit.</p>
+				<p>Et M. Antonius cos. cum impotenter dominaretur legemque de permutationeprouinciarum per uim
+					tulisset et Caesarem quoque petentem ut sibi aduersuspercussores auunculi adesset, magnis
+					iniuriis adfecisset, Caesar et sibi etrei p. uires aduersus eum paraturus deductos in colonias
+					ueteranosexcitauit. Legiones quoque quarta et Martia signa ab Antonio ad Caesaremtulerunt,
+					deinde et complures saeuitia M. Antoni, passim in castris suistrucidantis qui ei suspecti
+					erant, ad Caesarem desciuerunt.</p>
+				<p>Dec. Brutus ut petenti Cisalpinam Galliam Antonio obsisteret, Mutinam cumexercitu
+					occupauit.</p>
+				<p>Praeterea discursum utriusque partis uirorum ad accipiendas prouinciasapparatusque belli
+					continet. </p>
+			</div>
+			<div
+				n="118">
+				<head>Periocha CXVIII</head>
+				<p>M. Brutus in Graecia sub praetexto rei p. et suscepti contra M. Antoniumbelli exercitum, cui
+					P. Vatinius praeerat, cum prouincia in potestatem suamredegit.</p>
+				<p>C. Caesari, qui priuatus rei p. arma sumpserat, pro praetore imperium asenatu datum est cum
+					consularibus ornamentis adiectumque ut senator esset.</p>
+				<p>M. Antonius Dec. Brutum Mutinae obsedit, missiquo ad cum a senatu legati depace parum ad
+					componendam eam ualuerunt.Populus R. saga sumpsit.</p>
+				<p>M. Brutus in Epiro C. Antonium praetorem cum exercitu potestati suaesubegit. </p>
+			</div>
+			<div
+				n="119">
+				<head>Periocha CXIX</head>
+				<p> C. Trebonius in Asia fraude P. Dolabellae occisus est. Ob id facinusDolabella hostis a
+					senatu iudicatus est. </p>
+				<p>Cum Pansa cos. male aduersus Antonium pugnasset, A. Hirtius cos. cumexercitu superueniens
+					fusis M. Antoni copiis fortunam utriusque partisaequauit. Victus deinde ab Hirtio et Caesare
+					Antonius in Galliam confugitet M. Lepidum cum legionibus quae sub eo erant sibi iunxit,
+					hostisque asenatu cum omnibus qui intra praesidia eius essent iudicatus est.A. Hirtius, qui
+					post uictoriam in ipsis hostium castris ceciderat, et C.Pansa ex uulnere quod in aduerso
+					proelio exceperat, defunctus in campoMartio sepulti sunt. </p>
+				<p>Aduersus C. Caesarem, qui solus ex tribus ducibus supererat, parum gratussenatus fuit, qui
+					Dec. Bruto obsidione Mutinensi a Caesare liberatotriumphi honore decreto Caesaris militumque
+					eius mentionem non satis gratamhabuit. Ob quae C. Caesar reconciliata per M. Lepidum cum M.
+					Antonio gratiaRomam cum exercitu uenit et praeclusis aduentu eius his qui in eum iniquierant,
+					cum XVIIII annos haberet, consul creatus est.</p>
+			</div>
+			<div
+				n="120">
+				<head>Periocha CXX</head>
+				<p> C. Caesar cos. legem tulit de quaestione habenda in eos quorum opera Caesarpater occisus
+					esset; postulatique ea lege M. Brutus, C. Cassius, Dec.Brutus absentes damnati sunt. </p>
+				<p>Cum M. Antoni uires Asinius quoque Pollio et Munatius Plancus cumexercitibus suis adiuncti
+					ampliassent, et Dec. Brutus, cui senatus utpersequeretur Antonium mandauerat, relictus a
+					legionibus suis profugisset,caesus iussu Antoni, in cuius potestatem uenerat, a Capeno
+					Sequanointerfectus est. </p>
+				<p>C. Caesar pacem cum Antonio et Lepido fecit ita ut III uiri rei p.constituendae per
+					quinquennium essent ipse et Lepidus et Antonius et utsuos quisque inimicos proscriberent. In
+					qua proscriptione plurimi equitesR., CXXX senatorum nomina fuerunt, et inter eos L. Pauli,
+					fratris M.Lepidi, et L. Caesaris, Antoni auunculi, et M. Ciceronis. Huius occisi aPopillio,
+					legionario milite, cum haberet annos LXIII, caput quoque cumdextra manu in rostris positum est. </p>
+				<p>Praeterea res a M. Bruto in Graecia gestas continet. </p>
+			</div>
+			<div
+				n="121">
+				<head>Periocha CXXI</head>
+				<p>C. Cassius, cui mandatum a senatu erat ut Dolabellam hostem iudicatum bellopersequeretur,
+					auctoritate rei p. adiutus Syriam cum tribus exercitibus,qui in eadem prouincia erant, in
+					potestatem suam redegit, Dolabellam inurbe Laodicia obsessum mori coegit. M. quoque Bruti iussu
+					C. Antoniuscaptus occisus est. </p>
+			</div>
+			<div
+				n="122">
+				<head>Periocha CXXII</head>
+				<p>M. Brutus aduersus Thracas parumper prospere rem gessit, omnibusquetransmarinis prouinciis
+					exercitibusque in potestatem eius et C. Cassiredactis coierunt Smyrnae uterque ad ordinanda
+					belli futuri consilia. M.Messalae Publicolam fratrem uinctum communi consilio condonauerunt.
+				</p>
+			</div>
+			<div
+				n="123">
+				<head>Periocha CXXIII</head>
+				<p>Sex. Pompeius, Magni filius, collectis ex Epiro proscriptis ac fugitiuiscum exercitu diu sine
+					ulla loci cuiusquam possessione praedatus in mariMessanam, oppidum in Sicilia, primum, dein
+					totam prouinciam occupauitoccisoque Pompeio Bithynico praetore, Q. Saluidenum, legatum
+					Caesaris,nauali proelio uicit.</p>
+				<p>Caesar et Antonius cum exercitibus in Graecian traicerunt bellum aduersusBrutum et Cassium
+					gesturi.</p>
+				<p>Q. Cornificius in Africa T. Sextium, Cassianarum partium ducem, proeliouicit. </p>
+			</div>
+			<div
+				n="124">
+				<head>Periocha CXXIV</head>
+				<p>C. Caesar et Antonius apud Philippos uario euentu aduersus Brutum etCassium pugnauerunt ita
+					ut dextra utriusque cornua uincerent ex castraquoque utrimque ab his qui uicerant
+					expugnarentur. Sed inaequalem fortunampartium mors Cassi fecit qui cum in eo cornu fuisset quod
+					pulsum erat,totum exercitum fusum ratus mortem consciuit. </p>
+				<p>Altera dein die uictus M. Brutus et ipse uitam finiit exorato Stratone,fugae comite, ut sibi
+					gladium adigeret. Annorum erat circiter XL. </p>
+				<p>Q. Hortensius occisus est. </p>
+			</div>
+			<div
+				n="125">
+				<head>Periocha CXXV</head>
+				<p>Caesar relicto trans mare Antonio (prouinciae ea parte imperi positae eicesserant) reuersus
+					in Italiam ueteranis agros diuisit. Seditionesexercitus sui quas corrupti a Fuluia, M. Antoni
+					uxore, milites aduersusimperatorem suum concitauerant, cum graui periculo inhibuit. L.
+					Antoniuscos., M. Antoni frater, eadem Fuluia consiliante bellum Caesari intulit.Receptis in
+					partes suas populis quorum agri ueteranis adsignati erant, etM. Lepido, qui custodiae urbis cum
+					exercitu praeerat, fuso hostiliter inurbem inrupit. </p>
+			</div>
+			<div
+				n="126">
+				<head>Periocha CXXVI</head>
+				<p>Caesar cum esset annorum XXIII, obsessum in oppido Perusia L. Antoniumconatumque aliquotiens
+					erumpere et repulsum fame coegit in deditionemuenire ipsique et omnibus militibus eius ignouit,
+					Perusiam diruit,redactisque in potestatem suam omnibus diuersae partis exercitibus bellumcitra
+					ullum sanguinem confecit. </p>
+			</div>
+			<div
+				n="127">
+				<head>Periocha CXXVII</head>
+				<p>Parthi Labieno, qui Pompeianarum partium fuerat, duce in Syriam inruperuntuictoque Decidio
+					Saxa, M. Antoni legato, totam eam prouinciam occupauerunt.M. Antonius cum ad bellum aduersus
+					Caesarem gerendum incitaretur ab uxoreFuluia ne concordiae ducum obstaret, pace facta cum
+					Caesare, sororem eiusOctauiam in matrimonium duxit. Q. Saluidenum consilia nefaria
+					aduersusCaesarem molitum indicio suo prostraxit, isque damnatus mortem consciuit.P. Ventidius
+					Antoni legatus Parthos proelio uictos Syria expulit Labieno,eorum duce, occiso. </p>
+				<p>Cum uicinus Italiae hostis, Sex. Pompeius, Siciliam teneret et commerciumannonae impediret,
+					expostulatam cum eo pacem Caesar et Antonius feceruntita ut Siciliam prouinciam haberet. </p>
+				<p>Praeterea motus Africae et bella ibi gesta continet. </p>
+			</div>
+			<div
+				n="128">
+				<head>Periocha CXXVIII</head>
+				<p>Cum Sex. Pompeius rursus latrociniis mare infestum redderet nec pacem quamacceperat
+					praestaret, Caesar necessario aduersus eum bello suscepto duobusnaualibus proeliis cum dubio
+					euentu pugnauit.</p>
+				<p>P. Ventidius, legatus Antonii, Parthos in Syria proelio uicit regemqueeorum occidit. Iudaei
+					quoque a legatis Antoni subacti sunt.</p>
+				<p>Praeterea belli Siculi apparatum continet. </p>
+			</div>
+			<div
+				n="129">
+				<head>Periocha CXXIX</head>
+				<p>Aduersus Sex. Pompeium uario euentu naualibus proeliis pugnatum est ita utex duabus Caesaris
+					classibus altera, cui Agrippa praeerat, uinceret,altera, quam Caesar duxerat, deleta expositi
+					in terram milites in magnopericulo essent. Victus deinde Pompeius in Siciliam profugit. </p>
+				<p> M. Lepidus, qui ex Africa uelut ad societatem belli contra Sex. Pompeium aCaesare gerendi
+					traiecerat, cum bellum Caesari quoque inferret, relictus abexercitu, abrogato triumuiratus
+					honore uitam impetrauit. </p>
+				<p> M. Agrippa nauali corona a Caesare donatus est, qui honos nulli ante eumhabitus erat. </p>
+			</div>
+			<div
+				n="130">
+				<head>Periocha CXXX</head>
+				<p> M. Antonius dum cum Cleopatra luxuriatur, tarde Mediam ingressus bellum cumlegionibus XVIII
+					et XVI milia equitum Parthis intulit, et cum, duabuslegionibus amissis, nulla re prospere
+					cedente retro rediret, insecutissubinde Parthis et ingenti trepidatione et magno totius
+					exercitus periculoin Armeniam reuersus est, XXI diebus CCC milia fuga emensus. Circa VIIImilia
+					hominum tempestatibus amisit. </p>
+				<p>Tempestates quoque infestas super tam infeliciter susceptum Parthicumbellum culpa sua passus
+					est, quia hiemare in Armenia nolebat, dum adCleopatram festinat. </p>
+			</div>
+			<div
+				n="131">
+				<head>Periocha CXXXI</head>
+				<p>Sex. Pompeius cum in fidem M. Antoni ueniret, bellum aduersus eum in Asiamoliens oppressus a
+					legatis eius occisus est. </p>
+				<p>Caesar seditionem ueteranorum cum magna pernicie motam inhibuit, Iapydas etDalmatas et
+					Pannonios subegit. </p>
+				<p>Antonius Artauasden, Armeniae regem, fide data perductum in uincula coniciiussit, regnumque
+					Armeniae filio suo ex Cleopatra nato dedit, quam uxorisloco iam pridem captus amore eius habere
+					coeperat. </p>
+			</div>
+			<div
+				n="132">
+				<head>Periocha CXXXII</head>
+				<p> Caesar in Illyrico Dalmatas domuit. </p>
+				<p>Cum M. Antonius ob amorem Cleopatrae, ex qua duos filios habebat,Philadelphum et Alexandrum,
+					neque in urbem uenire uellet neque finitoIIIuiratus tempore imperium deponere bellumque
+					moliretur quod urbi etItaliae inferret, ingentibus tam naualibus quam terrestribus copiis ob
+					hoccontractis remissoque Octauiae, sorori Caesaris, repudio, Caesar in Epirumcum exercitu
+					traiecit. Pugnae deinde naualis et proelia equestria secundaCaesaris referuntur. </p>
+			</div>
+			<div
+				n="133">
+				<head>Periocha CXXXIII</head>
+				<p>M. Antonius ad Actium classe uictus Alexandriam profugit, obsessusque aCaesare, in ultima
+					desperatione rerum, praecipue occisae Cleopatrae falsorumore inpulsus, se ipse interfecit. </p>
+				<p>Caesar Alexandria in potestatem redacta, Cleopatra, ne in arbitriumuictoris ueniret,
+					uoluntaria morte defuncta, in urbem reuersus trestriumphos egit, unum ex Illyrico, alterum ex
+					Actiaca uictoria, tertium deCleopatra, imposito fine ciuilibus bellis altero et uicesino anno. </p>
+				<p>M. Lepidus Lepidi, qui triumuir fuerat, filius coniuratione aduersusCaesarem facta bellum
+					moliens oppressus et occisus est.</p>
+			</div>
+			<div
+				n="134">
+				<head>Periocha CXXXIV</head>
+				<p> C. Caesar rebus compositis et omnibus prouinciis in certam formam redactisAugustus quoque
+					cognominatus est ; et mensis Sextilis in honorem eiusappellatus est. </p>
+				<p>Cum ille conuentum Narbone egit, census a tribus Galliis, quas Caesar pateruicerat, actus. </p>
+				<p>Bellum aduersus Basternas et Moesos et alias gentes a M. Crasso referuntur. </p>
+			</div>
+			<div
+				n="135">
+				<head>Periocha CXXXV</head>
+				<p>Bellum a M. Crasso aduersus Thracas et a Caesare aduersus Hispanos gestumrefertur, et
+					Salassi, gens Alpina, perdomiti.</p>
+			</div>
+			<div
+				n="138">
+				<head>Periocha CXXXVIII</head>
+				<p> Raeti a Tib. Nerone et Druso, Caesaris priuignis, domiti. Agrippa, Caesaris gener, mortuus.
+					A Druso census actus est. </p>
+			</div>
+			<div
+				n="139">
+				<head>Periocha CXXXIX</head>
+				<p>Ciuitates Germaniae cis Rhenum et trans Rhenum positae oppugnantur a Druso, et tumultus, qui
+					ob censum exortus in Gallia erat, conponitur. Ara dei Caesaris ad confluentem Araris et Rhodani
+					dedicata, sacerdote creato C. Iulio Vercondaridubno Aeduo. </p>
+			</div>
+			<div
+				n="140">
+				<head>Periocha CXL</head>
+				<p> Thraces domiti a L. Pisone, item Cherusci, Tencteri, Chauci aliaeque Germanorum trans Rhenum
+					gentes subactae a Druso referuntur. Octauia, soror Augusti, defuncta, ante amisso filio
+					Marcello cuius monimenta sunt theatrum et porticus nomine eius dicata. </p>
+			</div>
+			<div
+				n="141">
+				<head>Periocha CXLI</head>
+				<p> Bellum aduersus transrhenanas gentes a Druso gestum refertur. In quo inter primores
+					pugnauerunt Chumstinctus et Auectius, tribuni ex ciuitate Neruiorum. Dalmatas et Pannonios
+					Nero, frater Drusi, subegit. Pax cum Parthis facta est signis a rege eorum, quae sub Crasso et
+					postea sub Antonio capta erant, redditis. </p>
+			</div>
+			<div
+				n="142">
+				<head>Periocha CXLII</head>
+				<p> Bellum aduersus Germanorum trans Rhenum ciuitates gestum a Druso refertur. Ipse ex fractura,
+					equo super crus eius conlapso XXX die quam id acciderat, mortuus. Corpus a Nerone fratre, qui
+					nuntio ualetudinis euocatus raptim adcucurrerat, Romam peruectum et in tumulo C. Iuli
+					reconditum. Laudatus est a Caesare Augusto uitrico. Et supremis eius plures honores dati. </p>
+			</div>
+		</body>
+	</text>
+</TEI>
