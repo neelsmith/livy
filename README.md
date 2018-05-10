@@ -1,2 +1,2 @@
 # livy
-Digital texts of Livy and the Periochae
+Digital texts of Livy's *History* and the *Periochae*
