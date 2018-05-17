@@ -24,9 +24,12 @@ val lexicalByBook = for (bk <- books) yield {
   val book = repo.corpus  ~~ bk
   println("tokenizing " + bk.passageComponent)
   val tkns = tokenizeCorpus(book)
-  tkns.filter(_.category == LexicalToken).map(_.text).distinct
+  tkns.filter(_.category == LexicalToken).map(_.text)
 }
+val lex = lexicalByBook.flatten
 
-val lex = lexicalByBook.flatten.distinct
+val histo = lex.groupBy(s => s).map { m => (m._1,m._2.size)}.toSeq.sortBy(_._2).reverse
 
 import java.io.PrintWriter
+val histoCex = histo.toVector.map{ case (s,cnt) => s"${s}#${cnt}" }
+new PrintWriter("lexhisto.cex"){write(histoCex.mkString("\n")); close;}
