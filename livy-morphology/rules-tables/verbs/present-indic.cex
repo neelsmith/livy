@@ -5,3 +5,10 @@ lverbinfl.are_presind3#are_vb#at#3rd#sg#pres#indic#act
 lverbinfl.are_presind4#are_vb#amus#1st#pl#pres#indic#act
 lverbinfl.are_presind5#are_vb#atis#2nd#pl#pres#indic#act
 lverbinfl.are_presind6#are_vb#ant#3rd#pl#pres#indic#act
+
+lverbinfl.are_presind7#are_vb#or#1st#sg#pres#indic#pass
+lverbinfl.are_presind8#are_vb#aris#2nd#sg#pres#indic#pass
+lverbinfl.are_presind9#are_vb#atur#3rd#sg#pres#indic#pass
+lverbinfl.are_presind10#are_vb#amur#1st#pl#pres#indic#pass
+lverbinfl.are_presind11#are_vb#mini#2nd#pl#pres#indic#pass
+lverbinfl.are_presind12#are_vb#antur#3rd#pl#pres#indic#pass
