@@ -1,0 +1,14 @@
+RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
+lverbinfl.are_pressubj1#are_vb#em#1st#sg#pres#subj#act
+lverbinfl.are_pressubj2#are_vb#es#2nd#sg#pres#subj#act
+lverbinfl.are_pressubj3#are_vb#et#3rd#sg#pres#subj#act
+lverbinfl.are_pressubj4#are_vb#emus#1st#pl#pres#subj#act
+lverbinfl.are_pressubj5#are_vb#etis#2nd#pl#pres#subj#act
+lverbinfl.are_pressubj6#are_vb#ent#3rd#pl#pres#subj#act
+
+lverbinfl.are_pressubj7#are_vb#er#1st#sg#pres#subj#pass
+lverbinfl.are_pressubj8#are_vb#eris#2nd#sg#pres#subj#pass
+lverbinfl.are_pressubj9#are_vb#etur#3rd#sg#pres#subj#pass
+lverbinfl.are_pressubj10#are_vb#emur#1st#pl#pres#subj#pass
+lverbinfl.are_pressubj11#are_vb#emini#2nd#pl#pres#subj#pass
+lverbinfl.are_pressubj12#are_vb#entur#3rd#pl#pres#subj#pass
