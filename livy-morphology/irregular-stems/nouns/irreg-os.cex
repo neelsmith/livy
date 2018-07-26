@@ -1,0 +1,14 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+
+ag.irrnos1#lexent.n33094#os#neut#nom#sg
+ag.irrnos2#lexent.n33094#ossis#neut#gen#sg
+ag.irrnos3#lexent.n33094#ossi#neut#dat#sg
+ag.irrnos4#lexent.n33094#os#neut#acc#sg
+ag.irrnos5#lexent.n33094#osse#neut#abl#sg
+ag.irrnos6#lexent.n33094#os#neut#voc#sg
+ag.irrnos7#lexent.n33094#ossa#neut#nom#pl
+ag.irrnos8#lexent.n33094#ossium#neut#gen#pl
+ag.irrnos9#lexent.n33094#ossibus#neut#dat#pl
+ag.irrnos10#lexent.n33094#ossa#neut#acc#pl
+ag.irrnos11#lexent.n33094#ossibus#neut#abl#pl
+ag.irrnos12#lexent.n33094#ossa#neut#voc#pl

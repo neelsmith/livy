@@ -1,0 +1,17 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+ag.irrpillic1#lexent.n21520#illic#masc#nom#sg
+ag.irrpillic2#lexent.n21520#illunc#masc#acc#sg
+ag.irrpillic3#lexent.n21520#illoc#masc#abl#sg
+
+ag.irrpillic4#lexent.n21520#illaec#fem#nom#sg
+ag.irrpillic5#lexent.n21520#illanc#fem#acc#sg
+ag.irrpillic6#lexent.n21520#illac#fem#abl#sg
+
+ag.irrpillic7#lexent.n21520#illuc#neut#nom#sg
+ag.irrpillic7b#lexent.n21520#illoc#neut#nom#sg
+ag.irrpillic8#lexent.n21520#illuc#neut#acc#sg
+ag.irrpillic8b#lexent.n21520#illoc#neut#acc#sg
+ag.irrpillic9#lexent.n21520#illoc#neut#abl#sg
+
+ag.irrpillic10#lexent.n21520#illaec#neut#nom#pl
+ag.irrpillic11#lexent.n21520#illaec#neut#acc#pl

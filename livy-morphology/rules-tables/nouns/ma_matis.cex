@@ -1,0 +1,14 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
+
+agnouninfl.ma_matis1#ma_matis#ma#neut#nom#sg
+agnouninfl.ma_matis2#ma_matis#matis#neut#gen#sg
+agnouninfl.ma_matis3#ma_matis#mati#neut#dat#sg
+agnouninfl.ma_matis4#ma_matis#ma#neut#acc#sg
+agnouninfl.ma_matis5#ma_matis#mate#neut#abl#sg
+agnouninfl.ma_matis6#ma_matis#mata#neut#nom#pl
+agnouninfl.ma_matis7#ma_matis#matum#neut#gen#pl
+agnouninfl.ma_matis8#ma_matis#matibus#neut#dat#pl
+agnouninfl.ma_matis9#ma_matis#mata#neut#acc#pl
+agnouninfl.ma_matis10#ma_matis#matibus#neut#abl#pl
+agnouninfl.ma_matis11#ma_matis#ma#neut#voc#sg
+agnouninfl.ma_matis12#ma_matis#mata#neut#voc#pl

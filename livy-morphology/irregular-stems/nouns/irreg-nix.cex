@@ -1,0 +1,14 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+
+ag.irrnnix1#lexent.n31054#nix#fem#nom#sg
+ag.irrnnix2#lexent.n31054#nivis#fem#gen#sg
+ag.irrnnix3#lexent.n31054#nivi#fem#dat#sg
+ag.irrnnix4#lexent.n31054#nivem#fem#acc#sg
+ag.irrnnix5#lexent.n31054#nive#fem#abl#sg
+ag.irrnnix6#lexent.n31054#nix#fem#voc#sg
+ag.irrnnix7#lexent.n31054#nives#fem#nom#pl
+ag.irrnnix8#lexent.n31054#nivium#fem#gen#pl
+ag.irrnnix9#lexent.n31054#nivibus#fem#dat#pl
+ag.irrnnix10#lexent.n31054#nives#fem#acc#pl
+ag.irrnnix11#lexent.n31054#nivibus#fem#abl#pl
+ag.irrnnix12#lexent.n31054#nives#fem#voc#pl

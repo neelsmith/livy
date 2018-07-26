@@ -1,0 +1,9 @@
+StemUrn#LexicalEntity#String#Person#Number#Tense#Mood#Voice
+
+ag.irrvfari1#lexent.n18534#fatur#3rd#sg#pres#indic#act
+ag.irrvfari2#lexent.n18534#fantur#3rd#pl#pres#indic#act
+
+ag.irrvfari3#lexent.n18534#fabor#1st#sg#fut#indic#act
+ag.irrvfari4#lexent.n18534#fabitur#3rd#sg#fut#indic#act
+
+ag.irrvfari5#lexent.n18534#fare#2nd#sg#pres#imptv#act

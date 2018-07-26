@@ -1,0 +1,17 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+ag.irrpistic1#lexent.n25086#istic#masc#nom#sg
+ag.irrpistic2#lexent.n25086#istunc#masc#acc#sg
+ag.irrpistic3#lexent.n25086#istoc#masc#abl#sg
+
+ag.irrpistic4#lexent.n25086#istaec#fem#nom#sg
+ag.irrpistic5#lexent.n25086#istanc#fem#acc#sg
+ag.irrpistic6#lexent.n25086#istac#fem#abl#sg
+
+ag.irrpistic7#lexent.n25086#istuc#neut#nom#sg
+ag.irrpistic7b#lexent.n25086#istoc#neut#nom#sg
+ag.irrpistic8#lexent.n25086#istuc#neut#acc#sg
+ag.irrpistic8b#lexent.n25086#istoc#neut#acc#sg
+ag.irrpistic9#lexent.n25086#istoc#neut#abl#sg
+
+ag.irrpistic10#lexent.n25086#istaec#neut#nom#pl
+ag.irrpistic11#lexent.n25086#istaec#neut#acc#pl

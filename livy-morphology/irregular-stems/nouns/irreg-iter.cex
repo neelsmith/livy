@@ -1,0 +1,14 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+
+ag.irrniter1#lexent.n25107#iter#neut#nom#sg
+ag.irrniter2#lexent.n25107#itineris#neut#gen#sg
+ag.irrniter3#lexent.n25107#itineri#neut#dat#sg
+ag.irrniter4#lexent.n25107#iter#neut#acc#sg
+ag.irrniter5#lexent.n25107#itinere#neut#abl#sg
+ag.irrniter6#lexent.n25107#iter#neut#voc#sg
+ag.irrniter7#lexent.n25107#itinera#neut#nom#pl
+ag.irrniter8#lexent.n25107#itinerum#neut#gen#pl
+ag.irrniter9#lexent.n25107#itineribus#neut#dat#pl
+ag.irrniter10#lexent.n25107#itinera#neut#acc#pl
+ag.irrniter11#lexent.n25107#itineribus#neut#abl#pl
+ag.irrniter12#lexent.n25107#itinera#neut#voc#pl
