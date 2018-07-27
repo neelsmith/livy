@@ -1,0 +1,15 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
+
+agnouninfl.s_is1#s_is#s#fem#nom#sg
+agnouninfl.s_is2#s_is#is#fem#gen#sg
+agnouninfl.s_is3#s_is#i#fem#dat#sg
+agnouninfl.s_is4#s_is#em#fem#acc#sg
+agnouninfl.s_is5#s_is#e#fem#abl#sg
+agnouninfl.s_is6#s_is#es#fem#nom#pl
+agnouninfl.s_is7#s_is#ium#fem#gen#pl
+agnouninfl.s_is8#s_is#ibus#fem#dat#pl
+agnouninfl.s_is9#s_is#es#fem#acc#pl
+agnouninfl.s_is9b#s_is#is#fem#acc#pl
+agnouninfl.s_is10#s_is#ibus#fem#abl#pl
+agnouninfl.s_is11#s_is#s#fem#voc#sg
+agnouninfl.s_is12#s_is#es#fem#voc#pl
