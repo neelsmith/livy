@@ -95,7 +95,7 @@ est
 oculis
 vim
 fuisse
-Euander
+euander
 ipsam
 consilio
 educati
@@ -365,7 +365,7 @@ concilium
 par
 peregrina
 ceteram
-'Iove
+Iove
 Remus
 sitientem
 patrem
@@ -404,7 +404,7 @@ deus
 certamen
 primam
 memorant
-mea'
+mea
 evenit
 societate
 vicinas
@@ -518,7 +518,7 @@ penuria
 maesti
 ludosque
 discurrit
-'sic
+sic
 Antemnates
 augustioremque
 tenet
@@ -527,7 +527,7 @@ via
 saepe
 cupido
 ludibrio
-colat'
+colat
 regii
 ubique
 capta
@@ -599,7 +599,7 @@ undique
 legibus
 adpetendo
 velut
-Lycaeum
+lycaeum
 porro
 conciendo
 mater
@@ -834,7 +834,7 @@ dolus
 obscuram
 praesidio
 geminos
-Euandrum
+euandrum
 tantae
 abesse
 tetigerat
@@ -910,7 +910,7 @@ sollemnis
 fore
 hominibus
 invocans
-salve'
+salve
 cepit
 supererat
 humana
