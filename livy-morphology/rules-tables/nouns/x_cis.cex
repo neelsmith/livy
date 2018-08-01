@@ -12,3 +12,16 @@ agnouninfl.x_cis9#x_cis#ces#masc#acc#pl
 agnouninfl.x_cis10#x_cis#cibus#masc#abl#pl
 agnouninfl.x_cis11#x_cis#x#masc#voc#sg
 agnouninfl.x_cis12#x_cis#ces#masc#voc#pl
+
+agnouninfl.x_cis13#x_cis#x#fem#nom#sg
+agnouninfl.x_cis14#x_cis#cis#fem#gen#sg
+agnouninfl.x_cis15#x_cis#ci#fem#dat#sg
+agnouninfl.x_cis16#x_cis#cem#fem#acc#sg
+agnouninfl.x_cis17#x_cis#ce#fem#abl#sg
+agnouninfl.x_cis18#x_cis#ces#fem#nom#pl
+agnouninfl.x_cis19#x_cis#cum#fem#gen#pl
+agnouninfl.x_cis20#x_cis#cibus#fem#dat#pl
+agnouninfl.x_cis21#x_cis#ces#fem#acc#pl
+agnouninfl.x_cis22#x_cis#cibus#fem#abl#pl
+agnouninfl.x_cis23#x_cis#x#fem#voc#sg
+agnouninfl.x_cis24#x_cis#ces#fem#voc#pl
