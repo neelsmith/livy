@@ -1,0 +1,14 @@
+RuleUrn#InflectiorClasses#Ending#gender#Case#Number
+
+livynouninfl.or_oris1#or_oris#or#masc#nom#sg
+livynouninfl.or_oris2#or_oris#oris#masc#gen#sg
+livynouninfl.or_oris3#or_oris#ori#masc#dat#sg
+livynouninfl.or_oris4#or_oris#orem#masc#acc#sg
+livynouninfl.or_oris5#or_oris#ore#masc#abl#sg
+livynouninfl.or_oris6#or_oris#ores#masc#nom#pl
+livynouninfl.or_oris7#or_oris#orum#masc#gen#pl
+livynouninfl.or_oris8#or_oris#oribus#masc#dat#pl
+livynouninfl.or_oris9#or_oris#ores#masc#acc#pl
+livynouninfl.or_oris10#or_oris#oribus#masc#abl#pl
+livynouninfl.or_oris11#or_oris#or#masc#voc#sg
+livynouninfl.or_oris12#or_oris#ores#masc#voc#pl
