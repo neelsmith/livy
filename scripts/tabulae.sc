@@ -35,9 +35,24 @@ def compile(repo: String =  "./tabulae") = {
 
 }
 
+/**  Parse words listed in a file, and return their analyses
+* as a String.
+*
+* @param wordsFile File with words to parse listed one per line.
+* @param parser Name of corpus-specific parser, a subdirectory of
+* tabulae/parsers.
+*/
+def parse(wordsFile : String) : String = {
+  val cmd = fstinfl + " parser/latin.a  " + wordsFile
+  println("Beginning to parse word list in " + wordsFile)
+  println("Please be patient: there will be a pause after")
+  println("the messages 'reading transducer...' and 'finished' while the parsing takes place.")
+  cmd !!
+}
 
-println("Compile a morphological parser from tabulae")
-println("repository in adjacent directory:")
+
+println("Compile a morphological parser from a tabulae")
+println("repository located in ./tabulae :")
 println("\n\tcompile()\n")
-println("or in a specified directory:")
+println("or from tabulae in a specified directory:")
 println("\n\tcompile(\"TABULAE_DIRECTORY\" )\n")
