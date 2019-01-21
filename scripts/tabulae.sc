@@ -1,6 +1,6 @@
 // Generate vocabulary lists and analyze with tabulae
 import edu.holycross.shot.cite._
-import edu.holycross.shot.ohco2._
+import edu.holycross.shot.ohco2.{TextRepositorySource, Corpus => O2Corpus}
 import edu.holycross.shot.mid.validator._
 
 import edu.holycross.shot.tabulae.builder._
@@ -8,12 +8,35 @@ import better.files._
 import java.io.{File => JFile}
 import better.files.Dsl._
 
+import scala.io.Source
 import sys.process._
 import scala.language.postfixOps
 
 val compiler = "/usr/bin/fst-compiler-utf8"
 val fstinfl = "/usr/bin/fst-infl"
 val make = "/usr/bin/make"
+
+
+def fullCorpus :  O2Corpus = {
+  println("Assembling complete corpus...")
+  val c =  TextRepositorySource.fromCexFile("editions/livy-omar.cex").corpus
+  println("Done.")
+  c
+}
+
+
+def minkovaTunberg(corpus: O2Corpus =  fullCorpus) :  O2Corpus = {
+    println("Extracting Minkova-Tunberg subcorpus...")
+
+    val idxFile =  "minkova-tunberg/minkova-tunberg.txt"
+    val mkUrns  =  for (ln <- Source.fromFile(idxFile).getLines.toVector) yield {
+      CtsUrn(ln)
+    }
+    //https://www.scala-lang.org/old/node/55.html
+    val mkCorpus = corpus ~~ mkUrns
+    println("Done.")
+    mkCorpus
+}
 
 
 def compile(repo: String =  "./tabulae") = {
@@ -51,8 +74,20 @@ def parse(wordsFile : String) : String = {
 }
 
 
+println("\n\n1. Data sets")
+println("-----------")
+println("Load full corpus of Livy and Periochae:")
+println("\n\tval corpus = fullCorpus")
+println("\nExtract selections in Minkova-Tunberg edition:")
+println("\n\tval mtCorpus = minkovaTunberg(corpus)")
+
+
+println("\n\n2. Analyzing corpora")
+println("--------------------")
+
+
+println("\n\n3. Parsing")
+println("----------")
 println("Compile a morphological parser from a tabulae")
 println("repository located in ./tabulae :")
 println("\n\tcompile()\n")
-println("or from tabulae in a specified directory:")
-println("\n\tcompile(\"TABULAE_DIRECTORY\" )\n")
