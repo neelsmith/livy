@@ -5,12 +5,12 @@ import better.files._
 import java.io.{File => JFile}
 import better.files.Dsl._
 
-val compiler = "/usr/local/bin/fst-compiler-utf8"
-val fstinfl = "/usr/local/bin/fst-infl"
+val compiler = "/usr/bin/fst-compiler-utf8"
+val fstinfl = "/usr/bin/fst-infl"
 val make = "/usr/bin/make"
 
 
-def compile(repo: String =  "../tabulae") = {
+def compile(repo: String =  "./tabulae") = {
   val tabulae = File(repo)
   val datasets = "."
   val c = "livy-morphology"
@@ -34,4 +34,4 @@ println("Compile a morphological parser from tabulae")
 println("repository in adjacent directory:")
 println("\n\tcompile()\n")
 println("or in a specified directory:")
-println("\n\tcompile(\"TABULAE__DIRECTORY\" )\n")
+println("\n\tcompile(\"TABULAE_DIRECTORY\" )\n")

@@ -2,11 +2,14 @@
 import edu.holycross.shot.cite._
 import edu.holycross.shot.ohco2.{TextRepositorySource, Corpus => O2Corpus}
 import edu.holycross.shot.mid.validator._
+import edu.holycross.shot.latin._
 
 import edu.holycross.shot.tabulae.builder._
 import better.files._
 import java.io.{File => JFile}
 import better.files.Dsl._
+
+import java.io.PrintWriter
 
 import scala.io.Source
 import sys.process._
@@ -73,6 +76,12 @@ def parse(wordsFile : String) : String = {
   cmd !!
 }
 
+def wordList(corpus: O2Corpus, wordsFile: String = "words.txt") = {
+  val tokens = Latin24Alphabet.tokenizeCorpus(corpus)
+  val lexical = tokens.filter(_.tokenCategory.toString == "Some(LexicalToken)")
+  val wordList = lexical.map(_.string.toLowerCase).distinct.sorted
+  new PrintWriter(wordsFile) { write(wordList.mkString("\n")); close;}
+}
 
 println("\n\n1. Data sets")
 println("-----------")
@@ -84,6 +93,9 @@ println("\n\tval mtCorpus = minkovaTunberg(corpus)")
 
 println("\n\n2. Analyzing corpora")
 println("--------------------")
+println("Write word list for a corpus to a file:")
+println("\n\twordList(corpus, FILENAME)")
+println("\n(FILENAME is optional: default is 'words.txt')")
 
 
 println("\n\n3. Parsing")
