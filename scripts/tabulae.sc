@@ -9,6 +9,8 @@ import better.files._
 import java.io.{File => JFile}
 import better.files.Dsl._
 
+import scala.collection.immutable.ListMap
+
 import java.io.PrintWriter
 
 import scala.io.Source
@@ -68,7 +70,7 @@ def compile(repo: String =  "./tabulae") = {
 * @param parser Name of corpus-specific parser, a subdirectory of
 * tabulae/parsers.
 */
-def parse(wordsFile : String) : String = {
+def parse(wordsFile : String = "words.txt") : String = {
   val cmd = fstinfl + " parser/latin.a  " + wordsFile
   println("Beginning to parse word list in " + wordsFile)
   println("Please be patient: there will be a pause after")
@@ -83,6 +85,33 @@ def wordList(corpus: O2Corpus, wordsFile: String = "words.txt") = {
   new PrintWriter(wordsFile) { write(wordList.mkString("\n")); close;}
 }
 
+case class Freq(string: String, count: Int)
+
+
+def parseN(histo: Vector[Freq], n: Int = 100, wordsFile : String = "words.txt") : String = {
+  val words = histo.take(n).map(_.string)
+  new PrintWriter(wordsFile) { write(words.mkString("\n")); close;}
+  parse(wordsFile)
+}
+
+def parseThreshold(histo: Vector[Freq],thresh: Int = 100, wordsFile : String = "words.txt") : String = {
+  val words = histo.filter(_.count > thresh).map(_.string)
+  new PrintWriter(wordsFile) { write(words.mkString("\n")); close;}
+  parse(wordsFile)
+}
+
+def histogram(tokens: Vector[MidToken]): Vector[Freq] = {
+  val grouped = tokens.groupBy(_.string)
+  val mapped = grouped.map{ case (k,v) => (k, v.size )  }
+  val counts = mapped.toSeq.sortWith(_._2 > _._2)
+  val freqs = for (count <- counts) yield { Freq(count._1, count._2) }
+  freqs.toVector
+}
+
+
+def guide : Unit = {
+
+
 println("\n\n1. Data sets")
 println("-----------")
 println("Load full corpus of Livy and Periochae:")
@@ -96,6 +125,12 @@ println("--------------------")
 println("Write word list for a corpus to a file:")
 println("\n\twordList(corpus, FILENAME)")
 println("\n(FILENAME is optional: default is 'words.txt')")
+println("\n\nTokenize a corpus:")
+println("\n\tval tokens = Latin24Alphabet.tokenizeCorpus(corpus)")
+println("\nSelect only lexical tokens from a list of tokens:")
+println("\n\tval lexical = tokens.filter(_.tokenCategory.toString == \"Some(LexicalToken)\")")
+println("\nCreate histogram of tokens for a list of tokens:")
+println("\n\tval histogram = histogram(lexical)")
 
 
 println("\n\n3. Parsing")
@@ -103,3 +138,18 @@ println("----------")
 println("Compile a morphological parser from a tabulae")
 println("repository located in ./tabulae :")
 println("\n\tcompile()\n")
+println("\n\nParse a word list:")
+println("\n\tval results = parse(WORDSFILE)")
+println("\n(WORDSFILE is optional: default is 'words.txt')")
+println("\nParse top N items in a histogram:")
+println("\n\tparseN(tokens,N)")
+println("\n(N is optional: default is 100)")
+
+println("\nParse items in a histogram appearing more than N times:")
+println("\n\tparseThreshold(tokens,THRESHOLD)")
+println("\n(THRESHOLD is optional: default is 100)")
+
+}
+
+println("\n\nFor a quick guide:")
+println("\n\tguide")
