@@ -20,8 +20,6 @@ Digital texts of Livy's *History* and the *Periochae*
 
 ### Using `tabulae` within the docker session
 
-To begin or resume a docker session, first load this scala script:  `:load /workspace/scripts/compile.sc`
+To begin or resume a docker session, first load this scala script:  `:load /workspace/scripts/tabulae.sc`
 
--  compile a new parser:  `compile()`
--  generate a word list from the corpus
--  analyze a generated word list
+For a summary of functions available from this script, run `guide
