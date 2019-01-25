@@ -1,36 +1,36 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
-ag.irrpille1#lexent.n21494#ille#masc#nom#sg
-ag.irrpille2#lexent.n21494#illius#masc#gen#sg
-ag.irrpille3#lexent.n21494#illi#masc#dat#sg
-ag.irrpille4#lexent.n21494#illum#masc#acc#sg
-ag.irrpille5#lexent.n21494#illo#masc#abl#sg
+plinymorph.irrpille1#lexent.n21494#ille#masc#nom#sg
+plinymorph.irrpille2#lexent.n21494#illius#masc#gen#sg
+plinymorph.irrpille3#lexent.n21494#illi#masc#dat#sg
+plinymorph.irrpille4#lexent.n21494#illum#masc#acc#sg
+plinymorph.irrpille5#lexent.n21494#illo#masc#abl#sg
 
-ag.irrpille6#lexent.n21494#illi#masc#nom#pl
-ag.irrpille7#lexent.n21494#illorum#masc#gen#pl
-ag.irrpille8#lexent.n21494#illis#masc#dat#pl
-ag.irrpille9#lexent.n21494#illos#masc#acc#pl
-ag.irrpille10#lexent.n21494#illis#masc#abl#pl
+plinymorph.irrpille6#lexent.n21494#illi#masc#nom#pl
+plinymorph.irrpille7#lexent.n21494#illorum#masc#gen#pl
+plinymorph.irrpille8#lexent.n21494#illis#masc#dat#pl
+plinymorph.irrpille9#lexent.n21494#illos#masc#acc#pl
+plinymorph.irrpille10#lexent.n21494#illis#masc#abl#pl
 
-ag.irrpille11#lexent.n21494#illa#fem#nom#sg
-ag.irrpille12#lexent.n21494#illius#fem#gen#sg
-ag.irrpille13#lexent.n21494#illi#fem#dat#sg
-ag.irrpille14#lexent.n21494#illam#fem#acc#sg
-ag.irrpille15#lexent.n21494#illa#fem#abl#sg
+plinymorph.irrpille11#lexent.n21494#illa#fem#nom#sg
+plinymorph.irrpille12#lexent.n21494#illius#fem#gen#sg
+plinymorph.irrpille13#lexent.n21494#illi#fem#dat#sg
+plinymorph.irrpille14#lexent.n21494#illam#fem#acc#sg
+plinymorph.irrpille15#lexent.n21494#illa#fem#abl#sg
 
-ag.irrpille16#lexent.n21494#illae#fem#nom#pl
-ag.irrpille17#lexent.n21494#illarum#fem#gen#pl
-ag.irrpille18#lexent.n21494#illis#fem#dat#pl
-ag.irrpille19#lexent.n21494#illas#fem#acc#pl
-ag.irrpille20#lexent.n21494#illis#fem#abl#pl
+plinymorph.irrpille16#lexent.n21494#illae#fem#nom#pl
+plinymorph.irrpille17#lexent.n21494#illarum#fem#gen#pl
+plinymorph.irrpille18#lexent.n21494#illis#fem#dat#pl
+plinymorph.irrpille19#lexent.n21494#illas#fem#acc#pl
+plinymorph.irrpille20#lexent.n21494#illis#fem#abl#pl
 
-ag.irrpille21#lexent.n21494#illud#neut#nom#sg
-ag.irrpille22#lexent.n21494#illius#neut#gen#sg
-ag.irrpille23#lexent.n21494#illi#neut#dat#sg
-ag.irrpille24#lexent.n21494#illud#neut#acc#sg
-ag.irrpille25#lexent.n21494#illo#neut#abl#sg
+plinymorph.irrpille21#lexent.n21494#illud#neut#nom#sg
+plinymorph.irrpille22#lexent.n21494#illius#neut#gen#sg
+plinymorph.irrpille23#lexent.n21494#illi#neut#dat#sg
+plinymorph.irrpille24#lexent.n21494#illud#neut#acc#sg
+plinymorph.irrpille25#lexent.n21494#illo#neut#abl#sg
 
-ag.irrpille26#lexent.n21494#illa#neut#nom#pl
-ag.irrpille27#lexent.n21494#illorum#neut#gen#pl
-ag.irrpille28#lexent.n21494#illis#neut#dat#pl
-ag.irrpille29#lexent.n21494#illa#neut#acc#pl
-ag.irrpille30#lexent.n21494#illis#neut#abl#pl
+plinymorph.irrpille26#lexent.n21494#illa#neut#nom#pl
+plinymorph.irrpille27#lexent.n21494#illorum#neut#gen#pl
+plinymorph.irrpille28#lexent.n21494#illis#neut#dat#pl
+plinymorph.irrpille29#lexent.n21494#illa#neut#acc#pl
+plinymorph.irrpille30#lexent.n21494#illis#neut#abl#pl

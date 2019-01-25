@@ -1,36 +1,37 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
-ag.irrpqui1#lexent.n40103#qui#masc#nom#sg
-ag.irrpqui2#lexent.n40103#cuius#masc#gen#sg
-ag.irrpqui3#lexent.n40103#cui#masc#dat#sg
-ag.irrpqui4#lexent.n40103#quem#masc#acc#sg
-ag.irrpqui5#lexent.n40103#quo#masc#abl#sg
+plinymorph.irrpqui1#lexent.n40103#qui#masc#nom#sg
+plinymorph.irrpqui2#lexent.n40103#cuius#masc#gen#sg
+plinymorph.irrpqui2b#lexent.n40103#cius#masc#gen#sg
+plinymorph.irrpqui3#lexent.n40103#cui#masc#dat#sg
+plinymorph.irrpqui4#lexent.n40103#quem#masc#acc#sg
+plinymorph.irrpqui5#lexent.n40103#quo#masc#abl#sg
 
-ag.irrpqui6#lexent.n40103#qui#masc#nom#pl
-ag.irrpqui7#lexent.n40103#quorum#masc#gen#pl
-ag.irrpqui8#lexent.n40103#quibus#masc#dat#pl
-ag.irrpqui9#lexent.n40103#quos#masc#acc#pl
-ag.irrpqui10#lexent.n40103#quibus#masc#abl#pl
+plinymorph.irrpqui6#lexent.n40103#qui#masc#nom#pl
+plinymorph.irrpqui7#lexent.n40103#quorum#masc#gen#pl
+plinymorph.irrpqui8#lexent.n40103#quibus#masc#dat#pl
+plinymorph.irrpqui9#lexent.n40103#quos#masc#acc#pl
+plinymorph.irrpqui10#lexent.n40103#quibus#masc#abl#pl
 
-ag.irrpqui11#lexent.n40103#qua#fem#nom#sg
-ag.irrpqui12#lexent.n40103#cuius#fem#gen#sg
-ag.irrpqui13#lexent.n40103#cui#fem#dat#sg
-ag.irrpqui14#lexent.n40103#quam#fem#acc#sg
-ag.irrpqui15#lexent.n40103#qua#fem#abl#sg
+plinymorph.irrpqui11#lexent.n40103#quae#fem#nom#sg
+plinymorph.irrpqui12#lexent.n40103#cuius#fem#gen#sg
+plinymorph.irrpqui13#lexent.n40103#cui#fem#dat#sg
+plinymorph.irrpqui14#lexent.n40103#quam#fem#acc#sg
+plinymorph.irrpqui15#lexent.n40103#qua#fem#abl#sg
 
-ag.irrpqui16#lexent.n40103#quae#fem#nom#pl
-ag.irrpqui17#lexent.n40103#quarum#fem#gen#pl
-ag.irrpqui18#lexent.n40103#quibus#fem#dat#pl
-ag.irrpqui19#lexent.n40103#quas#fem#acc#pl
-ag.irrpqui20#lexent.n40103#quibus#fem#abl#pl
+plinymorph.irrpqui16#lexent.n40103#quae#fem#nom#pl
+plinymorph.irrpqui17#lexent.n40103#quarum#fem#gen#pl
+plinymorph.irrpqui18#lexent.n40103#quibus#fem#dat#pl
+plinymorph.irrpqui19#lexent.n40103#quas#fem#acc#pl
+plinymorph.irrpqui20#lexent.n40103#quibus#fem#abl#pl
 
-ag.irrpqui21#lexent.n40103#quod#neut#nom#sg
-ag.irrpqui22#lexent.n40103#cuius#neut#gen#sg
-ag.irrpqui23#lexent.n40103#cui#neut#dat#sg
-ag.irrpqui24#lexent.n40103#quod#neut#acc#sg
-ag.irrpqui25#lexent.n40103#quo#neut#abl#sg
+plinymorph.irrpqui21#lexent.n40103#quod#neut#nom#sg
+plinymorph.irrpqui22#lexent.n40103#cuius#neut#gen#sg
+plinymorph.irrpqui23#lexent.n40103#cui#neut#dat#sg
+plinymorph.irrpqui24#lexent.n40103#quod#neut#acc#sg
+plinymorph.irrpqui25#lexent.n40103#quo#neut#abl#sg
 
-ag.irrpqui26#lexent.n40103#quae#neut#nom#pl
-ag.irrpqui27#lexent.n40103#quorum#neut#gen#pl
-ag.irrpqui28#lexent.n40103#quibus#neut#dat#pl
-ag.irrpqui29#lexent.n40103#quae#neut#acc#pl
-ag.irrpqui30#lexent.n40103#quibus#neut#abl#pl
+plinymorph.irrpqui26#lexent.n40103#quae#neut#nom#pl
+plinymorph.irrpqui27#lexent.n40103#quorum#neut#gen#pl
+plinymorph.irrpqui28#lexent.n40103#quibus#neut#dat#pl
+plinymorph.irrpqui29#lexent.n40103#quae#neut#acc#pl
+plinymorph.irrpqui30#lexent.n40103#quibus#neut#abl#pl

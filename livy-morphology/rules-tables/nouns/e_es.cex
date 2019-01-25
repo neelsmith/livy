@@ -1,9 +1,11 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 
 agnouninfl.e_es1#e_es#e#fem#nom#sg
+agnouninfl.e_es1b#e_es#a#fem#nom#sg
 agnouninfl.e_es2#e_es#es#fem#gen#sg
 agnouninfl.e_es3#e_es#ae#fem#dat#sg
 agnouninfl.e_es4#e_es#en#fem#acc#sg
+agnouninfl.e_es4b#e_es#am#fem#acc#sg
 agnouninfl.e_es5#e_es#e#fem#abl#sg
 agnouninfl.e_es6#e_es#ae#fem#nom#pl
 agnouninfl.e_es7#e_es#arum#fem#gen#pl

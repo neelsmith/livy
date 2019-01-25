@@ -1,0 +1,14 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
+
+agnouninfl.ut_itis1#ut_itis#ut#neut#nom#sg
+agnouninfl.ut_itis2#ut_itis#itis#neut#gen#sg
+agnouninfl.ut_itis3#ut_itis#iti#neut#dat#sg
+agnouninfl.ut_itis4#ut_itis#ut#neut#acc#sg
+agnouninfl.ut_itis5#ut_itis#ite#neut#abl#sg
+agnouninfl.ut_itis6#ut_itis#ita#neut#nom#pl
+agnouninfl.ut_itis7#ut_itis#itum#neut#gen#pl
+agnouninfl.ut_itis8#ut_itis#itibus#neut#dat#pl
+agnouninfl.ut_itis9#ut_itis#ita#neut#acc#pl
+agnouninfl.ut_itis10#ut_itis#itibus#neut#abl#pl
+agnouninfl.ut_itis11#ut_itis#ut#neut#voc#sg
+agnouninfl.ut_itis12#ut_itis#ita#neut#voc#pl

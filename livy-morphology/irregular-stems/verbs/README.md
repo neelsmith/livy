@@ -1,1 +1,6 @@
-Required directory. Put zero or more .cex files here.
+README goes here
+
+
+Example:
+
+StemUrn#LexicalEntity#String#Person#Number#Tense#Mood#Voice

@@ -1,0 +1,12 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number#Degree
+
+ag.irrambo1#lexent.n2176#ambo#masc#nom#pl#pos
+ag.irrambo2#lexent.nn2176#ambo#masc#voc#pl#pos
+ag.irrambo3#lexent.nn2176#ambo#masc#acc#pl#pos
+ag.irrambo4#lexent.nn2176#ambo#neut#nom#pl#pos
+ag.irrambo5#lexent.nn2176#ambo#neut#voc#pl#pos
+ag.irrambo6#lexent.nn2176#ambo#neut#acc#pl#pos
+ag.irrambo7#lexent.nn2176#ambae#fem#nom#pl#pos
+ag.irrambo8#lexent.nn2176#ambae#fem#voc#pl#pos
+ag.irrambo9#lexent.nn2176#ambas#fem#acc#pl#pos
+ag.irrambo10#lexent.nn2176#unis#masc#abl#pl#pos

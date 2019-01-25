@@ -1,25 +1,25 @@
 StemUrn#LexicalEntity#String#Person#Number#Tense#Mood#Voice
 
-ag.irrv169#lexent.n15156#es#2nd#sg#pres#indic#act
-ag.irrv170#lexent.n15156#est#3rd#sg#pres#indic#act
-ag.irrv171#lexent.n15156#estis#2nd#pl#pres#indic#act
+plinymorph.irrvedo1#lexent.n15156#es#2nd#sg#pres#indic#act
+plinymorph.irrvedo2#lexent.n15156#est#3rd#sg#pres#indic#act
+plinymorph.irrvedo3#lexent.n15156#estis#2nd#pl#pres#indic#act
 
-ag.irrv172#lexent.n15156#edim#1st#sg#pres#subj#act
-ag.irrv173#lexent.n15156#edis#2nd#sg#pres#subj#act
-ag.irrv174#lexent.n15156#edit#3rd#sg#pres#subj#act
-ag.irrv175#lexent.n15156#edimus#1st#pl#pres#subj#act
-ag.irrv176#lexent.n15156#editis#2nd#pl#pres#subj#act
-ag.irrv177#lexent.n15156#edint#3rd#pl#pres#subj#act
+plinymorph.irrvedo4#lexent.n15156#edim#1st#sg#pres#subj#act
+plinymorph.irrvedo5#lexent.n15156#edis#2nd#sg#pres#subj#act
+plinymorph.irrvedo6#lexent.n15156#edit#3rd#sg#pres#subj#act
+plinymorph.irrvedo7#lexent.n15156#edimus#1st#pl#pres#subj#act
+plinymorph.irrvedo8#lexent.n15156#editis#2nd#pl#pres#subj#act
+plinymorph.irrvedo9#lexent.n15156#edint#3rd#pl#pres#subj#act
 
-ag.irrv178#lexent.n15156#esses#2nd#sg#impft#subj#act
-ag.irrv179#lexent.n15156#esset#3rd#sg#impft#subj#act
-ag.irrv180#lexent.n15156#essemus#1st#pl#impft#subj#act
-ag.irrv181#lexent.n15156#essetis#2nd#pl#impft#subj#act
-ag.irrv182#lexent.n15156#essent#3rd#pl#impft#subj#act
+plinymorph.irrvedo10#lexent.n15156#esses#2nd#sg#impft#subj#act
+plinymorph.irrvedo11#lexent.n15156#esset#3rd#sg#impft#subj#act
+plinymorph.irrvedo12#lexent.n15156#essemus#1st#pl#impft#subj#act
+plinymorph.irrvedo13#lexent.n15156#essetis#2nd#pl#impft#subj#act
+plinymorph.irrvedo14#lexent.n15156#essent#3rd#pl#impft#subj#act
 
-ag.irrv183#lexent.n15156#es#2nd#sg#pres#imptv#act
-ag.irrv184#lexent.n15156#este#2nd#pl#pres#imptv#act
+plinymorph.irrvedo15#lexent.n15156#es#2nd#sg#pres#imptv#act
+plinymorph.irrvedo16#lexent.n15156#este#2nd#pl#pres#imptv#act
 
-ag.irrv185#lexent.n15156#esto#2nd#sg#fut#imptv#act
-ag.irrv186#lexent.n15156#esto#3rd#sg#fut#imptv#act
-ag.irrv187#lexent.n15156#estote#2nd#pl#fut#imptv#act
+plinymorph.irrvedo17#lexent.n15156#esto#2nd#sg#fut#imptv#act
+plinymorph.irrvedo18#lexent.n15156#esto#3rd#sg#fut#imptv#act
+plinymorph.irrvedo19#lexent.n15156#estote#2nd#pl#fut#imptv#act
