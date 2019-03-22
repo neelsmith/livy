@@ -1,6 +1,2 @@
-README goes here
-
-Example:
-
-StemUrn#LexicalEntity#String#Gender#Case#Number#Notes
-smyth.n23069_0s#lexent.n23069#gunh/#fem#nom#sg#Smyth 285 no. 6
+> Ex: StemUrn#LexicalEntity#String#Gender#Case#Number
+horacemorph.nihil1#ls.n30954#nihil#neut#nom#sg

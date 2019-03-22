@@ -1,6 +1,4 @@
-README goes here
-
-example:
-
-StemUrn#LexicalEntity#String#Tense#Voice#Gender#Case#Number#Notes
-smyth.n72202_m0s#lexent.n72202#ei)dw/s#pft#act#masc#nom#sg#Smyth 306
+Horace 1.38 has no irregular gerunds.
+For other corpora, place .cex files in this directory.
+> Ex: Rule#LexicalEntity#Form#Gender#Case#Number
+horacemorph.irrgrd_fero1#ls.n17964#ferendi#neut#gen#sg

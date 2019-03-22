@@ -1,1 +1,4 @@
-Required directory. Put zero or more .cex files here.
+> Ex: RuleUrn#PartOfSpeech
+horacemorph.indecl1#prep
+
+Is this appropriate?

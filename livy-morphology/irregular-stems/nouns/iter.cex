@@ -1,0 +1,14 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+
+livymorph.irrniter1#lexent.n25107#iter#neut#nom#sg
+livymorph.irrniter2#lexent.n25107#itineris#neut#gen#sg
+livymorph.irrniter3#lexent.n25107#itineri#neut#dat#sg
+livymorph.irrniter4#lexent.n25107#iter#neut#acc#sg
+livymorph.irrniter5#lexent.n25107#itinere#neut#abl#sg
+livymorph.irrniter6#lexent.n25107#iter#neut#voc#sg
+livymorph.irrniter7#lexent.n25107#itinera#neut#nom#pl
+livymorph.irrniter8#lexent.n25107#itinerum#neut#gen#pl
+livymorph.irrniter9#lexent.n25107#itineribus#neut#dat#pl
+livymorph.irrniter10#lexent.n25107#itinera#neut#acc#pl
+livymorph.irrniter11#lexent.n25107#itineribus#neut#abl#pl
+livymorph.irrniter12#lexent.n25107#itinera#neut#voc#pl

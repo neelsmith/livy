@@ -1,1 +1,2 @@
-Required directory. Put zero or more .cex files here.
+> Ex: RuleUrn#InflectionClass#Ending#Tense#Voice
+horacemorph.are_inf1#conj1#are#pres#act

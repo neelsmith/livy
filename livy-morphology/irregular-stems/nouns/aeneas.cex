@@ -1,0 +1,9 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+
+livymorph.irraeneas1#lexent.n1234#aeneas#masc#nom#sg
+livymorph.irraeneas2#lexent.n1234#aeneae#masc#gen#sg
+livymorph.irraeneas3#lexent.n1234#aeneae#masc#dat#sg
+livymorph.irraeneas4#lexent.n1234#aenean#masc#acc#sg
+livymorph.irraeneas4b#lexent.n1234#aeneam#masc#acc#sg
+livymorph.irraeneas5#lexent.n1234#aenea#masc#abl#sg
+livymorph.irraeneas6#lexent.n1234#aenea#masc#voc#sg

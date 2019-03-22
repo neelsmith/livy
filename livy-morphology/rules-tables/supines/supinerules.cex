@@ -1,26 +1,26 @@
 RuleUrn#InflectionClass#Ending#Case
 
-supine.conj1_1#conj1#atum#acc
-supine.conj1_2#conj1#atu#abl
-supine.c1pres_1#c1pres#atum#acc
-supine.c1pres_2#c1pres#atu#abl
+livymorph.conj1sup1#conj1#atum#acc
+livymorph.conj1sup2#conj1#atu#abl
+livymorph.c1pressup1#c1pres#atum#acc
+livymorph.c1pressup2#c1pres#atu#abl
 
-supine.conj2_1#conj2#itum#acc
-supine.conj2_2#conj2#itu#abl
-supine.c2pres_1#c2pres#itum#acc
-supine.c2pres_2#cc2pres#itu#abl
+livymorph.conj2sup1#conj2#itum#acc
+livymorph.conj2sup2#conj2#itu#abl
+livymorph.c2pressup1#c2pres#itum#acc
+livymorph.c2pressup2#cc2pres#itu#abl
 
-supine.conj3_1#conj3#tum#acc
-supine.conj3_2#conj3#tu#abl
-supine.c3pres_1#c3pres#tum#acc
-supine.c3pres_2#c3pres#tu#abl
+livymorph.conj3sup1#conj3#tum#acc
+livymorph.conj3sup2#conj3#tu#abl
+livymorph.c3pressup1#c3pres#tum#acc
+livymorph.c3pressup2#c3pres#tu#abl
 
-supine.conj3io_1#conj3io#tum#acc
-supine.conj3io_2#conj3io#tu#abl
-supine.c3iopres_1#c3iopres#tum#acc
-supine.c3iopres_2#c3iopres#tu#abl
+livymorph.conj3iosup1#conj3io#tum#acc
+livymorph.conj3iosup2#conj3io#tu#abl
+livymorph.c3iopressup1#c3iopres#tum#acc
+livymorph.c3iopressup2#c3iopres#tu#abl
 
-supine.conj4_1#conj4#itum#acc
-supine.conj4_2#conj4#itu#abl
-supine.c4pres_1#c4pres#itum#acc
-supine.c4pres_2#c4pres#itu#abl
+livymorph.conj4sup1#conj4#itum#acc
+livymorph.conj4sup2#conj4#itu#abl
+livymorph.c4pressup1#c4pres#itum#acc
+livymorph.c4pressup2#c4pres#itu#abl

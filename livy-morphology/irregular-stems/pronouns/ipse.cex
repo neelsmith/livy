@@ -1,36 +1,36 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
-plinymorph.irrpipse1#lexent.n24872#ipse#masc#nom#sg
-plinymorph.irrpipse2#lexent.n24872#ipsius#masc#gen#sg
-plinymorph.irrpipse3#lexent.n24872#ipsi#masc#dat#sg
-plinymorph.irrpipse4#lexent.n24872#ipsum#masc#acc#sg
-plinymorph.irrpipse5#lexent.n24872#ipso#masc#abl#sg
+livymorph.irrpipse1#lexent.n24872#ipse#masc#nom#sg
+livymorph.irrpipse2#lexent.n24872#ipsius#masc#gen#sg
+livymorph.irrpipse3#lexent.n24872#ipsi#masc#dat#sg
+livymorph.irrpipse4#lexent.n24872#ipsum#masc#acc#sg
+livymorph.irrpipse5#lexent.n24872#ipso#masc#abl#sg
 
-plinymorph.irrpipse6#lexent.n24872#ipsi#masc#nom#pl
-plinymorph.irrpipse7#lexent.n24872#ipsorum#masc#gen#pl
-plinymorph.irrpipse8#lexent.n24872#ipsis#masc#dat#pl
-plinymorph.irrpipse9#lexent.n24872#ipsos#masc#acc#pl
-plinymorph.irrpipse10#lexent.n24872#ipsis#masc#abl#pl
+livymorph.irrpipse6#lexent.n24872#ipsi#masc#nom#pl
+livymorph.irrpipse7#lexent.n24872#ipsorum#masc#gen#pl
+livymorph.irrpipse8#lexent.n24872#ipsis#masc#dat#pl
+livymorph.irrpipse9#lexent.n24872#ipsos#masc#acc#pl
+livymorph.irrpipse10#lexent.n24872#ipsis#masc#abl#pl
 
-plinymorph.irrpipse11#lexent.n24872#ipsa#fem#nom#sg
-plinymorph.irrpipse12#lexent.n24872#ipsius#fem#gen#sg
-plinymorph.irrpipse13#lexent.n24872#ipsi#fem#dat#sg
-plinymorph.irrpipse14#lexent.n24872#ipsam#fem#acc#sg
-plinymorph.irrpipse15#lexent.n24872#ipsa#fem#abl#sg
+livymorph.irrpipse11#lexent.n24872#ipsa#fem#nom#sg
+livymorph.irrpipse12#lexent.n24872#ipsius#fem#gen#sg
+livymorph.irrpipse13#lexent.n24872#ipsi#fem#dat#sg
+livymorph.irrpipse14#lexent.n24872#ipsam#fem#acc#sg
+livymorph.irrpipse15#lexent.n24872#ipsa#fem#abl#sg
 
-plinymorph.irrpipse16#lexent.n24872#ipsae#fem#nom#pl
-plinymorph.irrpipse17#lexent.n24872#ipsarum#fem#gen#pl
-plinymorph.irrpipse18#lexent.n24872#ipsis#fem#dat#pl
-plinymorph.irrpipse19#lexent.n24872#ipsas#fem#acc#pl
-plinymorph.irrpipse20#lexent.n24872#ipsis#fem#abl#pl
+livymorph.irrpipse16#lexent.n24872#ipsae#fem#nom#pl
+livymorph.irrpipse17#lexent.n24872#ipsarum#fem#gen#pl
+livymorph.irrpipse18#lexent.n24872#ipsis#fem#dat#pl
+livymorph.irrpipse19#lexent.n24872#ipsas#fem#acc#pl
+livymorph.irrpipse20#lexent.n24872#ipsis#fem#abl#pl
 
-plinymorph.irrpipse21#lexent.n24872#ipsum#neut#nom#sg
-plinymorph.irrpipse22#lexent.n24872#ipsius#neut#gen#sg
-plinymorph.irrpipse23#lexent.n24872#ipsi#neut#dat#sg
-plinymorph.irrpipse24#lexent.n24872#ipsum#neut#acc#sg
-plinymorph.irrpipse25#lexent.n24872#ipso#neut#abl#sg
+livymorph.irrpipse21#lexent.n24872#ipsum#neut#nom#sg
+livymorph.irrpipse22#lexent.n24872#ipsius#neut#gen#sg
+livymorph.irrpipse23#lexent.n24872#ipsi#neut#dat#sg
+livymorph.irrpipse24#lexent.n24872#ipsum#neut#acc#sg
+livymorph.irrpipse25#lexent.n24872#ipso#neut#abl#sg
 
-plinymorph.irrpipse26#lexent.n24872#ipsa#neut#nom#pl
-plinymorph.irrpipse27#lexent.n24872#ipsorum#neut#gen#pl
-plinymorph.irrpipse28#lexent.n24872#ipsis#neut#dat#pl
-plinymorph.irrpipse29#lexent.n24872#ipsa#neut#acc#pl
-plinymorph.irrpipse30#lexent.n24872#ipsis#neut#abl#pl
+livymorph.irrpipse26#lexent.n24872#ipsa#neut#nom#pl
+livymorph.irrpipse27#lexent.n24872#ipsorum#neut#gen#pl
+livymorph.irrpipse28#lexent.n24872#ipsis#neut#dat#pl
+livymorph.irrpipse29#lexent.n24872#ipsa#neut#acc#pl
+livymorph.irrpipse30#lexent.n24872#ipsis#neut#abl#pl

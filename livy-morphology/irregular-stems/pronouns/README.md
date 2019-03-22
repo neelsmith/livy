@@ -1,8 +1,2 @@
-README goes here
-
-
-Example:
-
-
-StemUrn#LexicalEntity#String#Gender#Case#Number
-smyth.n71882_0#lexent.n71882#o(#masc#nom#sg
+> Ex: StemUrn#LexicalEntity#String#Gender#Case#Number
+horacemorph.irrpego1#ls.n15326#ego#masc#nom#sg

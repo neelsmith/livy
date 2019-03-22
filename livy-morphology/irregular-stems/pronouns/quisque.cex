@@ -1,36 +1,36 @@
 StemUrn#LexicalEntity#String#Gender#Case#Number
-plinymorph.irrpquisque1#lexent.n40248#quisque#masc#nom#sg
-plinymorph.irrpquisque2#lexent.n40248#cuiusque#masc#gen#sg
-plinymorph.irrpquisque3#lexent.n40248#cuique#masc#dat#sg
-plinymorph.irrpquisque4#lexent.n40248#quemque#masc#acc#sg
-plinymorph.irrpquisque5#lexent.n40248#quoque#masc#abl#sg
+livymorph.irrpquisque1#lexent.n40248#quisque#masc#nom#sg
+livymorph.irrpquisque2#lexent.n40248#cuiusque#masc#gen#sg
+livymorph.irrpquisque3#lexent.n40248#cuique#masc#dat#sg
+livymorph.irrpquisque4#lexent.n40248#quemque#masc#acc#sg
+livymorph.irrpquisque5#lexent.n40248#quoque#masc#abl#sg
 
-plinymorph.irrpquisque6#lexent.n40248#quique#masc#nom#pl
-plinymorph.irrpquisque7#lexent.n40248#quorumque#masc#gen#pl
-plinymorph.irrpquisque8#lexent.n40248#quibusque#masc#dat#pl
-plinymorph.irrpquisque9#lexent.n40248#quosque#masc#acc#pl
-plinymorph.irrpquisque10#lexent.n40248#quibusque#masc#abl#pl
+livymorph.irrpquisque6#lexent.n40248#quique#masc#nom#pl
+livymorph.irrpquisque7#lexent.n40248#quorumque#masc#gen#pl
+livymorph.irrpquisque8#lexent.n40248#quibusque#masc#dat#pl
+livymorph.irrpquisque9#lexent.n40248#quosque#masc#acc#pl
+livymorph.irrpquisque10#lexent.n40248#quibusque#masc#abl#pl
 
-plinymorph.irrpquisque11#lexent.n40248#quisque#fem#nom#sg
-plinymorph.irrpquisque12#lexent.n40248#cuiusque#fem#gen#sg
-plinymorph.irrpquisque13#lexent.n40248#cuique#fem#dat#sg
-plinymorph.irrpquisque14#lexent.n40248#quemque#fem#acc#sg
-plinymorph.irrpquisque15#lexent.n40248#quoque#fem#abl#sg
+livymorph.irrpquisque11#lexent.n40248#quisque#fem#nom#sg
+livymorph.irrpquisque12#lexent.n40248#cuiusque#fem#gen#sg
+livymorph.irrpquisque13#lexent.n40248#cuique#fem#dat#sg
+livymorph.irrpquisque14#lexent.n40248#quemque#fem#acc#sg
+livymorph.irrpquisque15#lexent.n40248#quoque#fem#abl#sg
 
-plinymorph.irrpquisque16#lexent.n40248#quaeque#fem#nom#pl
-plinymorph.irrpquisque17#lexent.n40248#quarumque#fem#gen#pl
-plinymorph.irrpquisque18#lexent.n40248#quibusque#fem#dat#pl
-plinymorph.irrpquisque19#lexent.n40248#quasque#fem#acc#pl
-plinymorph.irrpquisque20#lexent.n40248#quibusque#fem#abl#pl
+livymorph.irrpquisque16#lexent.n40248#quaeque#fem#nom#pl
+livymorph.irrpquisque17#lexent.n40248#quarumque#fem#gen#pl
+livymorph.irrpquisque18#lexent.n40248#quibusque#fem#dat#pl
+livymorph.irrpquisque19#lexent.n40248#quasque#fem#acc#pl
+livymorph.irrpquisque20#lexent.n40248#quibusque#fem#abl#pl
 
-plinymorph.irrpquisque21#lexent.n40248#quidque#neut#nom#sg
-plinymorph.irrpquisque22#lexent.n40248#cuiusque#neut#gen#sg
-plinymorph.irrpquisque23#lexent.n40248#cuique#neut#dat#sg
-plinymorph.irrpquisque24#lexent.n40248#quidque#neut#acc#sg
-plinymorph.irrpquisque25#lexent.n40248#quoque#neut#abl#sg
+livymorph.irrpquisque21#lexent.n40248#quidque#neut#nom#sg
+livymorph.irrpquisque22#lexent.n40248#cuiusque#neut#gen#sg
+livymorph.irrpquisque23#lexent.n40248#cuique#neut#dat#sg
+livymorph.irrpquisque24#lexent.n40248#quidque#neut#acc#sg
+livymorph.irrpquisque25#lexent.n40248#quoque#neut#abl#sg
 
-plinymorph.irrpquisque26#lexent.n40248#quaeque#neut#nom#pl
-plinymorph.irrpquisque27#lexent.n40248#quorumque#neut#gen#pl
-plinymorph.irrpquisque28#lexent.n40248#quibusque#neut#dat#pl
-plinymorph.irrpquisque29#lexent.n40248#quaeque#neut#acc#pl
-plinymorph.irrpquisque30#lexent.n40248#quibusque#neut#abl#pl
+livymorph.irrpquisque26#lexent.n40248#quaeque#neut#nom#pl
+livymorph.irrpquisque27#lexent.n40248#quorumque#neut#gen#pl
+livymorph.irrpquisque28#lexent.n40248#quibusque#neut#dat#pl
+livymorph.irrpquisque29#lexent.n40248#quaeque#neut#acc#pl
+livymorph.irrpquisque30#lexent.n40248#quibusque#neut#abl#pl

@@ -1,2 +1,8 @@
 RuleUrn#InflectionClasses#Ending#Degree
-advnfl.us_a_um1#us_a_um#e#pos
+livymorph.advinfl_us_a_um1#us_a_um#e#pos
+livymorph.advinfl_us_a_um2#us_a_um#ius#pos
+livymorph.advinfl_us_a_um3#us_a_um#issime#pos
+
+livymorph.advinfl_ex_icis1#ex_icis#iciter#pos
+livymorph.advinfl_ex_icis2#ex_icis#icius#pos
+livymorph.advinfl_ex_icis3#ex_icis#icissime#pos

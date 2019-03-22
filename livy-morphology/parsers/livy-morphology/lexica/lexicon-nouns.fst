@@ -1,0 +1,9 @@
+<u>horacemorph\.n1</u><u>ls\.n39429</u>puer<noun><masc><0_i>
+<u>horacemorph\.n2</u><u>ls\.n3118</u>apparat<noun><masc><us_us>
+<u>horacemorph\.n3</u><u>ls\.n36067</u>philyr<noun><fem><a_ae>
+<u>horacemorph\.n4</u><u>ls\.n11234</u>coron<noun><fem><a_ae>
+<u>horacemorph\.n5</u><u>ls\.n41857</u>ros<noun><fem><a_ae>
+<u>horacemorph\.n6</u><u>ls\.n26903</u>loc<noun><masc><us_i>
+<u>horacemorph\.n7</u><u>ls\.n30292</u>myrt<noun><fem><us_i>
+<u>horacemorph\.n8</u><u>ls\.n29144</u>minist<noun><masc><er_ri>
+<u>horacemorph\.n9</u><u>ls\.n51188</u>vit<noun><fem><is_is>
