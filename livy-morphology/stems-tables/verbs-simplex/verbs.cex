@@ -9,7 +9,7 @@ livymorph.verb7#ls.n29328#mis#pftact
 livymorph.verb8#ls.n29328#miss#pftpass
 livymorph.verb9#ls.n43251#sect#conj1
 livymorph.verb10#ls.n29751#mor#conj1
-livymorph.verb11#ls.n12025#cur#conj1
+
 livymorph.verb12#ls.n5275#bib#conj3
 livymorph.verb13#ls.n25504#labor#conj1
 livymorph.verb14#ls.n1605#ag#conj3
@@ -211,8 +211,8 @@ livymorph.verb203#ls.n38619#proficisc#c3pres
 livymorph.verb204#ls.n38619#profect#pftpass
 livymorph.verb205#ls.n38920#propiti#conj1
 livymorph.verb206#ls.n37010#pon#c3pres
-livymorph.verb207#ls.n37010#posu#pftpass
-livymorph.verb208#ls.n37010#posit#conj1
+livymorph.verb207#ls.n37010#posu#pftact
+livymorph.verb208#ls.n37010#posit#pftpass
 livymorph.verb209#ls.n36695#plor#conj1
 livymorph.verb210#ls.n34700#procipio#c3iopres
 livymorph.verb211#ls.n34700#procep#pftact
