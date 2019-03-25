@@ -24,7 +24,7 @@ def hyphenateQue(wordList: Vector[String] = ques, corpus: String = src): String 
     val replacementVal = queRe.replaceFirstIn(" " + wordList.head, "-que")
     println(s"\nReplace ${wordList.head} with ${replacementVal}...")
     println("and recurse on list.")
-    hyphenateQue(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
+    hyphenateQue(wordList.tail, corpus.replaceAll(" " + wordList.head, replacementVal))
   }
 }
 
@@ -38,7 +38,7 @@ def hyphenateVe(wordList: Vector[String] = ves, corpus: String = src): String = 
     val replacementVal = veRe.replaceFirstIn(" " + wordList.head, "-ve")
     println(s"\nReplace ${wordList.head} with ${replacementVal}...")
     println("and recurse on list.")
-    hyphenateVe(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
+    hyphenateVe(wordList.tail, corpus.replaceAll(" " + wordList.head, replacementVal))
   }
 }
 
@@ -51,7 +51,7 @@ def hyphenateNe(wordList: Vector[String] = nes, corpus: String = src): String = 
     val replacementVal = neRe.replaceFirstIn(" " + wordList.head, "-ne")
     println(s"\nReplace ${wordList.head} with ${replacementVal}...")
     println("and recurse on list.")
-    hyphenateNe(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
+    hyphenateNe(wordList.tail, corpus.replaceAll(" " + wordList.head, replacementVal))
   }
 }
 
@@ -61,4 +61,9 @@ def hyphenateAll: String = {
   val allRemoved = hyphenateNe(corpus = veStripped)
 
   allRemoved
+}
+
+def writeCorpus(f: String = "livy-enclitics-omar.cex") = {
+  val txt = hyphenateAll
+  new PrintWriter(f){write (txt); close;}
 }
