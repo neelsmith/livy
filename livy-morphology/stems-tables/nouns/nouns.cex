@@ -1,13 +1,6 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass
-livymorph.n1#ls.n39429#puer#masc#0_i
-livymorph.n2#ls.n3118#apparat#masc#us_us
-livymorph.n3#ls.n36067#philyr#fem#a_ae
-livymorph.n4#ls.n11234#coron#fem#a_ae
-livymorph.n5#ls.n41857#ros#fem#a_ae
+
 livymorph.n6#ls.n26903#loc#masc#us_i
-livymorph.n7#ls.n30292#myrt#fem#us_i
-livymorph.n8#ls.n29144#minist#masc#er_ri
-livymorph.n9#ls.n51188#vit#fem#is_is
 livymorph.n10#ls.n2698#ann#masc#us_i
 livymorph.n11#ls.n2636#anim#masc#us_i
 livymorph.n12#ls.n26431#le#fem#x_gis
@@ -207,11 +200,9 @@ livymorph.n204#ls.n26011#latin#neut#us_i
 livymorph.n205#ls.n26169#legat#masc#us_i
 livymorph.n206#ls.n26173#legi#fem#o_onis
 livymorph.n207#ls.n26556#licini#masc#us_i
-livymorph.n208#ls.n26970#long#fem#a_ae
 livymorph.n209#ls.n27607#magistrat#masc#us_us
 livymorph.n210#ls.n28007#marci#masc#us_i
-livymorph.n211#ls.n29104#min#fem#a_ae
-livymorph.n212#ls.n23105#min#fem#a_ae
+livymorph.n212#ls.n29109#min#fem#a_ae
 livymorph.n213#ls.n29148#ministeri#neut#us_i
 livymorph.n214#ls.n29219#miracul#neut#us_i
 livymorph.n215#livylex.nouns6#antia#fem#s_tis
