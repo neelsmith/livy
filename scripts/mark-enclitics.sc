@@ -38,7 +38,7 @@ def hyphenateVe(wordList: Vector[String] = ves, corpus: String = src): String = 
     val replacementVal = veRe.replaceFirstIn(" " + wordList.head, "-ve")
     println(s"\nReplace ${wordList.head} with ${replacementVal}...")
     println("and recurse on list.")
-    hyphenateQue(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
+    hyphenateVe(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
   }
 }
 
@@ -51,7 +51,7 @@ def hyphenateNe(wordList: Vector[String] = nes, corpus: String = src): String = 
     val replacementVal = neRe.replaceFirstIn(" " + wordList.head, "-ne")
     println(s"\nReplace ${wordList.head} with ${replacementVal}...")
     println("and recurse on list.")
-    hyphenateQue(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
+    hyphenateNe(wordList.tail, corpus.replaceAll(wordList.head, replacementVal))
   }
 }
 
