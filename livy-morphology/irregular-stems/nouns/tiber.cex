@@ -1,0 +1,10 @@
+StemUrn#LexicalEntity#String#Gender#Case#Number
+
+livymorph.irrntiber1#lexent.n48300#tiberis#masc#nom#sg
+livymorph.irrntiber2#lexent.n48300#tiberis#masc#gen#sg
+livymorph.irrntiber3#lexent.n48300#tiberi#masc#dat#sg
+livymorph.irrntiber4#lexent.n48300#tiberem#masc#acc#sg
+livymorph.irrntiber4b#lexent.n48300#tiberim#masc#acc#sg
+livymorph.irrntiber5#lexent.n48300#tiberi#masc#abl#sg
+livymorph.irrntiber5b#lexent.n48300#tibere#masc#abl#sg
+livymorph.irrntiber6#lexent.n48300#tiberis#masc#voc#sg

@@ -26,3 +26,16 @@ livymorph.s_tis21b#s_tis#tis#fem#acc#pl
 livymorph.s_tis22#s_tis#tibus#fem#abl#pl
 livymorph.s_tis23#s_tis#s#fem#voc#sg
 livymorph.s_tis24#s_tis#tes#fem#voc#pl
+
+livymorph.s_tis25#s_tis#s#neut#nom#sg
+livymorph.s_tis26#s_tis#tis#neut#gen#sg
+livymorph.s_tis27#s_tis#ti#neut#dat#sg
+livymorph.s_tis28#s_tis#s#neut#acc#sg
+livymorph.s_tis29#s_tis#te#neut#abl#sg
+livymorph.s_tis30#s_tis#tia#neut#nom#pl
+livymorph.s_tis31#s_tis#tium#neut#gen#pl
+livymorph.s_tis32#s_tis#tibus#neut#dat#pl
+livymorph.s_tis33#s_tis#tia#neut#acc#pl
+livymorph.s_tis34#s_tis#tibus#neut#abl#pl
+livymorph.s_tis35#s_tis#s#neut#voc#sg
+livymorph.s_tis36#s_tis#tes#neut#voc#pl
