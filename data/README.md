@@ -7,8 +7,12 @@ Data sets in this directory are derived from CEX editions in the `editions` dire
 
 `livyLexIndex.cex`:  a two-column file giving CTS URN and string value for every lexical token in `editions/livy-omar-enclitics.cex`.
 
+`livyLexIndexLc.cex`:  a two-column file giving CTS URN and string value for every lexical token in `editions/livy-omar-enclitics.cex` with string values in lower case only.
+
+
+
 `mtLexIndex.cex`:  a two-column file giving CTS URN and string value for every lexical token in selections in Minkova and Tunberg's textbook.
 
-`livyWordList.txt`:  unique string values found in `LivyLexIndex.cex`
+`livyWordListLc.txt`:  unique string values found in `LivyLexIndexLc.cex` (suitable for morphological parsing)
 
 `mtWordList.txt`:  unique string values found in `mtLexIndex.cex`
