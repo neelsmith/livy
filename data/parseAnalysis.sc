@@ -88,7 +88,19 @@ def fails(parseString: String) : Vector[String] = {
 * entry in the analyses Vector.
 * @param analyses Full analytical data for analyses.
 */
-case class TokenEntityMatches (tkn: String, ids: Vector[String], analyses: Vector[String])
+case class TokenEntityMatches (tkn: String, ids: Vector[String], analyses: Vector[String]) {
+
+  def analysisContains(s: String)  : Boolean = {
+    val tf = for (lysis <- analyses) yield {
+      if (lysis.contains(s)) {
+        true
+      } else {
+        false
+      }
+    }
+    tf.filter(_ == true).nonEmpty
+  }
+}
 
 
 
@@ -136,6 +148,40 @@ def lemmaFormMap(teMatches: Vector[TokenEntityMatches]) : Map[String, Vector[Str
 */
 case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHisto: Vector[(String,Int)], analyticalData : Vector[TokenEntityMatches]) {
 
+
+  def analysesForToken(t: String) = {
+    analyticalData.filter(_.tkn == t)
+  }
+
+  /** Count occurrences of tokens with analysis matching
+  * a give string.
+  *
+  * @param s String to look for.
+  */
+  def countTokensMatching(s: String) = {
+    occurrencesForTokens(analysisContains(s))
+  }
+
+  /** Count total occurrences of a group of tokens.
+  *
+  * @param tkns List of tokens to count.
+  */
+  def occurrencesForTokens(tkns: Vector[String]) : Int = {
+    def counts =  for (t <- tkns) yield {
+      tokenOccurrences(t)
+    }
+    counts.flatten.sum
+  }
+
+  /** Find token for analysis containing a String.
+  *
+  * @param s String to look for.
+  */
+  def analysisContains(s: String) = {
+    analyticalData.filter(_.analysisContains(s)).map(_.tkn)
+  }
+
+
   /** Count occurrences of a given token in the corpus.
   *
   * @param tkn Token to count.
@@ -148,7 +194,6 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
       case _ => {println("Multiple matches found for " + tkn + "."); None}
     }
   }
-
 
   /** Count occurrences of a given lexical entity in the corpus.
   *
@@ -180,6 +225,9 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
     counts.toVector.sortBy(_._2).reverse
   }
 
+  /** Histogram of occurrences of lexical entities in this corpus
+  * including labels for lexical entities
+  .*/
   def labelledLemmaHisto = {
     val counts = for (lex <- lexicalEntities) yield {
       (lex,labelForId(lex),lemmaOccurrences(lex).get )
