@@ -2,9 +2,9 @@ import scala.io.Source
 import java.io.PrintWriter
 
 val editionFile = "editions/livy-omar.cex"
-val encliticQueFile = "data/livy-encl-que.txt"
-val encliticVeFile = "data/livy-encl-ve.txt"
-val encliticNeFile = "data/livy-encl-ne.txt"
+val encliticQueFile = "data/enclitic-lists/livy-encl-que.txt"
+val encliticVeFile = "data/enclitic-lists/livy-encl-ve.txt"
+val encliticNeFile = "data/enclitic-lists/livy-encl-ne.txt"
 
 
 def hyphenate(enclitic: String, re: scala.util.matching.Regex, wordList: Vector[String], corpus: String): String = {
@@ -47,3 +47,5 @@ def writeCorpus(f: String = "livy-enclitics-omar.cex") = {
   val txt = hyphenateAll
   new PrintWriter(f){write (txt); close;}
 }
+
+//ac foro Capitolioque mulierum turba
