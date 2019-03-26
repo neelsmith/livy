@@ -22,4 +22,4 @@ Digital texts of Livy's *History* and the *Periochae*
 
 To begin or resume a docker session, first load this scala script:  `:load /workspace/scripts/tabulae.sc`
 
-For a summary of functions available from this script, run `guide
+For a summary of functions available from this script, run `guide`
