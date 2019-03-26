@@ -9,6 +9,40 @@ val mtParses : String = Source.fromFile("mtParses.txt").getLines.mkString("\n")
 val livy6bkParses : String = Source.fromFile("sixBooksParsed.txt").getLines.mkString("\n")
 val livyParses : String = Source.fromFile("livy-all-parsed.txt").getLines.mkString("\n")
 
+val lsLabels : Vector[String] = Source.fromFile("ls-id-labels.txt").getLines.toVector
+
+def makeLabelMap = {
+  val tidy = for (label <- lsLabels) yield {
+    val columns = label.split("#").toVector
+    columns.size match {
+      case 2 => {
+        val id = columns(0).replaceAll(".+\\.","")
+        val txt = columns(1).replaceAll("[_^]","")
+        (id, txt)
+      }
+      case _ => {
+        //println("FAILED on " + columns)
+        ("","")
+      }
+    }
+
+  }
+  tidy.toVector
+}
+
+val labelMap = makeLabelMap
+
+def labelForId(id: String) : String = {
+  val idValue = id.replaceAll(".+\\.","")
+  val matches = labelMap.filter(_._1 == idValue)
+  matches.size match {
+    case 1 =>  matches(0)._2
+    case 0 => { println("No match for " + id); ""}
+    case _ => { println("Multiple matches for " + id); ""}
+
+  }
+
+}
 
 /** Read given index file and compute histogram of token occurrences.
 *
@@ -145,6 +179,8 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
     }
     counts.toVector.sortBy(_._2).reverse
   }
+
+
 }
 
 
