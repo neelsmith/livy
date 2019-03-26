@@ -37,8 +37,8 @@ def labelForId(id: String) : String = {
   val matches = labelMap.filter(_._1 == idValue)
   matches.size match {
     case 1 =>  matches(0)._2
-    case 0 => { println("No match for " + id); ""}
-    case _ => { println("Multiple matches for " + id); ""}
+    case 0 => { "" } //println("No match for " + id); ""}
+    case _ => { "" } //println("Multiple matches for " + id); ""}
 
   }
 
@@ -180,7 +180,12 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
     counts.toVector.sortBy(_._2).reverse
   }
 
-
+  def labelledLemmaHisto = {
+    val counts = for (lex <- lexicalEntities) yield {
+      (lex,labelForId(lex),lemmaOccurrences(lex).get )
+    }
+    counts.toVector.sortBy(_._3).reverse
+  }
 }
 
 
