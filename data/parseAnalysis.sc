@@ -149,6 +149,16 @@ def lemmaFormMap(teMatches: Vector[TokenEntityMatches]) : Map[String, Vector[Str
 case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHisto: Vector[(String,Int)], analyticalData : Vector[TokenEntityMatches]) {
 
 
+  def analysisPct(ptrn: String) = {
+    val matchingTokens = analyticalData.filter(_.analysisContains(ptrn)).map(_.tkn)
+    val matches = occurrencesForTokens(matchingTokens)
+    (matches.toDouble / numberAnalyzed) * 100
+  }
+
+  def corpusSize = tokenHisto.map(_._2).sum
+
+  def numberAnalyzed = analyticalData.size
+
   def analysesForToken(t: String) = {
     analyticalData.filter(_.tkn == t)
   }
@@ -289,6 +299,24 @@ def summarizeAnalyses(parseString: String): Unit = {
 // Get a lemmatized MT:
 val mtLemmatized = lemmatizedFromParses(mtParses,mtHisto)
 
+// first 6 sixBooksParsed
+val sixBooksLemmatized = lemmatizedFromParses(livy6bksParses, l6Histo)
 // ALl of Livy:
 val livyLemmatized = lemmatizedFromParses(livyParses,livyHisto)
+*/
+
+
+/*
+livyLemmatized.countTokensMatching("<pres><subj>")
+livyLemmatized.countTokensMatching("<pft><subj>")
+livyLemmatized.countTokensMatching("<impft><subj>")
+livyLemmatized.countTokensMatching("<plupft><subj>")
+
+
+mtLemmatized.countTokensMatching("<pres><subj>")
+mtLemmatized.countTokensMatching("<pft><subj>")
+mtLemmatized.countTokensMatching("<impft><subj>")
+mtLemmatized.countTokensMatching("<plupft><subj>")
+
+
 */
