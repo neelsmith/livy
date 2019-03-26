@@ -17,14 +17,20 @@ import scala.io.Source
 import sys.process._
 import scala.language.postfixOps
 
-val compiler = "/usr/bin/fst-compiler-utf8"
-val fstinfl = "/usr/bin/fst-infl"
 val make = "/usr/bin/make"
+
+// Default on Mac OS:
+val compiler = "/usr/local/bin/fst-compiler-utf8"
+val fstinfl = "/usr/local/bin/fst-infl"
+
+// Default on Linux:
+//val compiler = "/usr/bin/fst-compiler-utf8"
+//val fstinfl = "/usr/bin/fst-infl"
 
 
 def fullCorpus :  O2Corpus = {
   println("Assembling complete corpus...")
-  val c =  TextRepositorySource.fromCexFile("editions/livy-omar.cex").corpus
+  val c =  TextRepositorySource.fromCexFile("editions/livy-omar-enclitics.cex").corpus
   println("Done.")
   c
 }
@@ -78,11 +84,16 @@ def parse(wordsFile : String = "words.txt") : String = {
   cmd !!
 }
 
+def writeParse(wordsFile: String = "words.txt", output: String = "output.txt") : Unit = {
+  val parses = parse(wordsFile)
+  new PrintWriter(output) {write(parses); close;}
+}
+
 def wordList(corpus: O2Corpus, wordsFile: String = "words.txt") = {
   val tokens = Latin24Alphabet.tokenizeCorpus(corpus)
   val lexical = tokens.filter(_.tokenCategory.toString == "Some(LexicalToken)")
-  val wordList = lexical.map(_.string.toLowerCase).distinct.sorted
-  new PrintWriter(wordsFile) { write(wordList.mkString("\n")); close;}
+  val words = lexical.map(_.string.toLowerCase).distinct.sorted
+  new PrintWriter(wordsFile) { write(words.mkString("\n")); close;}
 }
 
 case class Freq(string: String, count: Int)
