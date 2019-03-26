@@ -17,7 +17,7 @@ def makeLabelMap = {
     columns.size match {
       case 2 => {
         val id = columns(0).replaceAll(".+\\.","")
-        val txt = columns(1).replaceAll("[_^]","")
+        val txt = columns(1).replaceAll("[_^0-9]","")
         (id, txt)
       }
       case _ => {
@@ -41,7 +41,12 @@ def labelForId(id: String) : String = {
     case _ => { "" } //println("Multiple matches for " + id); ""}
 
   }
+}
 
+def labelsForIds(idList: Vector[String]): Vector[(String,String)] = {
+  for (id <- idList) yield {
+    (id, labelForId(id))
+  }
 }
 
 /** Read given index file and compute histogram of token occurrences.
@@ -148,6 +153,11 @@ def lemmaFormMap(teMatches: Vector[TokenEntityMatches]) : Map[String, Vector[Str
 */
 case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHisto: Vector[(String,Int)], analyticalData : Vector[TokenEntityMatches]) {
 
+  def lemmataForAnalysesContaining(s: String) = { //: Vector[String] = {
+      lemmataForTokens(analysisContains(s))
+  }
+
+
 
   def analysisPct(ptrn: String) = {
     val matchingTokens = analyticalData.filter(_.analysisContains(ptrn)).map(_.tkn)
@@ -158,6 +168,13 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
   def corpusSize = tokenHisto.map(_._2).sum
 
   def numberAnalyzed = analyticalData.size
+
+  def lemmataForTokens(tkns: Vector[String]) = {//: Vector[String]= {
+    val allLemmata = for (tkn <- tkns) yield {
+      lemmaMappings.filter(_._2.contains(tkn)).map(_._1)
+    }
+    allLemmata.flatten.distinct
+  }
 
   def analysesForToken(t: String) = {
     analyticalData.filter(_.tkn == t)
@@ -183,11 +200,18 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
     counts.flatten.sum
   }
 
+  def occurrencesForLemmata(lemms: Vector[String]): Int = {
+    def counts = for (lemm <- lemms) yield {
+      lemmaOccurrences(lemm)
+    }
+    counts.flatten.sum
+  }
+
   /** Find token for analysis containing a String.
   *
   * @param s String to look for.
   */
-  def analysisContains(s: String) = {
+  def analysisContains(s: String) : Vector[String] = {
     analyticalData.filter(_.analysisContains(s)).map(_.tkn)
   }
 
@@ -225,6 +249,15 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
 
   /** Set of lexical entities present in this corpus.*/
   def lexicalEntities: Vector[String] = lemmaMappings.keySet.toSeq.sorted.toVector
+
+
+  def labelledHistoForList(lemmata: Vector[String]) = {
+    val histo = for (lemma <- lemmata) yield {
+      (lemma, labelForId(lemma), lemmaOccurrences(lemma).getOrElse(0))
+    }
+    histo.sortBy(_._3).reverse
+  }
+
 
 
   /** Histogram of occurrences of lexical entities in this corpus.*/
