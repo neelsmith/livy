@@ -12,13 +12,13 @@ def hyphenate(enclitic: String, re: scala.util.matching.Regex, wordList: Vector[
     corpus
   } else {
 
-    val lcPattern = re.replaceFirstIn(" " + wordList.head, enclitic)
-    val lcCorpus = corpus.replaceAll(" " + wordList.head + "([^a-zA-Z])", lcPattern + "$1")
+    val lcPattern = re.replaceFirstIn(wordList.head, enclitic)
+    val lcCorpus = corpus.replaceAll("([^a-zA-Z])" + wordList.head + "([^a-zA-Z])", "$1" + lcPattern + "$2")
 
     println(s"\nReplace ${wordList.head} with ${lcPattern}...")
 
-    val ucPattern = re.replaceFirstIn(" " + wordList.head.capitalize, enclitic)
-    val newCorpus = lcCorpus.replaceAll(" " + wordList.head.capitalize + "([^a-zA-Z])",ucPattern + "$1")
+    val ucPattern = re.replaceFirstIn(wordList.head.capitalize, enclitic)
+    val newCorpus = lcCorpus.replaceAll("([^a-zA-Z])" + wordList.head.capitalize + "([^a-zA-Z])","$1" + ucPattern + "$2")
 
     println(s"\nReplace ${wordList.head.capitalize} with ${ucPattern}...")
     println("and recurse on list.")
@@ -47,5 +47,3 @@ def writeCorpus(f: String = "livy-enclitics-omar.cex") = {
   val txt = hyphenateAll
   new PrintWriter(f){write (txt); close;}
 }
-
-//ac foro Capitolioque mulierum turba
