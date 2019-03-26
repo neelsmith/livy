@@ -35,6 +35,11 @@ def fullCorpus :  O2Corpus = {
   c
 }
 
+def livy(corpus: O2Corpus = fullCorpus) : O2Corpus = {
+   val livyUrn = CtsUrn("urn:cts:omar:stoa0179.stoa001.omar:")
+   corpus ~~ livyUrn
+}
+
 
 def minkovaTunberg(corpus: O2Corpus =  fullCorpus) :  O2Corpus = {
     println("Extracting Minkova-Tunberg subcorpus...")
@@ -164,3 +169,15 @@ println("\n(THRESHOLD is optional: default is 100)")
 
 println("\n\nFor a quick guide:")
 println("\n\tguide")
+
+/*
+Also:
+
+tokenize, filter for lex tokens, write out index.
+e.g.,
+
+ val livyTokens  = Latin24Alphabet.tokenizeCorpus(livy)
+ val livyLex = livyTokens.filter(_.tokenCategory.toString == "Some(LexicalToken)")
+ val livyLexCex = livyLex.map(tkn => s"${tkn.string}#${tkn.urn}").mkString("\n")
+new PrintWriter("livyLexIndex.cex") {write(livyLexCex);close;}
+*/
