@@ -7,6 +7,8 @@ val livyWordList = "livyLexIndexLc.cex"
 
 val mtParses : String = Source.fromFile("mtParses.txt").getLines.mkString("\n")
 val livy6bkParses : String = Source.fromFile("sixBooksParsed.txt").getLines.mkString("\n")
+val livyParses : String = Source.fromFile("livy-all-parsed.txt").getLines.mkString("\n")
+
 
 def histoFromIndex(fName: String): Vector[(String, Int)] = {
   val wordIndex = Source.fromFile(fName).getLines.toVector
@@ -134,17 +136,9 @@ def summarizeAnalyses(parseString: String): Unit = {
 }
 
 /*
-//Do the magic:
+// Get a lemmatized MT:
+val mtLemmatized = lemmatizedFromParses(mtParses,mtHisto)
 
-//compute lemmaMappings:
-val mtTEM = tokenToEntity(mtParses)
-// get map of lemma to forms
-val mtFormMap = lemmaFormMap(mtTEM)
-
-
-//use apropriate token histogram (eg, mtHisto),
-// and create a LemmatizedCorpus
-
-val mtLemmatized = LemmatizedCorpus(mtFormMap, mtHisto)
-
+// ALl of Livy:
+val livyLemmatized = lemmatizedFromParses(livyParses,livyHisto)
 */
