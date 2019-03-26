@@ -75,12 +75,6 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
       val tokens = lemmaMappings(id)
       val counts = tokens.map(tokenOccurrences(_)).flatten.map(_.toInt)
       Some(counts.sum)
-      /*
-      counts.size match {
-        case 0 => None
-        case _ => Some(counts.sum)
-      }*/
-
 
     } catch {
       case nse: java.util.NoSuchElementException => {
@@ -88,6 +82,16 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
         None
       }
     }
+  }
+
+  def lexicalEntities: Vector[String] = lemmaMappings.keySet.toSeq.sorted.toVector
+
+  def lemmaHisto = {
+
+    val counts = for (lex <- lexicalEntities) yield {
+      (lex,lemmaOccurrences(lex).get )
+    }
+    counts.toVector.sortBy(_._2).reverse
   }
 }
 
