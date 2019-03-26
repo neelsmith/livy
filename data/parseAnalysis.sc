@@ -10,6 +10,12 @@ val livy6bkParses : String = Source.fromFile("sixBooksParsed.txt").getLines.mkSt
 val livyParses : String = Source.fromFile("livy-all-parsed.txt").getLines.mkString("\n")
 
 
+/** Read given index file and compute histogram of token occurrences.
+*
+* @param fName Name of index file.  For use with morphological data, this
+* should be one of the files named *Lc.cex (listed above) with all tokens
+* converted to lower case only.
+*/
 def histoFromIndex(fName: String): Vector[(String, Int)] = {
   val wordIndex = Source.fromFile(fName).getLines.toVector
   val wds = for (tkn <- wordIndex) yield {
@@ -22,17 +28,40 @@ def histoFromIndex(fName: String): Vector[(String, Int)] = {
   wds.groupBy(s => s).map { m => (m._1,m._2.size)}.toSeq.sortBy(_._2).reverse.toVector
 }
 
+/** Histogram of tokens in Minkova-Tunberg selections.*/
 def mtHisto = histoFromIndex(mtWordList)
+/** Histogram of tokens in Livy books 1-6.*/
 def l6Histo = histoFromIndex(livy6bksList)
+/** Histogram of tokens in all of Livy.*/
 def livyHisto = histoFromIndex(livyWordList)
 
 
+/** Read a string of output in SFST format and find tokens that
+* failed to parse.
+*
+* @param parseString A string of parser output.
+*/
 def fails(parseString: String) : Vector[String] = {
   parseString.split("\n").filter(_.contains("no result")).toVector.map(s => s.replaceAll("no result for ","")).toVector
 }
 
+
+/** Grouping of a surface token, a Vector of lexical entity identifiers, and a
+* corresponding Vector of complete morphological analyses.
+*
+* @param tkn Surface form (token).
+* @param ids Identifiers for lexical entities.  Each identifier corresponds to one
+* entry in the analyses Vector.
+* @param analyses Full analytical data for analyses.
+*/
 case class TokenEntityMatches (tkn: String, ids: Vector[String], analyses: Vector[String])
 
+
+
+/** From raw parser output, construct a Vector of [[TokenEntityMatches]].
+*
+* @param parseString A string of parser output.
+*/
 def tokenToEntity(parseString: String) : Vector[TokenEntityMatches]= {
   val parsedTokens =   parseString.split("\n").filterNot(_.contains("no result")).mkString("\n").split("> ").toVector.filter(_.nonEmpty)
   val teMatches = for (parse <- parsedTokens) yield {
@@ -47,7 +76,13 @@ def tokenToEntity(parseString: String) : Vector[TokenEntityMatches]= {
   teMatches
 }
 
-def lemmaFormMap(teMatches: Vector[TokenEntityMatches]) = {
+
+/** Given a group of [[TokenEntityMatches]], compute the mapping of lexical identifiers
+*to attested surface forms.
+*
+* @param teMatches Vector of [[TokenEntityMatches]] to analyze.
+*/
+def lemmaFormMap(teMatches: Vector[TokenEntityMatches]) : Map[String, Vector[String]]= {
   val pairs = for (tem <- teMatches) yield {
     val pairings = for (lexent <- tem.ids) yield {
       (lexent, tem.tkn)
@@ -56,13 +91,21 @@ def lemmaFormMap(teMatches: Vector[TokenEntityMatches]) = {
   }
   val grouped = pairs.flatten.groupBy(_._1)
   grouped.map{ case (k,v) => { val slim = v.map(_._2); (k,slim.distinct) } }
-
 }
 
 
+/** A high-level representation of a lemmatized corpus.
+*
+* @param lemmaMappins Mappings of lexical entity IDs to surface forms (tokens).
+* @param tokenHisto Histogram of token occurrences.
+* @param analyticalData Analytical data for each token.
+*/
+case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHisto: Vector[(String,Int)], analyticalData : Vector[TokenEntityMatches]) {
 
-case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHisto: Vector[(String,Int)]) {
-
+  /** Count occurrences of a given token in the corpus.
+  *
+  * @param tkn Token to count.
+  */
   def tokenOccurrences(tkn: String) : Option[Int] = {
     val found = tokenHisto.filter(_._1 == tkn)
     found.size match {
@@ -72,6 +115,11 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
     }
   }
 
+
+  /** Count occurrences of a given lexical entity in the corpus.
+  *
+  * @id Identifier for the lexical entity to count.
+  */
   def lemmaOccurrences(id: String) : Option[Int] = {
     try {
       val tokens = lemmaMappings(id)
@@ -86,10 +134,12 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
     }
   }
 
+  /** Set of lexical entities present in this corpus.*/
   def lexicalEntities: Vector[String] = lemmaMappings.keySet.toSeq.sorted.toVector
 
-  def lemmaHisto = {
 
+  /** Histogram of occurrences of lexical entities in this corpus.*/
+  def lemmaHisto = {
     val counts = for (lex <- lexicalEntities) yield {
       (lex,lemmaOccurrences(lex).get )
     }
@@ -98,6 +148,12 @@ case class LemmatizedCorpus(lemmaMappings: Map[String, Vector[String]], tokenHis
 }
 
 
+/** Create a [[LemmatizedCorpus]] object from a raw parser output string and a
+* histogram of token occurrences.
+*
+* @parseString A string of parser output.
+* @tokenHisto Histogram of occurrences of each token in the corpus.
+*/
 def lemmatizedFromParses(parseString: String, tokenHisto: Vector[(String,Int)]) : LemmatizedCorpus = {
 
   //compute lemmaMappings:
@@ -105,12 +161,17 @@ def lemmatizedFromParses(parseString: String, tokenHisto: Vector[(String,Int)]) 
   // get map of lemma to forms
   val formMap = lemmaFormMap(teMapping)
 
-
+  val teMatches = tokenToEntity(parseString)
   //use apropriate token histogram (eg, mtHisto),
   // and create a LemmatizedCorpus
-  LemmatizedCorpus(formMap, tokenHisto)
+  LemmatizedCorpus(formMap, tokenHisto, teMatches)
 }
 
+
+/** Print some summary information about the data in a string of parser output.
+*
+* @parseString A String of parser output.
+*/
 def summarizeAnalyses(parseString: String): Unit = {
   val bad = fails(parseString)
   val better = tokenToEntity(parseString)
