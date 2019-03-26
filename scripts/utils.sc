@@ -9,7 +9,7 @@ import java.io.PrintWriter
 // Load OMAR edition of Livy, get URNs for each book, so that
 // when tokenizing the whole thing, we can easily break the task
 // down into manageable sized chunks.
-val repo = TextRepositorySource.fromCexFile("editions/livy-omar.cex")
+val repo = TextRepositorySource.fromCexFile("editions/livy-omar-enclitics.cex")
 val books = repo.corpus.nodes.map(_.urn.collapsePassageTo(1)).distinct
 
 // Tokenize a corpus one unit at a time to avoid exhausting RAM,
